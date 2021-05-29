@@ -1,0 +1,145 @@
+<meta charset="UTF-8"/>
+//--------------------------------------
+// Resource file for CATKnowledgeToolbarHeader Class
+// En_EN
+//--------------------------------------
+
+//--------------------------------------
+// Calculator
+//--------------------------------------
+//CATKnowledgeToolbarHeader.Calculator.Title="Formula...";
+//CATKnowledgeToolbarHeader.Calculator.Help="Creates formulas and parameters to incorporate requirements and design restrictions.";
+//CATKnowledgeToolbarHeader.Calculator.ShortHelp="Formula";
+//CATKnowledgeToolbarHeader.Calculator.LongHelp="Creates formulas and parameters.";
+
+//--------------------------------------
+// Design Table
+//--------------------------------------
+CATKnowledgeToolbarHeader.DesignTable.Title="设计表...";
+
+
+//--------------------------------------
+// Law
+//--------------------------------------
+CATKnowledgeToolbarHeader.CATAfrLawHdr.Title="法则...";
+
+
+//--------------------------------------
+// Mediator
+//--------------------------------------
+CATKnowledgeToolbarHeader.Mediator.Title="知识工程检查工具...";
+
+//--------------------------------------
+// Relations Graph
+//--------------------------------------
+//CATKnowledgeToolbarHeader.RelationsGraph.Title="Knowledge Relations Graph...";
+//CATKnowledgeToolbarHeader.RelationsGraph.Help="Displays the Knowledge Relations Graph";
+//CATKnowledgeToolbarHeader.RelationsGraph.ShortHelp="Knowledge Relations Graph";
+//--------------------------------------
+// Knowledge Monitor
+//--------------------------------------
+CATKnowledgeToolbarHeader.KnowledgeMonitor.Title="知识监视器调试";
+
+//--------------------------------------
+// Create Parameter on PLM Component attribute
+//--------------------------------------
+CATKnowledgeToolbarHeader.CreateParameterOnPLMComp.Title="创建外部参数...";
+CATKnowledgeToolbarHeader.CreateParameterOnPLMComp.Help="创建指向其他参数或 PLM 属性的外部参数";
+CATKnowledgeToolbarHeader.CreateParameterOnPLMComp.ShortHelp="创建外部参数";
+//--------------------------------------
+// URLs & comment
+//--------------------------------------
+CATKnowledgeToolbarHeader.CommentURLHead.Title="URL 和注释...";
+
+//--------------------------------------
+// Lock
+//--------------------------------------
+//CATKnowledgeToolbarHeader.LockParamAllHead.Title="Lock Parameters";
+//CATKnowledgeToolbarHeader.LockParamAllHead.Help="Lock selected parameters...";
+//CATKnowledgeToolbarHeader.LockParamAllHead.LongHelp="Lock selected parameters and parameters under selected features...";
+//CATKnowledgeToolbarHeader.LockParamAllHead.ShortHelp="Lock selected parameters";
+
+//--------------------------------------
+// Unlock
+//--------------------------------------
+//CATKnowledgeToolbarHeader.UnLockParamAllHead.Title="Unlock Parameters";
+//CATKnowledgeToolbarHeader.UnLockParamAllHead.Help="Unlock selected parameters...";
+//CATKnowledgeToolbarHeader.UnLockParamAllHead.LongHelp="Unlock selected parameters and parameters under selected features...";
+//CATKnowledgeToolbarHeader.UnLockParamAllHead.ShortHelp="Unlock selected parameters";
+
+//--------------------------------------
+// EquivalentDimensions
+//--------------------------------------
+CATKnowledgeToolbarHeader.EquivalentDimensionsHead.Title="等效尺寸...";
+
+
+//--------------------------------------
+// TPUICreationHead
+//--------------------------------------
+//CATKnowledgeToolbarHeader.NewTechnoRep.Title="Knowledge Engineering Specification";
+
+
+//--------------------------------------
+// Report Generation
+//--------------------------------------
+//CATKnowledgeToolbarHeader.ReportGeneration.Title="Knowledge Report";
+//CATKnowledgeToolbarHeader.ReportGeneration.Help="Generate the Report on the Defined Attributes...";
+//CATKnowledgeToolbarHeader.ReportGeneration.LongHelp="Generate the Report on the Defined Attribute...";
+//CATKnowledgeToolbarHeader.ReportGeneration.ShortHelp="Report Generation";
+
+//---------------------------------------
+// Add Customer extension
+//--------------------------------------
+//CATKnowledgeToolbarHeader.AddCustoExtensionHdr.Title="Customer Extensions...";
+//CATKnowledgeToolbarHeader.AddCustoExtensionHdr.Help="Manage Customer Extensions...";
+//CATKnowledgeToolbarHeader.AddCustoExtensionHdr.LongHelp="Adds or removes a Customer Extension on the selected object...";
+//CATKnowledgeToolbarHeader.AddCustoExtensionHdr.ShortHelp="Manage Customer Extensions";
+
+CATKnowledgeToolbarHeader.PKTProductTableHdr.Title="产品表";
+
+
+
+//---------------------------------------
+// PlmParameter
+//--------------------------------------
+CATKnowledgeToolbarHeader.PlmParameterHdr.Title="插入新对象参数...";
+CATKnowledgeToolbarHeader.AddExistingPlmParameterHdr.Title="插入现有对象参数...";
+
+
+//CATKnowledgeToolbarHeader.KBEInstantiateHdr.Title="KML Concept Instantiation";
+//CATKnowledgeToolbarHeader.KBEInstantiateHdr.Help="KML Concept Instantiation in current Context";
+//CATKnowledgeToolbarHeader.KBEInstantiateHdr.LongHelp="KML Concept Instantiation in current Context";
+//CATKnowledgeToolbarHeader.KBEInstantiateHdr.ShortHelp="KML Concept Instantiation in current Context";
+
+//CATKnowledgeToolbarHeader.KBEInstantiateDebugHdr.Title="KML Concept Instantiation (DEBUG)";
+//CATKnowledgeToolbarHeader.KBEInstantiateDebugHdr.Help="KML Concept Instantiation in current Context (DEBUG)";
+//CATKnowledgeToolbarHeader.KBEInstantiateDebugHdr.LongHelp="KML Concept Instantiation in current Context (DEBUG)";
+//CATKnowledgeToolbarHeader.KBEInstantiateDebugHdr.ShortHelp="KML Concept Instantiation in current Context (DEBUG)";
+
+//CATKnowledgeToolbarHeader.KBETemplateInstantiateHdr.Title="KML Template Instantiation";
+//CATKnowledgeToolbarHeader.KBETemplateInstantiateHdr.Help="KML Template Instantiation in current Context";
+//CATKnowledgeToolbarHeader.KBETemplateInstantiateHdr.LongHelp="KML Template Instantiation in current Context";
+//CATKnowledgeToolbarHeader.KBETemplateInstantiateHdr.ShortHelp="KML Template Instantiation in current Context";
+
+CATKnowledgeToolbarHeader.KWEUpdateDataHdr.Title="自动知识重放";
+
+
+CATKnowledgeToolbarHeader.PKTInstantiatePLMTemplateHdr.Title="工程模板实例化";
+
+
+CATKnowledgeToolbarHeader.KweResourceTableHdr.Title="资源表";
+
+CATKnowledgeToolbarHeader.KweActionRun.Title="运行...";
+CATKnowledgeToolbarHeader.KweActionRun.Help="运行";
+CATKnowledgeToolbarHeader.KweActionRun.LongHelp="运行";
+CATKnowledgeToolbarHeader.KweActionRun.ShortHelp="运行";
+
+CATKnowledgeToolbarHeader.KweSmartActionRun.Title="运行...";
+CATKnowledgeToolbarHeader.KweSmartActionRun.Help="运行";
+CATKnowledgeToolbarHeader.KweSmartActionRun.LongHelp="运行";
+CATKnowledgeToolbarHeader.KweSmartActionRun.ShortHelp="运行";
+
+CATKnowledgeToolbarHeader.KwePatternExecution.Title="执行";
+CATKnowledgeToolbarHeader.KwePatternExecution.Help="执行知识工程阵列";
+CATKnowledgeToolbarHeader.KwePatternExecution.LongHelp="执行知识工程阵列。此命令仅在特征并非最新时才可用";
+CATKnowledgeToolbarHeader.KwePatternExecution.ShortHelp="执行知识工程阵列";

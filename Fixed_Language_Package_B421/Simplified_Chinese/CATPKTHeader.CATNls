@@ -1,0 +1,140 @@
+<meta charset="UTF-8"/>
+CATAfrPKTToolbar.Title="3D 模板工具栏";
+CATAfrPKTMenu.Title="3D 模板";
+
+CATAfrPKTCreateToolbox.Title="3D 模板创建工具栏";
+CATAfrPKTInstantiateToolbox.Title="3D 模板实例化工具栏";
+
+
+CATPKTHeader.PKTScriptHdr.Title="生成的脚本...";
+// CATPKTHeader.PKTScriptHdr.Help="Create a Generative Script";
+// CATPKTHeader.PKTScriptHdr.LongHelp="Create a Generative Script";
+// CATPKTHeader.PKTScriptHdr.ShortHelp="Create a Generative Script";
+
+CATPKTHeader.PKTCreatePowerCopyHdr.Title="超级副本...";
+// CATPKTHeader.PKTCreatePowerCopyHdr.Help="Power Copy";
+// CATPKTHeader.PKTCreatePowerCopyHdr.LongHelp="Power Copy
+// Opens the Power Copy Definition\nwindow to create a Power Copy.";
+// CATPKTHeader.PKTCreatePowerCopyHdr.ShortHelp="Power Copy";
+
+CATPKTHeader.PKTCreateUserFeatureHdr.Title="用户特征...";
+// CATPKTHeader.PKTCreateUserFeatureHdr.Help="User Feature";
+// CATPKTHeader.PKTCreateUserFeatureHdr.LongHelp="User Feature
+// Opens the User Feature Definition\nwindow to create a User Feature.";
+// CATPKTHeader.PKTCreateUserFeatureHdr.ShortHelp="User Feature";
+
+CATPKTHeader.PKTCreateDocTemplateHdr.Title="文档模板...";
+// CATPKTHeader.PKTCreateDocTemplateHdr.Help="Create a Document Template";
+// CATPKTHeader.PKTCreateDocTemplateHdr.LongHelp="Create a Document Template";
+// CATPKTHeader.PKTCreateDocTemplateHdr.ShortHelp="Create a Document Template";
+
+CATPKTHeader.PKTInstanciateSelectHdr.Title="从选择实例化...";
+// CATPKTHeader.PKTInstanciateSelectHdr.Help="Instantiation From Selection";
+// CATPKTHeader.PKTInstanciateSelectHdr.LongHelp="Instantiation From Selection
+// Instantiates a User Feature or\na Power Copy  after selecting it.";
+// CATPKTHeader.PKTInstanciateSelectHdr.ShortHelp="Instantiation From Selection";
+
+CATPKTHeader.PKTInstanciateFromDocHdr.Title="从文档实例化...";
+// CATPKTHeader.PKTInstanciateFromDocHdr.Help="Instantiate From Document";
+// CATPKTHeader.PKTInstanciateFromDocHdr.LongHelp="Instantiate From Document";
+// CATPKTHeader.PKTInstanciateFromDocHdr.ShortHelp="Instantiate From Document";
+
+CATPKTHeader.PKTInstantiateFromRepHdr.Title="从展示实例化...";
+// CATPKTHeader.PKTInstantiateFromRepHdr.Help="Instantiation From Representation";
+// CATPKTHeader.PKTInstantiateFromRepHdr.LongHelp="Instantiation From Representation
+// Instantiates a User Feature or a\nPower Copy from a Representation\nstored in the database.";
+// CATPKTHeader.PKTInstantiateFromRepHdr.ShortHelp="Instantiation From Representation";
+
+CATPKTHeader.PKTSaveInCatalogHdr.Title="保存在目录中...";
+// CATPKTHeader.PKTSaveInCatalogHdr.Help="Save in Catalog";
+// CATPKTHeader.PKTSaveInCatalogHdr.LongHelp="Save in Catalog";
+// CATPKTHeader.PKTSaveInCatalogHdr.ShortHelp="Save in Catalog";
+
+CATPKTHeader.PKTOpenCatalogHdr.Title="目录浏览器";
+// CATPKTHeader.PKTOpenCatalogHdr.Help="Catalog Browser";
+// CATPKTHeader.PKTOpenCatalogHdr.LongHelp="Catalog Browser";
+// CATPKTHeader.PKTOpenCatalogHdr.ShortHelp="Catalog Browser";
+
+
+CATPKTHeader.PKTUdfDebugHdr.Title="用户特征调试";
+// CATPKTHeader.PKTUdfDebugHdr.Help="User Feature Debug";
+// CATPKTHeader.PKTUdfDebugHdr.LongHelp="User Feature Debug
+// Displays the internals of the\nUser Feature for debug purpose.";
+// CATPKTHeader.PKTUdfDebugHdr.ShortHelp="User Feature Debug";
+
+CATPKTHeader.PKTUdfSynchronizeHdr.Title="全部同步";
+// CATPKTHeader.PKTUdfSynchronizeHdr.Help="Synchronize All";
+// CATPKTHeader.PKTUdfSynchronizeHdr.LongHelp="Synchronize All";
+// CATPKTHeader.PKTUdfSynchronizeHdr.ShortHelp="Synchronize All";
+
+CATPKTHeader.PKTUdfSynchronizeHdr2.Title="同步";
+// CATPKTHeader.PKTUdfSynchronizeHdr2.Help="Synchronize";
+// CATPKTHeader.PKTUdfSynchronizeHdr2.LongHelp="Synchronize";
+// CATPKTHeader.PKTUdfSynchronizeHdr2.ShortHelp="Synchronize";
+
+CATPKTHeader.PKTUdfLinkHdr.Title="用户特征链接管理器";
+// CATPKTHeader.PKTUdfLinkHdr.Help="User Feature Link Manager";
+// CATPKTHeader.PKTUdfLinkHdr.LongHelp="User Feature Link Manager";
+// CATPKTHeader.PKTUdfLinkHdr.ShortHelp="User Feature Link Manager";
+
+CATPKTHeader.PKTCreatePatternHdr.Title="知识工程阵列";
+// CATPKTHeader.PKTCreatePatternHdr.Help="Knowledge Pattern";
+// CATPKTHeader.PKTCreatePatternHdr.LongHelp="Knowledge Pattern
+// Opens the Knowledge Pattern editor\nto create a Knowledge Pattern.";
+// CATPKTHeader.PKTCreatePatternHdr.ShortHelp="Knowledge Pattern";
+
+CATPKTHeader.PKTUdfDebugViewerHdr.Title="UDF 调试查看器";
+// CATPKTHeader.PKTUdfDebugViewerHdr.Help="Udf Debug Viewer";
+// CATPKTHeader.PKTUdfDebugViewerHdr.LongHelp="Udf Debug Viewer";
+// CATPKTHeader.PKTUdfDebugViewerHdr.ShortHelp="Udf Debug Viewer";
+
+CATPKTHeader.PKTInstantiatePLMTemplateHdr.Title="工程模板实例化";
+// CATPKTHeader.PKTInstantiatePLMTemplateHdr.Help="Instantiate an Engineering Template";
+// CATPKTHeader.PKTInstantiatePLMTemplateHdr.LongHelp="Instantiates an Engineering Template.";
+// CATPKTHeader.PKTInstantiatePLMTemplateHdr.ShortHelp="Engineering Template Instantiation";
+
+CATPKTHeader.PKTCreate3DPartTemplateHdr.Title="创建 3D 零件模板（调试）";
+// CATPKTHeader.PKTCreate3DPartTemplateHdr.Help="Create a 3D Part Template (debug)";
+// CATPKTHeader.PKTCreate3DPartTemplateHdr.LongHelp="Create a 3D Part Template (debug)";
+// CATPKTHeader.PKTCreate3DPartTemplateHdr.ShortHelp="Create a 3D Part Template (debug)";		
+
+CATPKTHeader.PKTARMTableHdr.Title="资源表";
+// CATPKTHeader.PKTARMTableHdr.Help="Creates or Modifies a Resource Table";
+// CATPKTHeader.PKTARMTableHdr.LongHelp="Creates or modifies a Resource Table.";
+// CATPKTHeader.PKTARMTableHdr.ShortHelp="Resource Table";
+
+CATPKTHeader.KBEInstantiateHdr.Title="实例化 KML 概念";
+// CATPKTHeader.KBEInstantiateHdr.Help="KML Concept Instantiation in current Context";
+// CATPKTHeader.KBEInstantiateHdr.LongHelp="KML Concept Instantiation in current Context";
+// CATPKTHeader.KBEInstantiateHdr.ShortHelp="KML Concept Instantiation in current Context";
+
+CATPKTHeader.KBEInstantiateDebugHdr.Title="KML 概念实例化（调试）";
+// CATPKTHeader.KBEInstantiateDebugHdr.Help="KML Concept Instantiation in current Context (DEBUG)";
+// CATPKTHeader.KBEInstantiateDebugHdr.LongHelp="KML Concept Instantiation in current Context (DEBUG)";
+// CATPKTHeader.KBEInstantiateDebugHdr.ShortHelp="KML Concept Instantiation in current Context (DEBUG)";
+
+CATPKTHeader.KBETemplateInstantiateHdr.Title="实例化 KML 模板";
+// CATPKTHeader.KBETemplateInstantiateHdr.Help="KML Template Instantiation in current Context";
+// CATPKTHeader.KBETemplateInstantiateHdr.LongHelp="KML Template Instantiation in current Context";
+// CATPKTHeader.KBETemplateInstantiateHdr.ShortHelp="KML Template Instantiation in current Context";
+
+CATPKTHeader.KWEUpdateDataHdr.Title="自动知识重放";
+// CATPKTHeader.KWEUpdateDataHdr.Help="Automatically Replay a Knowledge Object Instantiation";	
+// CATPKTHeader.KWEUpdateDataHdr.LongHelp="Automatically Replay a Knowledge Object Instantiation";	
+// CATPKTHeader.KWEUpdateDataHdr.ShortHelp="Automatically Replay a Knowledge Object Instantiation";	
+
+// CATPKTHeader.PKTProductTableHdr.Title="Product Table";
+// CATPKTHeader.PKTProductTableHdr.Help="Create a Product Table";
+// CATPKTHeader.PKTProductTableHdr.LongHelp="Open the dialog to create a product table";
+// CATPKTHeader.PKTProductTableHdr.ShortHelp="Create a Product Table";
+
+CATPKTHeader.PKTUdfTypeDeploymentHdr.Title="用户特征类型程序包安装";
+// CATPKTHeader.PKTUdfTypeDeploymentHdr.Help="User Features Types Package Installation";
+// CATPKTHeader.PKTUdfTypeDeploymentHdr.LongHelp="User Features types are stored in Know-how Apps packages that need to be installed so that those types are known by the system. This command allows the installation of such package.";
+// CATPKTHeader.PKTUdfTypeDeploymentHdr.ShortHelp="User Features Types Package Installation";
+
+CATPKTHeader.CATSpdUdfDefineMainCmdHdr.Title="功能用户特征...";
+// CATPKTHeader.CATSpdUdfDefineMainCmdHdr.ShortHelp = "Defines a functional User Feature";
+// CATPKTHeader.CATSpdUdfDefineMainCmdHdr.Help      = "Defines a functional User Feature";
+// CATPKTHeader.CATSpdUdfDefineMainCmdHdr.LongHelp  = "Allows to create and edit a functional User Feature.";
+

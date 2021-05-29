@@ -1,0 +1,39 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+// [CATCivilEngRebarWorkbench] @Workbench TTD 17:09:07
+CATCivilEngRebarWorkbench.Title="Concrete Structures 3D Design";
+CATCivilEngRebarWorkbench.ShortHelp="Concrete Structures 3D Design";
+CATCivilEngRebarWorkbench.Help="Concrete Structures 3D Design";
+CATCivilEngRebarWorkbench.LongHelp="Concrete Structures 3D Design";
+
+//----------------------------------------------------------------------------
+// ACTION BAR
+//----------------------------------------------------------------------------
+RebarSection.Title="配筋";
+
+Civil3DSection.Title="土木工程";
+
+WireframeAndSurfaceSection.Title="线框和曲面";
+WireframeGroup.Title="线框";
+SurfaceGroup.Title="曲面";
+TransformGroup.Title="变换";
+RefineGroup.Title="细化";
+
+VolumeSection.Title="包络体";
+
+SolidSection.Title="实体";
+
+FunctionalSection.Title="功能";
+
+ReviewSection.Title="审查";
+ReviewGroup.Title="审查";
+
+//----------------------------------------------------------------------------
+// APP MODE
+//----------------------------------------------------------------------------
+RebarModes_In_Contextual_Menu.Title="模式";
+
+ShapeDesignObjectProperties.Title="常规属性";
+

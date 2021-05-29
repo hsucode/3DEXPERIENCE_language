@@ -1,0 +1,79 @@
+<meta charset="UTF-8"/>
+
+
+InputDoesNotContainAKnowledgeTemplate.Request.Expert="输入错误";
+InputDoesNotContainAKnowledgeTemplate.Diagnostic.Expert=" 输入 /p1 未参考工程模板。 ";
+InputDoesNotContainAKnowledgeTemplate.Advice.Expert="请检查输入 /p1 的赋值。";
+
+InputDoesNotContainAKnowledgeTemplate.Request.User="输入错误";
+InputDoesNotContainAKnowledgeTemplate.Diagnostic.User="输入 /p1 未参考工程模板。 ";
+InputDoesNotContainAKnowledgeTemplate.Advice.User="请检查您先前的选择（如果有）或联系您的专家。";
+
+InvalidKnowlegeTemplateRef.Request.Expert="执行错误";
+InvalidKnowlegeTemplateRef.Diagnostic.Expert="加载知识工程模板内容时出错。";
+InvalidKnowlegeTemplateRef.Advice.Expert="请检查知识工程模板。";
+
+InvalidKnowlegeTemplateRef.Request.User="执行错误";
+InvalidKnowlegeTemplateRef.Diagnostic.User="加载知识工程模板内容时出错。";
+InvalidKnowlegeTemplateRef.Advice.User="请检查知识工程模板。";
+
+InputDestinationDoesNotContainACATIPLMProducts.Request.Expert="输入错误";
+InputDestinationDoesNotContainACATIPLMProducts.Diagnostic.Expert="输入目标未参考产品参考。";
+InputDestinationDoesNotContainACATIPLMProducts.Advice.Expert="请检查输入目标的赋值。";
+
+InputDestinationDoesNotContainACATIPLMProducts.Request.User="输入错误";
+InputDestinationDoesNotContainACATIPLMProducts.Diagnostic.User="输入目标未参考产品参考。";
+InputDestinationDoesNotContainACATIPLMProducts.Advice.User="请联系您的专家。";
+
+//Destination is not edited in session
+DestinationIsNotEditedInSession.Request.Expert="执行错误";
+DestinationIsNotEditedInSession.Diagnostic.Expert="无法将部件 /p1 用作目标。它的会话中没有编辑器。";
+DestinationIsNotEditedInSession.Advice.Expert="请检查设计。";
+
+DestinationIsNotEditedInSession.Request.User="执行错误";
+DestinationIsNotEditedInSession.Diagnostic.User="无法将部件 /p1 用作目标。它的会话中没有编辑器。";
+DestinationIsNotEditedInSession.Advice.User="请检查您先前的选择或联系您的专家。";
+
+NoWayToCreateUniqPLMIDForNewRef.Request.Expert="输入错误";
+NoWayToCreateUniqPLMIDForNewRef.Diagnostic.Expert="无法创建新参考的标识符。";
+NoWayToCreateUniqPLMIDForNewRef.Advice.Expert="请在行为上定义前缀和后缀，或使用自定义规则。";
+
+NoWayToCreateUniqPLMIDForNewRef.Request.User="输入错误";
+NoWayToCreateUniqPLMIDForNewRef.Diagnostic.User="无法创建新参考的标识符。";
+NoWayToCreateUniqPLMIDForNewRef.Advice.User="请联系您的专家。";
+
+NotAUniqPLMID.Request.Expert="执行错误";
+NotAUniqPLMID.Diagnostic.Expert="无法启动模板实例化。可能的原因包括：服务器端克隆失败、目标无效（例如，如果目标不是根部件，则其必须为实例）、模板中的部件无效...";
+NotAUniqPLMID.Advice.Expert="尝试以交互方式实例化该模板以进行比较";
+
+NotAUniqPLMID.Request.User="执行错误";
+NotAUniqPLMID.Diagnostic.User="无法启动模板实例化。可能的原因包括：服务器端克隆失败、目标无效（例如，如果目标不是根部件，则其必须为实例）、模板中的部件无效...";
+NotAUniqPLMID.Advice.User="请联系您的专家。";
+
+
+// Cancel durant l'instantiation
+PLMTemplateCancelInInstantiationPanel.Request.Expert="执行错误";
+PLMTemplateCancelInInstantiationPanel.Diagnostic.Expert="执行期间取消了“插入对象”对话框。";
+PLMTemplateCancelInInstantiationPanel.Advice.Expert="重新启动执行。";
+
+PLMTemplateCancelInInstantiationPanel.Request.User="执行错误";
+PLMTemplateCancelInInstantiationPanel.Diagnostic.User="执行期间取消了“插入对象”对话框。";
+PLMTemplateCancelInInstantiationPanel.Advice.User="重新启动执行。";
+
+PLMTemplateInstantiatedButSetVariableValueKO.Request.Expert="执行错误";
+PLMTemplateInstantiatedButSetVariableValueKO.Diagnostic.Expert="已实例化工程模板，但无法对输出新实例赋值。";
+PLMTemplateInstantiatedButSetVariableValueKO.Advice.Expert="请检查工程模板。";
+
+PLMTemplateInstantiatedButSetVariableValueKO.Request.User="执行错误";
+PLMTemplateInstantiatedButSetVariableValueKO.Diagnostic.User="已实例化工程模板，但无法对输出新实例赋值。";
+PLMTemplateInstantiatedButSetVariableValueKO.Advice.User="请联系您的专家。";
+
+// NO KT1 license
+NoKT1Lic.Request.Expert="执行错误";
+NoKT1Lic.Diagnostic.Expert="实例化知识工程模板的许可证不可用。";
+NoKT1Lic.Advice.Expert="请联系管理员。";
+
+NoKT1Lic.Request.User="执行错误";
+NoKT1Lic.Diagnostic.User="实例化知识工程模板的许可证不可用。";
+NoKT1Lic.Advice.User="请联系管理员。";
+

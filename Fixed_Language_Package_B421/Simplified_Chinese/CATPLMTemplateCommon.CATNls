@@ -1,0 +1,114 @@
+<meta charset="UTF-8"/>
+Components="部件";
+Links="链接";
+Inputs="输入";
+MetaInputs="元输入";
+Parameters="参数";
+Properties="特性";
+Models="已加载的部件";
+ReplacingComponents="替换组件";
+Destinations="目标";
+NotARep="您必须选择位于展示中的对象";
+NotADuplicatedComponent="您必须选择位于已复制部件中的对象";
+Load="单击以加载部件";
+
+ChangeComponentList="在模板中更改要复制的部件列表";
+AddComponent="在模板中添加要复制的根";
+RemoveComponent="在模板中移除要复制的根";
+ChangeInputName="变更模板的输入的名称";
+AddInputs="在模板中添加输入";
+AddParameters="在模板中添加已发布的参数";
+ChangeParameterName="变更模板参数的名称";
+RemoveInputs="移除模板的输入";
+RemoveParameters="移除模板的参数";
+CannotDuplicateStandard="/P1，因为它是标准组件。已作为“替换目标”添加到处理的组件。";
+CannotAddSelectedObjectToTemplate="无法将 /P1 添加到模板定义，因为它不受工程模板支持，或您没有处理此对象所需的许可证。";
+CannotAddSelectedObjectToTemplateBecauseNotSaved="无法将 /P1 添加到模板定义，因为未保存它。请先保存它，然后再将其添加到模板。";
+CannotDuplicateParentReplaced="无法将部件 /P1 添加到已处理部件，因为它是已替换部件的子级";
+CannotSetObjectAsToReplace="无法将 /P1 设置为“要替换”。";
+BecauseOfLifeCycle="它的生命周期受其所有者控制。";
+BecauseImpossibleToLoadComponent="无法正确加载其某个子部件。";
+BecauseBadPointing="检测到部件 /P1 与部件 /P4  之间的链接，";
+PointingRoot="该链接未指向 /P1 级别的发布。";
+PointingObject="指向的对象是 /P2";
+PointingObjectCnx="(/P5)";
+
+PointedIsPub="被指向的部件为发布，名称为 /P1，位于部件 /P2 下。";
+BecauseNotDuplicated="/P1 正指向已替换的部件，但未被模板复制。";
+BecausePointingRefusesReplace="/P1 正指向已替换的部件，但不允许进行替代。";
+BecauseAggregatingRefusesReplace="/P1 集合了已替换的部件，但不允许进行替代。";
+ComponentIsNotReplaceCompliant="选定部件不符合替换条件。";
+RemoveAttributes="移除模板的属性";
+AddAttribute="在模板中添加属性";
+ChangeAction="更改对模板根的操作";
+ChangeBehavior="更改对模板部件的行为";
+ChangeLinkAction="更改对链接的操作";
+AddComment="在输入或参数上添加备注";
+
+IdChooserRef="选择要插入到模板中的参考";
+IdChooserRep="选择要插入到模板中的展示";
+CompReplaceChooserRep="选择要替换原始展示的展示";
+CompReplaceChooserRef="选择要替换原始参考的参考";
+Template="模板";
+RootAction="要执行的操作";
+ComponentBehavior="实例化时的行为";
+
+From="从";
+To="到";
+
+ClickToLoad="单击以加载 /P1";
+InstantiationTemplate="Engineering Template 实例化命令";
+DefinitionTemplate="Engineering Template 定义编辑器";
+CloseInstantiationCommand="关闭工程模板实例化命令";
+CloseDefinitionEditor="关闭工程模板定义编辑器";
+ChooserInstantiation="选择要实例化的模板";
+Loaded="已加载展示 /P1，因此可以选择输入";
+Information="信息";
+InstantiationInfo="此模板的实例化已复制服务器上的内容。\n即使不保存打开的模型，此数据也将存在，其中所有部件名称均使用 \"ToDelete:\" 作为前缀。\n";
+SelectElementContainingInputs="在工程模板定义树中选择包含输入的元素。\n该元素必须标记为“已复制”。";
+SelectElementContainingParameters="在工程模板定义树中选择包含参数的元素。\n该元素必须标记为“已复制”。";
+ComponentsAutomaticallyNotProcessed="已自动将以下部件从已处理中移除，以确保实例化时的完整性：";
+ComponentsAutomaticallyDuplicated="已自动将以下部件添加到已复制，以确保实例化时的完整性：";
+ComponentsAutomaticallyNotProcessedBecauseReplace="已自动将以下部件从已处理中移除，因为它们是已替换部件的子级：";
+
+
+NoName="没有名称";
+GiveAName="创建工程模板时未提供名称";
+NotPKTLicence="许可证或安全性权限无效";
+InvalidLicence="缺少执行此操作所需的许可证，并且您必须为授权用户";
+EditProperties="Engineering Template";
+LifeCycleOwner="您刚才添加的对象 /P1 的生命周期已链接到其所有者的生命周期。\n因此，已将其所有者添加到已复制的部件";
+InstantiateTemplate="模板实例化";
+FailedToDeleteMulti="无法删除以下已复制的部件：\n/P1\n它们的名称已使用 \"ToDelete:\" 作为前缀";
+FailedToDelete="无法删除以下已复制的部件：\n/P1\n它的名称已使用 \"ToDelete:\" 作为前缀";
+RemoveSubInput="从模板的元输入中移除子输入";
+AddSubInput="在模板的元输入中添加子输入";
+AddMetaInput="在模板中添加元输入";
+RemoveMetaInput="在模板中移除元输入";
+CloningNameTruncated="无法使用名称 \"/P1\" 创建对象。\n名称被截断为 \"/P2\"。";
+CloningAttrTruncated="无法使用值 \"/P1\" 为属性 /P2 赋值。\n值被截断为 \"/P3\"。";
+NotSavedBeforeUnfolded="导入的文件包含了无法打开的模板。\n只能在启用“使用映射表”选项时才能执行导入文档模板操作。"; //  @validatedUsage TVQ 8/10/13 option
+NotSavedBeforeUnfoldedTitle="导入错误";
+CannotInstantiateTemplateWorkspace="连接到工作区时，无法实例化 Engineering Template";
+UpdateFailedOnPreview="因为更新失败，将不会显示预览。\n更新引擎返回以下消息：";
+CannotSetMultipleNavRep="请选择一个将设置为模板导航展示的对象。\n不得多选。\n对于 3D 零件，导航展示位于 3D 形状上。";
+CannotSetNavRepOnUnsavedTemplate="当前模板未保存至数据库。请在设置导航展示前进行保存";
+NavRepSuccessfullyAdded="导航展示在模板上正确设置";
+NavRepAddFailed="导航展示无法在模板上设置";
+NoNavRepFoundForObject="未找到关联至选定对象的导航展示。\n信息：对于 3D 零件，导航展示位于 3D 形状上。";
+
+IsParentOfComponent="集合规则";
+OnceInstantiable="通用生命周期规则";
+RelationBetween="影响规则";
+
+PictureNameContainingInvalidChar="为进行图片检索指定其中一个字段包含无效字符。";
+PictureNotFound="根据当前信息（项目，数据 zip，图片名称），未找到与此模板关联的图片。";
+
+CannotDeleteTemplate.Diagnostic="无法删除选定的模板，因为其已被锁定或当前处于编辑状态。";
+CannotDeleteTemplate.Advice="尝试解锁对象或关闭任何可能打开此对象的编辑器。";
+CannotDeleteTemplate.Request="";
+TemplateUnavailableInWorkspace="连接到 Engineering Workspace 时，不允许进行此操作。";
+
+NoInstanceNoReplay="模板的其中一个根未实例化，将不保存此实例化的任何重放信息。";
+ReplayOnlyIfInstances="警告：已为此模板启用重放功能，但仅当模板的所有根均被实例化后才会生效。";
+

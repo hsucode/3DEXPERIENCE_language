@@ -1,0 +1,57 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+SWXBuEng3DWorkbench.Title="建筑工程 3D 设计";
+SWXBuEng3DWorkbench.ShortHelp="建筑工程 3D 设计";
+SWXBuEng3DWorkbench.Help="建筑工程 3D 设计";
+SWXBuEng3DWorkbench.LongHelp="建筑工程 3D 设计";
+
+//----------------------------------------------------------------------------
+// ACTION BAR
+//----------------------------------------------------------------------------
+Tab_WireframeAndSurface.Title="线框和曲面";
+Group_Wireframe.Title="线框";
+Group_Surface.Title="曲面";
+Group_Transform.Title="变换";
+Group_Refine.Title="优化";
+
+Civil3DWkbSection.Title="土木工程设计";
+
+Tab_Solid.Title="实体";
+Group_Model.Title="模型";
+
+Tab_Functional.Title="功能建模";
+
+Tab_Review.Title="复核";
+Group_Review.Title="复核";
+
+ShapeDesignModes_In_Contextual_Menu.Title="模式";
+ShapeDesignObjectProperties.Title="常规特性";
+
+Tab_Volume.Title="体积";
+Group_Volume.Title="体积";
+
+Tab_Structure.Title="管理";
+Group_Structure.Title="管理";
+
+//----------------------------------------------------------------------------
+// COMMANDS
+//----------------------------------------------------------------------------
+SWXBuEng3DWorkbench.CATCivGeolocatedPointHdr.Title="地理定位点...";
+SWXBuEng3DWorkbench.CATCivGeolocatedPointHdr.Help="创建地理定位点";
+SWXBuEng3DWorkbench.CATCivGeolocatedPointHdr.LongHelp="创建地理定位点。";
+SWXBuEng3DWorkbench.CATCivGeolocatedPointHdr.ShortHelp="地理定位点";
+
+SWXBuEng3DWorkbench.CATCivilUIAnchorHdr.Title="定义定位...";
+SWXBuEng3DWorkbench.CATCivilUIAnchorHdr.ShortHelp="定义定位";
+SWXBuEng3DWorkbench.CATCivilUIAnchorHdr.Help="定义定位。";
+// SWXBuEng3DWorkbench.CATCivilUIAnchorHdr.LongHelp="Defines civil engineering anchors.";
+
+SWXBuEng3DWorkbench.CATCbaUIPatternFreeHdr.Title="自由阵列...";
+SWXBuEng3DWorkbench.CATCbaUIPatternFreeHdr.ShortHelp="自由阵列";
+SWXBuEng3DWorkbench.CATCbaUIPatternFreeHdr.Help="自由阵列";
+
+SWXBuEng3DWorkbench.CATCbaUIPatternPointsOnCurveHdr.Title="曲线阵列上的点...";
+SWXBuEng3DWorkbench.CATCbaUIPatternPointsOnCurveHdr.ShortHelp="曲线阵列上的点";
+SWXBuEng3DWorkbench.CATCbaUIPatternPointsOnCurveHdr.Help="曲线阵列上的点";

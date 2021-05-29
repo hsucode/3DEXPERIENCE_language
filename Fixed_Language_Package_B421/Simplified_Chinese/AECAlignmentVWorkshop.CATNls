@@ -1,0 +1,17 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// Workshop
+//----------------------------------------------------------------------------
+// [AECAlignmentVWorkshop] @Workshop BEB 17:09:07
+AECAlignmentVWorkshop.Title="线路草图编辑器";
+AECAlignmentVWorkshop.ShortHelp="线路草图编辑器";
+AECAlignmentVWorkshop.Help="线路草图编辑器";
+AECAlignmentVWorkshop.LongHelp="线路草图编辑器";
+
+//----------------------------------------------------------------------------
+// ACTION BAR
+//----------------------------------------------------------------------------
+AlignmentSection.Title="线路";
+SketcherSection.Title="草图编辑器";
+AnalysisSection.Title="分析";
+

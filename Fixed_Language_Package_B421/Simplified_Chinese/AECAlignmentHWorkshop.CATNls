@@ -1,0 +1,26 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// Workshop
+//----------------------------------------------------------------------------
+// [AECAlignmentHWorkshop] @Workshop BEB 17:09:07
+AECAlignmentHWorkshop.Title="线路草图编辑器";
+AECAlignmentHWorkshop.ShortHelp="线路草图编辑器";
+AECAlignmentHWorkshop.Help="线路草图编辑器";
+AECAlignmentHWorkshop.LongHelp="线路草图编辑器";
+
+//----------------------------------------------------------------------------
+// ACTION BAR
+//----------------------------------------------------------------------------
+AlignmentSection.Title="线路";
+SketcherSection.Title="草图编辑器";
+AnalysisSection.Title="分析";
+
+//----------------------------------------------------------------------------
+// COMMAND Not in action bar
+//----------------------------------------------------------------------------
+// [AlignmentFixErrorHdr] @CmdHeaderInContextualMenu BEB 17:09:07
+AECAlignmentHWorkshop.AlignmentFixErrorHdr.Title="修复错误";
+AECAlignmentHWorkshop.AlignmentFixErrorHdr.Help="修复错误";
+AECAlignmentHWorkshop.AlignmentFixErrorHdr.ShortHelp="修复错误";
+AECAlignmentHWorkshop.AlignmentFixErrorHdr.LongHelp="通过修改几何图形修复错误。";
+

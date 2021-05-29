@@ -1,0 +1,52 @@
+<meta charset="UTF-8"/>
+SyntaxError="语法错误";
+GenerationError="生成 /P1 期间出现问题";
+FormulaError="无法创建公式 /P1";
+LicenseError="创建 /P1 的许可证未授权";
+UpdateError="/P1 无法更新";
+AttributeMissing="；\n/P1 属性缺失";
+CATSymParseException="无法完成生成";
+InvalidContextType="无效的上下文类型 /P1";
+NoDocument="无文档";
+NoSuchPrototype="无此类原型 /P1";
+NoSuchPart="无此类零件 /P1";
+NoContainer="无容器";
+ProductError="无法创建产品 /P1";
+UnrecognizedValue="未识别的值 /P1";
+NoSuchDesignTable="无此类设计表 /P1";
+NoSuchColumn="无此类列 /P1";
+NoSuchListAttribute="无此类列表属性 /P1";
+UnknownDocument="未识别的文档类型 /P1。\n 您可能键入了简单引号而不是后引号";
+NoSuchRuleSet="无法在没有规则集的情况下生成 /P1";
+NoInstanciationWithCATIKWInstanciable="无法使用 CATIKWInstanciable 实例化 /P1";
+InputDoesNotExist="输入 /P1 未声明";
+NotInputInLoop="无法在 GenerativeLoop 中创建输入 (/P1)";
+CATIInstanciationAdhesion=" 类型：/P1 不实施界面 CATIInstanciation ";
+InvalidFormula="无效的公式";
+ImpossibleToUpdateRuleOrCheckAdvisor="无法更新顾问规则检查 /P1 ";
+
+NoDestinationFound="无法获得应保留约束的部件";
+ConstraintArgsError="CreateConstraint 中具有未标识的参数。";
+InvalidCstType="无效的约束类型";
+ConstraintNotCreated="无法创建约束";
+ConstraintConnectorError="无法检索要约束的所有部件";
+ConstraintPortError="无法检索要从发布 /P1 约束的元素";
+ConstraintPathError="无法检索要从路径 /P1 约束的元素";
+ConstraintContextError="指定用于创建约束的上下文无效。";
+
+CreatePubElemNotFound="无法检索要发布的元素";
+CreatePubError="无法发布元素";
+CreatePubCouldNotSolvePath="无法求解路径以创建发布。";
+CouldNotDeletePub="DeletePublication 失败，元素不支持发布或没有指定名称的发布。";
+ElementCannotHoldPublications="ListPublications 失败，该元素不支持发布。";
+
+CreatePathStringError="无法创建路径字符串";
+
+CouldNotDetectElementType="无法检测用于约束类型的元素";
+NotValidType="约束类型对于要约束的元素无效";
+
+LicensePLMTemplateError="使用工程模板的许可证未授权";
+
+CannotSaveEverything="列表包含无法保存的项目。";
+ErrorWhileSaving="保存流程失败，出现以下错误：\n/P1";
+

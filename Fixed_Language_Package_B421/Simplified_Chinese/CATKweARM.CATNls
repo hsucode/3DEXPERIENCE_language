@@ -1,0 +1,110 @@
+<meta charset="UTF-8"/>
+
+// Resource identifier
+
+DefaultResourceLogicalName="资源";
+
+// ARM Types
+
+AnyType="任何类型";
+Catalog="目录";
+Chapter="章节";
+Icon="图标";
+PLMDirectory="目录";
+PLMReference="参考";
+PLMRepReference="展示";
+PLMRuleSet="规则集";
+PLMTemplate="工程模板";
+PowerCopy="超级副本";
+UserDefinedFeature="用户定义的特征";
+Sheet="页";
+VBScriptProgram="VB 脚本宏";
+VBAProgram="VBA 宏";
+Document="文档";
+TextDocument="文本文档";
+XMLDocument="XML 文档";
+PLMResourceSet="资源集";
+DesignTable="设计表";
+PLMBusinessRule="业务规则";
+CustoDialogTopFrame="对话框";
+PLMKnowledgeAppliComponent="专有技术应用程序部件";
+GenerativeTemplate="KML 模板";
+GenerativeConcept="KML 概念";
+Material="材料";
+RFLVPMLogicalReference="逻辑参考";
+PLMPosProxyRef="PLMPosProxyRef";
+KweAction="操作";
+KweLaw="法则曲线";
+
+Ens_EndStyleTable="终端样式表";
+Ens_FluidTable="流体表";
+Ens_InsulationSpecification="绝缘材料规格";
+Ens_InsulationTypeTable="绝缘类型表";
+Ens_LogicalPartSubTypeTable="逻辑零件子类型表";
+Ens_MappingPartSubTypeTable="映射零件子类型表";
+Ens_MaterialTable="材料表";
+Ens_PartSubTypeTable="零件子类型表";
+Ens_StandardTable="标准表";
+PipNominalSizeTable="管路标称尺寸表";
+PipInsulationDimensionTable="管路绝缘尺寸表";
+PipRatingTable="管路等级表";
+PipReferenceDimensionTable="管路参考尺寸表";
+PipSpecification="管路规格";
+SPP_SpaceFolder="空间文件夹";
+PLMProfile="PLM 轮廓";
+CATKweAppRscGenGraph="创成式图表";
+
+HvaSpecification="HVAC 规格";
+HvaEquivalentDiameterTable="HVAC 等效直径表";
+HvaDuctReferenceDimensionTable="HVAC 参考管道尺寸表";
+HvaInsulationDimensionTable="HVAC 绝缘尺寸表";
+
+PLMKHLibrary="专有技术库";
+SRS_Reference_Planes="空间参考系统";
+GeolocationCoordinateReferenceSystem="地理位置坐标参考系";
+MachiningProcess="加工流程";
+
+RcwNominalSizeTable="线槽标称尺寸表";
+RcwRealisationTypeTable="线槽实现类型表";
+RcwSpecification="线槽规格";
+RcwTrayReferenceDimensionTable="线槽托盘参考尺寸表";
+
+General_Library="通用库";
+General_Class="普通类";
+
+Ens_InsulationCustomerAdditionalSpec="客户附加绝缘材料规格";
+HvaCustomerAdditionalSpec="客户附加 HVAC 规格";
+PipCustomerAdditionalSpec="客户附加管路规格";
+RcwCustomerAdditionalSpec="客户附加线槽规格";
+
+AECSketch="对齐草图";
+
+CATKweAppRscKBELibrary="KML 库";
+
+// Errors
+CATKweARMERR_1000.Request="设置资源逻辑名称。";
+CATKweARMERR_1000.Diagnostic="指定的逻辑名称 '/p1' 无效。";
+
+CATKweARMERR_1001.Request="设置资源逻辑名称。";
+CATKweARMERR_1001.Diagnostic="表 '/p1' 中已存在指定的逻辑名称 '/p2'。";
+
+CATKweARMERR_1002.Request="设置资源条件。";
+CATKweARMERR_1002.Diagnostic="资源项 '/p1' 不存在指定的条件 '/p2'。";
+
+// CATKweARMBagInfo
+ARMCommand="资源表编辑命令";
+CloseARMCommand="关闭资源表编辑命令";
+
+// Warning
+MergeRenamingWarning="警告：在资源表合并期间，部分项已重命名\n：\n\n";
+
+SearchItem="表 </p1> 中有些项 </p2> 的搜索已返回 /p3";
+FailedSearchItem="获取以下项时出错：/p1";
+AnItem="一项";
+NoItem="无任何项！";
+WithResourceSet="具有资源集";
+WithoutResourceSet="无任何资源集！";
+ItemOfType=" 类型为 </p1> /p2";
+
+BrokenRelation="中断的链接";
+EmptyLib="空库";

@@ -1,0 +1,12 @@
+<meta charset="UTF-8"/>
+Open="打开";
+OpenIfModified="如果已修改，则打开";
+Instantiate="实例化";
+InstantiateWithDestination="实例化（选择目标）";
+NotAProduct="无法将当前活动对象用作工程模板实例化的目标。";
+InstantiateFailed="产品实例化失败，可能因为当前目标无法包含多个实例（例如 3D 零件）。";
+ReplacePubNotFound="无法将产品 /P1 用作 /P2 的替换件，因为它不具有名为 /P3 的发布";
+IncompatibleReplacingDocument="选择用于替换的文档与原始文档的类型不匹配。";
+ReplacePubAmongNotFound="无法替换产品 /P1，我们无法找到具有以下发布名称的产品：/P2";
+ReplacePubAmongConflict="无法替换产品 /P1，找到了多个替换候选项：/P2";
+

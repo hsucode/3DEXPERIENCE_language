@@ -1,0 +1,30 @@
+<meta charset="UTF-8"/>
+//-------------------------------------------------
+// Resource file for CATInstantiatePLMTemplateFrame class
+// En_US
+//-------------------------------------------------
+
+
+PLMTemplate.HeaderFrame.Global.Title="知识工程模板";
+PLMTemplate.IconAndOptionsFrame.OptionsFrame.RBtnPLMTemplate.Title="工程模板： ";
+PLMTemplate.IconAndOptionsFrame.OptionsFrame.UnsetTemplate.Title="取消设置";
+
+PLMTemplate.HeaderFrame.Global.Title="知识工程模板";
+PLMTemplate.IconAndOptionsFrame.OptionsFrame.RBtnARMInput.Title="资源表输入： ";
+PLMTemplate.IconAndOptionsFrame.OptionsFrame.ARMBrowse.Title="...";
+PLMTemplate.IconAndOptionsFrame.OptionsFrame.UnsetARM.Title="取消设置";
+PLMTemplate.IconAndOptionsFrame.OptionsFrame.UseIdName.Title="使用相同的名称";
+UseIdNameHelp="不适用于此操作";
+UseIdNameLongHelp="不适用于此操作。请新建实例化 PLM 模板操作以启用此功能。";
+UseIdNameShortHelp="不适用于此操作。请新建实例化 PLM 模板操作以启用此功能。";
+
+DestinationFrame.HeaderFrame.Global.Title="实例化上下文";
+DestinationFrame.IconAndOptionsFrame.OptionsFrame.LabelDestination.Title="目标： ";
+DestinationFrame.IconAndOptionsFrame.OptionsFrame.UnsetDest.Title="取消设置";
+
+InstantiationContext.HeaderFrame.Global.Title="模板输入验证";
+InstantiationContext.IconAndOptionsFrame.OptionsFrame.LabelNewPLMId.Title="标识符新建依据：";
+InstantiationContext.IconAndOptionsFrame.OptionsFrame.RBtnPreSuffix.Title="定义前缀：";
+InstantiationContext.IconAndOptionsFrame.OptionsFrame.SuffixLbl.Title="后缀：";
+InstantiationContext.IconAndOptionsFrame.OptionsFrame.RBtnCustoRule.Title="使用自定义规则。";
+

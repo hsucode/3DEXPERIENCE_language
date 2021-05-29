@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+PLMTemplateTabContainer.ComponentsTabPage.Title="部件";
+PLMTemplateTabContainer.InputsTabPage.Title="输入";
+PLMTemplateTabContainer.MetaInputsTabPage.Title="元输入";
+PLMTemplateTabContainer.ParametersTabPage.Title="参数";
+PLMTemplateTabContainer.PropertiesTabPage.Title="特性";
+PLMTemplateTabContainer.LinksTabPage.Title="链接";
+// END WIZARD REPLACEMENT ZONE
+PageTitle="工程模板定义";

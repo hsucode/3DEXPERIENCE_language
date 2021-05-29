@@ -1,0 +1,26 @@
+<meta charset="UTF-8"/>
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title="模板特性";
+InstanceNamingTitle.Title="实例命名元素";
+InstanceNameTitle.Title="当前实例名称";
+CurrentInstanceName.Title="TZSPart1_10/03/2009";
+RemoveButton.Title="移除";
+AddButton.Title="添加";
+PLMTemplatePictureFrm.Title="关联的图片";
+PLMTemplatePictureFrm.PLMTemplatePictureProjectLabel.Title="资源集名称： ";
+PLMTemplatePictureFrm.PLMTemplatePictureDataZipLabel.Title="目录名称： ";
+PLMTemplatePictureFrm.PLMTemplatePictureNameLabel.Title="图片名称： ";
+PLMTemplatePictureFrm.PLMTemplatePictureCheckButton.Title="验证";
+PLMTemplateOptionFrm.Title="选项";
+PLMTemplateOptionFrm.PLMTemplateOptionCleanAnnotationsButton.Title="清除标注（仅在下方未停用更新时有效）";
+PLMTemplateOptionFrm.PLMTemplateOptionAllInputsButton.Title="可以在不赋值所有输入的情况下进行实例化";
+PLMTemplateOptionFrm.PLMTemplateRecordSpecButton.Title="记录数据以便重放";
+PLMTemplateUpdatePropertiesFrm.Title="在执行实例化选项后更新";
+PLMTemplateUpdatePropertiesFrm.UpdateRootsLabel.Title="已更新的根";
+PLMTemplateUpdatePropertiesFrm.NoUpdateRootsLabel.Title="未更新的根";
+PLMTemplateOptionFrm.PLMTemplatePropsBLLabel.Title="克隆时使用的业务逻辑 ";
+// END  REPLACEMENT ZONE
+
+BLTemplateCloning="工程模板克隆业务逻辑";
+BLTemplateNew="新对象标识业务逻辑";
+

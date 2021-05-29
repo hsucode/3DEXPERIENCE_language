@@ -1,0 +1,47 @@
+<meta charset="UTF-8"/>
+SequenceBehavior="序列";
+LoopImplementation="循环";
+CallBehaviorImplementation="调用操作";
+ActivateBehavior="操作完成后";
+CancelBehavior="操作取消后";
+VBScriptImplementation="运行 VB/VBA";
+CommandImplementation="启动命令";
+URLImplementation="打开 URL";
+ActiveURLImplementation="活动 X URL";
+SystemImplementation="运行流程或库";
+
+BindObjectImplementation="绑定部件";
+BindParameterImplementation="绑定参数";
+BindOutputToFatherImplementation="同步参数";
+BindRepresentationImplementation="绑定展示";
+BindPublicationImplementation="绑定发布";
+BindExtensionImplementation="绑定技术对象";
+
+ListAddImplementation="向列表中添加项目";
+ListRemoveImplementation="从列表中移除项目";
+ListGetItemImplementation="从列表中获取项目";
+
+CoReqImplementation="启动更新";
+ErrorMessengerImplementation="显示信息";
+InformationWindowImplementation="简单交互";
+KnowledgeWebDialogImplementation="知识工程 Web 对话框";
+KWRelationImplementation="执行";
+KWALanguageImplementation="运行 EKL 操作";
+CreateExtensionImplementation="添加类型";
+KnowledgeDialogImplementation="启动知识工程对话框";
+CATBehaviorsCollection="用户操作";
+SubProcessImplementation="运行子进程";
+QueryComponentImplementation="查询部件";
+PLMCatalogImplementation="过滤目录";
+
+PowerCopySpecificationImplementation="实例化模板";
+ImportImplementation="创建几何图形导入";
+PasteSpecificationImplementation="复制和粘贴对象";
+DisplayImplementation="在新选项卡中显示部件";
+KWCertifyImplementation="运行";
+InsertPLMComponentImplementation="管理部件";
+InstantiatePLMTemplateImplementation="实例化工程模板";
+GenerativeTemplateImplementation="实例化 KML 模板或概念";
+CloneImplementation="克隆参考";
+RunBatchImplementation="运行批处理";
+
