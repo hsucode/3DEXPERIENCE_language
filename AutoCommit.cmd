@@ -1,12 +1,14 @@
 @echo off
 
 cd %~dp0
-git remote add origin git@github.com:hsucode/3DEXPERIENCE_Forms.git
 git pull
 git status
-git add --all
+git add .
 @echo Type your log,then ENTER: 
 set /p GetYourLog=
 git commit -m "%GetYourLog%"
-git push
+@echo ------------to github------------------ 
+git push -u github
+@echo ------------to gitee------------------ 
+git push -u gitee
 pause
