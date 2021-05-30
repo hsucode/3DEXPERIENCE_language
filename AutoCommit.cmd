@@ -7,8 +7,9 @@ git add .
 @echo Type your log,then ENTER: 
 set /p GetYourLog=
 git commit -m "%GetYourLog%"
-@echo ------------to github------------------ 
-git push -u github
 @echo ------------to gitee------------------ 
 git push -u gitee
+@echo ------------to github------------------ 
+git push -u github
+
 pause
