@@ -1,0 +1,83 @@
+<meta charset="UTF-8"/>
+Title="水平曲线";
+
+gridMain.gridHeader.txtName.Text="名称";
+gridMain.gridHeader.editorName.PlaceholderText="（输入名称）";
+
+gridMain.gridHeader.txtType.Text="类型";
+
+ComboType.Simple="简单";
+ComboType.Compound="复合";
+ComboType.Reverse="复合 - 反向";
+
+Header.Information="信息";
+Header.Curve="参数";
+Header.Measure="测量";
+
+Parameters.Error="无法检索曲线参数";
+Name.Empty="错误：名称不能为空。将恢复之前的名称。";
+Name.Success="已成功更新选定曲线的名称。";
+
+Radius.Error="曲线半径不符合设计表规则。\n要解决此问题，请降低入口速度、修改配置文件或更改规则。";
+
+CurveLength.Error="曲线长度不符合设计表规则。\n要解决此问题，请尝试移动 PI、修改曲线最小和最大长度参数或使用“对齐检查器修复”命令。";
+
+Parameter.LeftParenthesis="(";
+Parameter.RightParenthesis="）";
+
+InSpiral="输入螺旋";
+InSpiralLength="内螺旋长度";
+InSpiralFlatness="输入螺旋平面度";
+OutSpiral="输出螺旋";
+OutSpiralLength="外螺旋长度";
+OutSpiralFlatness="输出螺旋平面度";
+IntermediateSpiral="螺旋";
+IntermediateSpiralWithIndex="螺旋 #/P1";
+SpiralType="类型";
+InSpeed="输入速度";
+OutSpeed="输出速度";
+InFlow="入流";
+OutFlow="出流";
+InTransitionLength="输入过渡长度";
+OutTransitionLength="输出过渡长度";
+InTransitionLengthAuto="输入自动过渡长度";
+OutTransitionLengthAuto="输出自动过渡长度";
+CurveRadius="曲线半径";
+AppliedCant="应用的超高";
+AppliedSuperelevation="应用的超高";
+AppliedCantAuto="应用的自动超高";
+AppliedSuperelevationAuto="应用的自动超高";
+CurveWideningAuto="自动加宽曲线";
+CurveWidening="加宽曲线";
+RatioInnerEdgeAuto="内边线自动比率";
+RatioInnerEdge="内边线的比率";
+PIStation="PI 站";
+NoPIStation="无 PI 站";
+InTargetLength="输入切线长度";
+CurveLength="曲线长度";
+SpiralLength="螺旋长度";
+SpiralLengthWithIndex="螺旋 #/P1 长度";
+IntermediateSpiralLength="长度";
+CurveLengthWithIndex="曲线 #/P1 长度";
+OutTargetLength="输出切线长度";
+
+Entrance="入口";
+Curves="曲线";
+Curve="曲线";
+CurveWithIndex="曲线 #/P1";
+Exit="退出";
+
+Flatness="平面度";
+SpiralFlatness="螺旋平面度";
+SpiralFlatnessWithIndex="螺旋 #/P1 平面度";
+
+SwitchTransitionLengthFlatnessTooltip="在长度和平面度参数之间切换";
+SwitchAutomaticManualParamaterTooltip="在自动模式和手动编辑之间切换。自动模式从设计规则读取值";
+
+SimplifyCurveDualWarning.Title="复合曲线 PI 属性设置为双";
+SimplifyCurveDualWarning.Text="实际复合有一个 PI。";
+SimplifyCurveDualWarning.Info="是否要简化为两条曲线而不是一条？";
+
+SimplifyCurveSingleWarning.Title="复合曲线 PI 属性设置为单";
+SimplifyCurveSingleWarning.Text="实际复合有两个 PI。";
+SimplifyCurveSingleWarning.Info="是否要简化为一条曲线而不是两条？";

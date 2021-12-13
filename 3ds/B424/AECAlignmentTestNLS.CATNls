@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+HACurveProfile="水平对齐";
+HAPointProfile="点";
+HAOutputManager="输出管理器";
+Intersection="相交。";
+IntersectionExtension="相交规格";
+2DIntersectionAlignmentSpecifications="2D 相交对齐规格";
+GradeOptionEnum="等级选项";
+GradeOption_None="无等级选项";
+GradeOption_MaintainedPrimaryCrown="保持主径向";
+GradeOption_AllCrownsMaintained="保持所有径向";
+CrossingOptionEnum="交叉级别选项";
+CrossingOption_Level="级别";
+CrossingOption_MultiLevel="多级别";
+
+
