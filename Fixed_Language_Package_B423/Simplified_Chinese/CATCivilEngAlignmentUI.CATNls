@@ -9,7 +9,6 @@ CATCivilEngAlignmentUI.CATCegAlignment2DLayoutCmd.UndoTitle="创建表";
 CATCivilEngAlignmentUI.CATCegAlignmentConnectCmd.UndoTitle="创建线路连接";
 CATCivilEngAlignmentUI.CATCeg2DBreakCmd.UndoTitle="插入点";
 CATCivilEngAlignmentUI.CATCegAlignmentFixErrorCmd.UndoTitle="修复错误";
-CATCivilEngAlignmentUI.CATCeg2DPkPointByProjectionCmd.UndoTitle="按 3D 点投影创建点";
 CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.UndoTitle="创建点";
 CATCivilEngAlignmentUI.CATCeg2DPkPointOffsetCmd.UndoTitle="通过偏移创建点";
 CATCivilEngAlignmentUI.CATCegSelect2DGeomCmd.UndoTitle="选择 2D 点";
@@ -31,7 +30,6 @@ CATCivilEngAlignmentUI.CATCegAlignment3DPointCmd.SelectAlignment.Message="选择
 CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.PointCreation.Message="单击创建点";
 CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.PointSelection.Message="选择要切换的点";
 CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.PointEdition.Message="点定义";
-CATCivilEngAlignmentUI.CATCeg2DPkPointByProjectionCmd.PointSelection.Message="选择要投影的点";
 CATCivilEngAlignmentUI.CATCeg2DConnectCmd.PointCurveSelection.Message="选择 2D 点或曲线";
 CATCivilEngAlignmentUI.CATCeg2DConnectCmd.Connect.Message="连接定义";
 CATCivilEngAlignmentUI.CATCeg2DBreakCmd.LineSelection.Message="选择 2D 直线";
@@ -197,6 +195,7 @@ CATCivilEngAlignmentUI.CATCegAlignmentCmd.AlignmentCmdState4.Message="选择 3D 
 
 // Sketch virtual node
 StationGroup="线路点";
+SurveyPointGroup="调查点";
 
 // Report
 Type="类型";
@@ -224,6 +223,7 @@ StartEasting="起点向东";
 StartNorthing="起点向北";
 StartDirection="起始方向";
 Length="长度";
+MidPoint="圆弧中点";
 Radius="半径";
 ClothoidConstant="螺旋常数";
 CCW="逆时针";
@@ -303,6 +303,7 @@ TS="线-螺旋";
 SC="螺旋-圆弧";
 CS="圆弧-螺旋";
 TT="线-线";
+SS="螺旋-螺旋";
 
 // CATCegAlignmentErrorDataCustom
 Object="对象";

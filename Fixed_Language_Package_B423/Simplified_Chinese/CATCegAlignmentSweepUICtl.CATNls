@@ -80,6 +80,8 @@ Rotation.OuterRail="外轨道";
 Rotation.InnerRail="内轨道";
 Rotation.Left="左侧";
 Rotation.Right="右侧";
+Rotation.CenterCentralMedian="中心中位值的中心";
+Rotation.EdgeCentralMedian="中心中位值的边线";
 
 // Parameters
 GroupParameters.Label="参数";

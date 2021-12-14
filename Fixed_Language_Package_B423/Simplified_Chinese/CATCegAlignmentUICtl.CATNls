@@ -40,9 +40,12 @@ ImcompatibleTerrain_Message="这些特征的相交投影将不会被优化";
 ImcompatibleTerrain_Message2="只能优化多面体地形/图层投影。\n不兼容的对象包括： ";
 
 OutputSeparator.OutputTitle.Text="输出管理";
+OutputSeparator.OutputManagementButtonTooltip.Tooltip="管理输出生命周期。只有存在 3D 线路时才会生成曲面。
+主曲线从曲面提取，因此应选择最后一条曲线以生成主曲线。如果取消选择现有输出，则通过单击“确定”按钮将其移除。";
 
 Output.ListOutput.TextHeaderName="输出";
 Output.ListOutput.TextHeaderValue=" ";
 
+AutomaticSurface_Tooltip="只有存在 3D 线路时才会生成曲面。";
 AutomaticMainCurves_Tooltip="应检查自动曲面以生成主曲线。";
 

@@ -1,8 +1,9 @@
 <meta charset="UTF-8"/>
+CriteriaExpander.Label="条件";
 GeometricDesignRules="几何设计规则";
 StoppingSightDistance.TooltipShortHelp="仅限顶部的停车视距";
 PassingSightDistance.TooltipShortHelp="超车视距是指车辆前方安全通过较慢车辆的距离。";
-LengthOfPassingSections.TooltipShortHelp="在驾驶员可以看到障碍物的地点，驾驶员的眼睛与障碍物之间的距离";
+LengthOfPassingSections.TooltipShortHelp="驾驶员眼睛与障碍物之间的长度，其中驾驶员可以看到障碍物";
 RatioOfPassingSections.TooltipShortHelp="遵照线路线的超车视距比（100% 表示所有线路线必须遵照超车段的长度） ";
 PassengerComfort.TooltipShortHelp="就垂直方向的变化对乘客舒适度的影响而言，在底部时的影响比顶部更大";
 HeadlightSightDistance.TooltipShortHelp="前照灯视距对应于夜间状态下的停车视距，并应用于下垂抛物线";

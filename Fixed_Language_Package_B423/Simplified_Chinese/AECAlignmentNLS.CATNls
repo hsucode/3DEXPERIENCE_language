@@ -72,6 +72,8 @@ VerticalAlignmentPoint="垂直线路点";
 VerticalCurve="垂直曲线";
 AlignmentSweep="道路曲面";
 AlignmentSweep.Railway="铁路曲面";
+AECAlignment3DCurve="3D 线路导入";
+Alignment3DDatum="3D 线路导入";
 
 // Attributes
 FirstLength="第一长度";
@@ -128,6 +130,7 @@ FirstWayLeftShoulder01Slope="第一个左肩角度";
 FirstWayRightShoulder01Slope="第一个右肩角度";
 FirstWayLeftShoulder01Width="第一个左肩宽度";
 FirstWayRightShoulder01Width="第一个右肩宽度";
+Output="输出";
 
 LaneDirection_None="无";
 LaneDirection_OneWay="单向运动";
@@ -161,6 +164,7 @@ Law_5="第一个右肩角度法则";
 Law_6="第一个左肩宽度法则";
 Law_7="第一个右肩宽度法则";
 Law_16="垂直偏移法则";
+Law_17="第一中心角度法则";
 
 InexistentSuperelevationTable="/p1：名为“/p2”的超高表不存在";
 InexistentSuperelevationSpeed="/p1：超高表中不存在速度“/p2”";
@@ -221,11 +225,23 @@ TransitionHAType_Simple="简单";
 TransitionHAType_Compound="复合";
 
 TransitionHAIntermediateSpiralTypeEnum="水平线路中间螺旋类型";
+TransitionHAIntermediateReverseSpiralTypeEnum="水平线路中间反向螺旋类型";
 TransitionHASpiralTypeEnum="水平线路螺旋类型";
 TransitionHASpiralType_None="无";
 TransitionHASpiralType_Clothoid="回旋曲线";
 TransitionHASpiralType_CubicParabola="三次抛物线";
 TransitionHASpiralType_Bloss="布劳斯";
+TransitionHASpiralType_Cosinusoidal="余弦";
+TransitionHASpiralType_Sinusoidal="正弦";
+TransitionHASpiralType_Catenary="悬链";
+TransitionHASpiralType_Parabola_2="抛物线 2.";
+TransitionHASpiralType_SineHalfWavelengthDiminishingTangent="正弦半波";
+TransitionHASpiralType_ParabolaJP_3="抛物线 JP 3";
+TransitionHASpiralType_ParabolaNSW_3="抛物线 NSW 3";
+TransitionHASpiralType_Quadratic="二次";
+TransitionHASpiralType_BiQuadratic="Bi 二次";
+TransitionHASpiralType_Lemniscate="双纽线";
+TransitionHASpiralType_VienneseBend="Viennese Bend";
 
 2DPkPointHAlignmentExtension="业务规格";
 
@@ -270,12 +286,21 @@ CrestSagCurveTypeEnum="顶部或弦高曲线类型";
 CrestSagCurveType_Arc="圆弧";
 CrestSagCurveType_Parabola="抛物线";
 
+RailTrackTypeEnum="行驶路线类型";
+RailTrackType_Mono="单轨";
+RailTrackType_Dual="双轨";
+
+TraveledWayRotationModeCrownEnum="径向行驶路线旋转模式";
+TraveledWayRotationModePlanarEnum="平面行驶路线旋转模式";
 TraveledWayRotationModeEnum="行驶路线旋转模式";
 TraveledWayRotationMode_CenterLine="中心线";
 TraveledWayRotationMode_InnerEdge="内边线";
 TraveledWayRotationMode_OuterEdge="外边线";
 TraveledWayRotationMode_Right="右侧";
 TraveledWayRotationMode_Left="左侧";
+TraveledWayRotationMode_CenterCentralMedian="中心中位值的中心";
+TraveledWayRotationMode_EdgeCentralMedian="中心中位值的边线";
+TraveledWayRotationMode_CenterEachWay="各方向上的中心";
 NormalSlope="正常坡度";
 RollOver="翻转";
 TraveledWayType="行驶路线类型";
@@ -301,6 +326,17 @@ PassengerComfort="乘客舒适度";
 VerticalCentripedalAccelerationThreshold="垂直向心加速度阈值";
 RightOfWay="公共通道";
 SafetyZone="安全区域";
+SpiralType=" ";
+
+// Reverse Intermediate Spiral Composition
+ReverseTurnIntermediateSpiral="反向转弯组成";
+ReverseTurnIntermediateSpiralEnum_Single="单螺旋";
+ReverseTurnIntermediateSpiralEnum_Dual="双螺旋";
+
+// Compound turn PI management
+CompoundTurnPIComposition="复合转弯组成";
+CompoundTurnPICompositionEnum_Single="单 PI";
+CompoundTurnPICompositionEnum_Dual="双 PI";
 
 //----------------------------
 // Alignment Output Type
@@ -310,22 +346,39 @@ AlignmentSweepOutput="线路扫掠输出";
 UserDefined="用户定义的";
 FirstWayLeftShoulderExtract="左肩边线";
 FirstWayLeftTraveledWayExtract="左侧行驶路线边线";
-FirstWayLeftMedianExtract="左侧中间边线";
+FirstWayLeftMedianExtract="左中中位值边线";
 FirstWayCrownExtract="径向顶部边线";
-FirstWayRightMedianExtract="右侧中间边线";
+FirstWayRightMedianExtract="右中中位值边线";
 FirstWayRightTraveledWayExtract="右侧行驶路线边线";
 FirstWayRightShoulderExtract="右肩路线边线";
 
-// Tree NLS
+//Outputs Tree NLS Road
 AlignmentSweepOutput_0="用户定义的";
 AlignmentSweepOutput_1="左肩边线";
 AlignmentSweepOutput_2="左侧行驶路线边线";
-AlignmentSweepOutput_3="左侧中间边线";
+AlignmentSweepOutput_3="左中中位值边线";
 AlignmentSweepOutput_4="径向顶部边线";
-AlignmentSweepOutput_5="右侧中间边线";
+AlignmentSweepOutput_5="右中中位值边线";
 AlignmentSweepOutput_6="右侧行驶路线边线";
-AlignmentSweepOutput_7="右肩路线边线";
+AlignmentSweepOutput_7="右肩边线";
 
+//Outputs Tree NLS Railway
+AlignmentSweepOutput_Rail_0="用户定义";
+AlignmentSweepOutput_Rail_1="左肩边线";
+AlignmentSweepOutput_Rail_2="左侧轨道边线";
+AlignmentSweepOutput_Rail_4="径向顶部边线";
+AlignmentSweepOutput_Rail_6="右侧轨道边线";
+AlignmentSweepOutput_Rail_7="右肩边线";
+
+//Outputs Tree NLS Subgrade Surface
+AlignmentSweepOutput_Subgrade_0="用户定义";
+AlignmentSweepOutput_Subgrade_1="左肩边线";
+AlignmentSweepOutput_Subgrade_2="左侧边线";
+AlignmentSweepOutput_Subgrade_4="径向顶部边线";
+AlignmentSweepOutput_Subgrade_6="右侧边线";
+AlignmentSweepOutput_Subgrade_7="右肩边线";
+
+CentralMedian="中心中位值";
 
 //----------------------------
 
@@ -343,3 +396,8 @@ ProductOccError="相关产品匹配项不可用或未进行地理定位。";
 Road="道路";
 Railway="铁路";
 Drainage="流域";
+
+Flatness="A";
+
+NoGeolocation="无地理位置";
+

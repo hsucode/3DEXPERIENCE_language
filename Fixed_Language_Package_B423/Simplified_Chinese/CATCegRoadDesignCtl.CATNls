@@ -136,6 +136,8 @@ ExtrapolSweep.TooltipLongHelp="将横截面轮廓的最后一段外插延伸至�
 ModifyTerrain.Cut="挖掘";
 ModifyTerrain.Fill="填充";
 
+UpdateModifiedTerrain.YesNo.Title="更新土木集";
+UpdateModifiedTerrain.YesNo.Question="是否要更新“/P1”？";
 UpdateTargetTerrain.YesNo.Title="将地形设置为土方工程";
 UpdateTargetTerrain.YesNo.Question="/P1 土方工程“/P2”没有地形。 
 是否要为其设置地形？

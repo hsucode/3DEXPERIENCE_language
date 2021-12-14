@@ -2,8 +2,8 @@
 //Bounding Box Type
 CATMainPanelGrid.BoundingBoxType.BoundingBoxTrap.TooltipShortHelp="通过选择框创建边界框";
 CATMainPanelGrid.BoundingBoxType.BoundingBoxTrap.TooltipLongHelp="通过选择框创建边界框";
-CATMainPanelGrid.BoundingBoxType.BoundingBoxVolume.TooltipShortHelp="通过包络体创建边界框";
-CATMainPanelGrid.BoundingBoxType.BoundingBoxVolume.TooltipLongHelp="通过包络体创建边界框";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxVolume.TooltipShortHelp="通过包络体、曲面或闭合线创建边界框。";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxVolume.TooltipLongHelp="通过包络体、曲面或闭合线创建边界框。";
 CATMainPanelGrid.BoundingBoxType.BoundingBoxAlignment.TooltipShortHelp="通过线路生成边界框";
 CATMainPanelGrid.BoundingBoxType.BoundingBoxAlignment.TooltipLongHelp="通过线路和宽度创建边界框。线路可以通过两个点进行限制";
 
