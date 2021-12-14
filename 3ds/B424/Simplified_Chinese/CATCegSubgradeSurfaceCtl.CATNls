@@ -1,0 +1,34 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// CATCegSubgradeSurfaceCtl.CATNls
+//----------------------------------------------------------------------------
+
+PrimaryAlignmentLabel="主对齐";
+SecondaryAlignmentLabel="次要对齐";
+RulesExpanderLabel="规则";
+SectionsExpanderLabel="截面";
+DestinationSetExpanderLabel="目标集";
+OptionalNoSelection="无选择（可选）";
+NoSelection="无选择";
+Remove="移除";
+ReorderSections="沿对齐线排序";
+HeaderType="类型";
+HeaderName="名称";
+HeaderMessage="消息";
+NoRule="无规则";
+DestinationSetLabel="目标集";
+SectionTable.Title.Station="站";
+SectionTable.Title.Origin="原点";
+SectionTable.Title.VerticalOffset="垂直偏移 (a)";
+SectionTable.Title.LeftWidth="左侧宽度 (b)";
+SectionTable.Title.RightWidth="右侧宽度 (d)";
+SectionTable.Title.LeftSlope="左侧斜率 (c)";
+SectionTable.Title.RightSlope="右侧斜率 (e)";
+SectionTable.Title.TransitionLength="过渡长度";
+SectionTable.Title.Ballast="道渣";
+SectionTable.Title.KeepForSubgrade="保留路基";
+AddSectionLabel="添加截面";
+DefaultSelectionName.Start="开始";
+DefaultSelectionName.End="结束";
+
+DuplicateSection.warning="此时已创建一个截面。请选择另一个点或移除现有截面。";

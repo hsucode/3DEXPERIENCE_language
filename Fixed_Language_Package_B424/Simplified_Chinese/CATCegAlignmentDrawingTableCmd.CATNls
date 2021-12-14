@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+CATCegAlignmentDrawingTableCmd.Title="线路表";
+CATCegAlignmentDrawingTableCmd.UndoTitle="线路表";
+
+CATCegAlignmentDrawingTableCmd.ContextState.Message="选择视图";
+
