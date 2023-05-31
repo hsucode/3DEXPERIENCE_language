@@ -1,0 +1,43 @@
+<meta charset="UTF-8"/>
+//Bounding Box Type
+CATMainPanelGrid.BoundingBoxType.BoundingBoxTrap.TooltipShortHelp="通过选择框选择创建边界框";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxTrap.TooltipLongHelp="通过选择框选择创建边界框";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxVolume.TooltipShortHelp="通过包络体、曲面或闭合曲线创建边界框。";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxVolume.TooltipLongHelp="通过包络体、曲面或闭合曲线创建边界框。";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxAlignment.TooltipShortHelp="通过对齐创建边界框";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxAlignment.TooltipLongHelp="通过对齐和宽度创建边界框。对齐可以通过两个点进行限制。";
+
+//Label
+CATMainPanelGrid.BoundingBoxVolumeGrid.ElementLabel.Text="元素";
+
+CATMainPanelGrid.BoundingBoxAlignmentGrid.AlignmentLabel.Text="对齐";
+CATMainPanelGrid.BoundingBoxAlignmentGrid.StartPointLabel.Text="起点";
+CATMainPanelGrid.BoundingBoxAlignmentGrid.EndPointLabel.Text="终点";
+
+DefaultValue="默认（无）";
+
+CATMainPanelGrid.BoundingBoxAlignmentGrid.WidthLabel.Text="宽度";
+
+//Trap selection
+CATMainPanelGrid.BoundingBoxTrapGrid.DefaultTrap.Label="初始化";
+CATMainPanelGrid.BoundingBoxTrapGrid.DefaultTrap.TooltipShortHelp="使用大点云初始化边界框。";
+CATMainPanelGrid.BoundingBoxTrapGrid.DefaultTrap.TooltipLongHelp="使用大点云初始化边界框。";
+CATMainPanelGrid.BoundingBoxTrapGrid.ResetTrap.Label="重置";
+CATMainPanelGrid.BoundingBoxTrapGrid.ResetTrap.TooltipShortHelp="重置当前选择框选择。";
+CATMainPanelGrid.BoundingBoxTrapGrid.ResetTrap.TooltipLongHelp="重置当前选择框选择。";
+
+//tooltip
+ElementSelector.TooltipShortHelp="选择包络体、曲面或闭合曲线。";
+ElementSelector.TooltipLongHelp="选择包络体、曲面或闭合曲线。
+将复制包络体。
+闭合曲面将转换为包络体。
+开放曲面的外部边界将被提取，然后投影和拉伸，与闭合曲线类似。
+闭合曲线将投影到 XY 平面上，然后沿 Z 拉伸。";
+StartPointSelector.TooltipShortHelp="选择一个起点以限制曲线长度";
+StartPointSelector.TooltipLongHelp="选择一个起点以限制曲线长度";
+EndPointSelector.TooltipShortHelp="选择一个终点以限制曲线长度";
+EndPointSelector.TooltipLongHelp="选择一个终点以限制曲线长度";
+AlignmentSelector.TooltipShortHelp="选择一条曲线";
+AlignmentSelector.TooltipLongHelp="选择用于滚动偏移的曲线";
+WidthParameter.TooltipShortHelp="滚动偏移的宽度";
+WidthParameter.TooltipLongHelp="滚动偏移的宽度";

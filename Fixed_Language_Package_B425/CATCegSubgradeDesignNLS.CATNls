@@ -1,0 +1,137 @@
+<meta charset="UTF-8"/>
+//------------------------------------
+// CATCegSubgradeDesignNLS.CATNls
+//------------------------------------
+
+EarthworkRole="土方工程";
+Transition="转换 (/P1)";
+SubgradeSurfaceSet.Railway="铁路路基曲面集";
+SubgradeSurfaceSet.Road="道路路基曲面集";
+SubgradeSurface.Railway="铁路路基曲面";
+SubgradeSurface.Road="道路路基曲面";
+
+ERR_GuidingCurve.Request="输入缺少或无效";
+ERR_GuidingCurve.Diagnostic="线路曲线丢失或错误。";
+ERR_GuidingCurve.Advice="选择其他线路曲线。";
+
+ERR_SectionOrigin.Request="输入缺少或无效";
+ERR_SectionOrigin.Diagnostic="截面原点缺失或错误。";
+ERR_SectionOrigin.Advice="选择其他点。";
+
+ERR_SectionSameOrigin.Request="横截面无效";
+ERR_SectionSameOrigin.Diagnostic="截面原点错误。";
+ERR_SectionSameOrigin.Advice="不能将两个截面置于同一位置";
+
+ERR_MissingGeomInput.Request="缺少输入";
+ERR_MissingGeomInput.Diagnostic="未选择角色“/P1”的输入。";
+ERR_MissingGeomInput.Advice="选择一个元素。";
+
+ERR_MissingObjectType.Request="缺少对象类型或横截面";
+ERR_MissingObjectType.Diagnostic="未选择对象类型或横截面。";
+ERR_MissingObjectType.Advice="选择对象类型或横截面。";
+
+ERR_UdfUpdate.Request="横截面计算失败";
+ERR_UdfUpdate.Diagnostic="横截面计算失败。";
+ERR_UdfUpdate.Advice="检查当前路基下的失败横截面。";
+
+ERR_BadUdfOutput.Request="计算横截面输出失败";
+ERR_BadUdfOutput.Diagnostic="计算横截面输出失败。";
+ERR_BadUdfOutput.Advice="检查当前路基下的失败横截面。";
+
+ERR_SectionsNumber.Request="截面缺失或无效";
+ERR_SectionsNumber.Diagnostic="该截面包含的截面少于 2 个。";
+ERR_SectionsNumber.Advice="至少需要定义两个截面，且两个截面不能放置在同一位置上";
+
+ERR_SectionsMissingPoint.Request="截面无效";
+ERR_SectionsMissingPoint.Diagnostic="截面 /P1 不包含点。";
+ERR_SectionsMissingPoint.Advice="为此截面选择点。";
+
+ERR_SectionsSamePoint.Request="不同截面中的相同点";
+ERR_SectionsSamePoint.Diagnostic="点 /P1 在截面“/P2”和“/P3”中选择。";
+ERR_SectionsSamePoint.Advice="为这些截面选择不同的点。";
+
+ERR_SectionsSamePosition.Request="不同截面中的相同点位置";
+ERR_SectionsSamePosition.Diagnostic="截面“/P1”和“/P2”中的点，在投影到线路上时，几何相合。";
+ERR_SectionsSamePosition.Advice="为这些截面选择不同的点。";
+
+ERR_GuidingCurveNbDomains.Request="输入缺少或无效";
+ERR_GuidingCurveNbDomains.Diagnostic="线路曲线必须只包含一个域。";
+ERR_GuidingCurveNbDomains.Advice="选择其他线路曲线。";
+
+ERR_ClosedGuidingCurve.Request="输入缺少或无效";
+ERR_ClosedGuidingCurve.Diagnostic="所选曲线是闭合的。";
+ERR_ClosedGuidingCurve.Advice="选择一条开放曲线。";
+
+ERR_SpineCurve.Request="输入缺少或无效";
+ERR_SpineCurve.Diagnostic="线路曲线丢失或错误。";
+ERR_SpineCurve.Advice="选择另一条曲线。";
+
+ERR_PreviewNbBody="至少有一个截面无法计算。";
+ERR_PreviewNbEdges="至少有两个截面的边线数不相同。";
+ERR_PointOnCurve="至少有一个截面的点不在线路曲线上。";
+
+ERR_UdfInstantiationRole="具有角色的模板输入 /P1不正确";
+
+ERR_UdfInstantiation.Request="模板错误。";
+ERR_UdfInstantiation.Diagnostic="模板计算失败。";
+ERR_UdfInstantiation.Advice="实例化时失败的模板将被保存在模板错误集中。";
+
+ERR_Template_Errors="模板错误";
+ERR_Template_Destination="实例化时失败的模板将被保存在 /P1 中";
+
+ERR_CloseOperator="闭合运算符：内部错误。";
+ERR_OneSection="只能计算一个截面。";
+
+ERR_Interrupt.Request="处理中断。";
+ERR_Interrupt.Diagnostic="处理已中断。";
+ERR_Interrupt.Advice="如果需要，再次开始处理。";
+
+ERR_SectionNullTransition.Request="转换长度无效";
+ERR_SectionNullTransition.Diagnostic="截面 /P1 的转换长度不应等于零。";
+ERR_SectionNullTransition.Advice="修改转换长度。";
+
+ERR_SectionTwoTransition.Request="转换长度无效";
+ERR_SectionTwoTransition.Diagnostic="截面 /P1 和 /P2 的转换长度干扰。";
+ERR_SectionTwoTransition.Advice="修改转换长度。";
+
+ERR_SectionOutTransition.Request="转换长度无效";
+ERR_SectionOutTransition.Diagnostic="截面 /P1 的转换长度必须包含在两个截面内。";
+ERR_SectionOutTransition.Advice="修改转换长度或更改其符号。";
+
+ERR_SectionInvalidTransition.Request="转换长度无效";
+ERR_SectionInvalidTransition.Diagnostic="截面 /P1 的转换长度无效。";
+ERR_SectionInvalidTransition.Advice="修改转换长度。";
+
+ERR_SubgradeOutputUpdate.Request="路基输出更新错误";
+ERR_SubgradeOutputUpdate.Diagnostic="此路基输出的计算失败。";
+ERR_SubgradeOutputUpdate.Advice="启动“路基”命令，然后单击“应用”按钮以了解更多详细信息。";
+
+ERR_SubgradeLayer.Request="路基图层更新错误";
+ERR_SubgradeLayer.Diagnostic="此路基图层的计算失败。";
+ERR_SubgradeLayer.Advice="停用此图层。";
+
+ERR_Relimitation="线路的重新限制失败。";
+
+ERR_SplitSectionsNumber.Request="分割截面限制";
+ERR_SplitSectionsNumber.Diagnostic="该特征包含的分割截面至少有 2 个。";
+ERR_SplitSectionsNumber.Advice="最多需要定义两个分割截面，请移除分割截面。";
+
+ERR_CompatibilityCrossSection.Request="与横截面的兼容性问题";
+ERR_CompatibilityCrossSection.Diagnostic="特征的输入、参数、输出或类型与横截面不一致。";
+ERR_CompatibilityCrossSection.Advice="升级特征。";
+
+ERR_CrossSectionsMediumFine.Request="横截面太多，无法实现这种精度";
+ERR_CrossSectionsMediumFine.Diagnostic="在中等精度和精细精度下，仅授权第一个截面的一个横截面。";
+ERR_CrossSectionsMediumFine.Advice="切换至粗糙或手动精度，或仅提供一个横截面。";
+
+ERR_CrossSectionsCoarse1.Request="横截面太多，无法获得粗糙精度";
+ERR_CrossSectionsCoarse1.Diagnostic="在粗糙精度下，仅授权第一个截面的一个横截面。";
+ERR_CrossSectionsCoarse1.Advice="切换至其他精度模式。";
+
+ERR_CrossSections_SketchBased1.Request="混合横截面未经授权";
+ERR_CrossSections_SketchBased1.Diagnostic="选择了基于草图的横截面“/P1”。您不能选择其他横截面。";
+ERR_CrossSections_SketchBased1.Advice="只保留一个基于草图的横截面。";
+
+ERR_CrossSections_MissingFirstSection.Request="第一个截面缺少横截面";
+ERR_CrossSections_MissingFirstSection.Diagnostic="必须在第一个截面上定义横截面。";
+ERR_CrossSections_MissingFirstSection.Advice="在第一个截面上选择一个横截面";

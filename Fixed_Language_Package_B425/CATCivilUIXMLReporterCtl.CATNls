@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+
+CATCivilUIXMLReporter_Panel="导出 /P1报告";
+
+Alignment="对齐";
+Rebars="钢筋";
+
+FeatureSelect.Text="选择";
+Format.Text="格式";
+
+Excel.TooltipShortHelp="导出到 excel 格式";
+Html.TooltipShortHelp="导出到 html 格式";
+
+ExportError="导出错误";
+ExportSuccess="导出成功 /P1";
+ExportStopped="导出已停止 /P1";
+
+CompleteSelection.Info="未找到此选择的元素";
