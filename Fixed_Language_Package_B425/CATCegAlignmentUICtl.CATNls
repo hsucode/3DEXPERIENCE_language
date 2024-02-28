@@ -1,20 +1,20 @@
 <meta charset="UTF-8"/>
 
-CATCegAlignmentPanel_Edit="对齐定义";
-CATCegAlignmentPanel_CreateVertical="垂直对齐创建";
-CATCegAlignmentPanel_Create3D="3D 对齐创建";
-CATCegAlignmentPanel_CreateAllVertical="网络 - 创建垂直对齐";
+CATCegAlignmentPanel_Edit="线路定义";
+CATCegAlignmentPanel_CreateVertical="垂直线路创建";
+CATCegAlignmentPanel_Create3D="3D 线路创建";
+CATCegAlignmentPanel_CreateAllVertical="网络 - 创建垂直线路";
 
 PkPointsExpander.Label="点";
 PkPointsExpander.Tooltip="单击以查看点";
 
-AlignmentGroup.AlignmentButtonTooltip.Tooltip="对齐";
-HAlignmentGroup.HAlignmentButtonTooltip.Tooltip="水平对齐";
-HAlignmentGroup.HAlignmentEditButton.Tooltip="单击以编辑水平对齐草图";
-HAlignmentGroup.BoundingBoxGrid.BoundingBoxButton.Tooltip="激活或停用已传输元素的水平对齐";
+AlignmentGroup.AlignmentButtonTooltip.Tooltip="线路";
+HAlignmentGroup.HAlignmentButtonTooltip.Tooltip="水平线路";
+HAlignmentGroup.HAlignmentEditButton.Tooltip="单击以编辑水平线路草图";
+HAlignmentGroup.BoundingBoxGrid.BoundingBoxButton.Tooltip="激活或停用已传输元素的水平线路";
 HAlignmentGroup.BoundingBoxGrid.BoundingBoxWidth.Text="边界框宽度";
-VAlignmentGroup.VAlignmentButtonTooltip.Tooltip="垂直对齐";
-VAlignmentGroup.VAlignmentEditButton.Tooltip="单击以编辑垂直对齐草图";
+VAlignmentGroup.VAlignmentButtonTooltip.Tooltip="垂直线路";
+VAlignmentGroup.VAlignmentEditButton.Tooltip="单击以编辑垂直线路草图";
 3DSelectGroup.3DObjectButtonTooltip.Tooltip="其他 3D 对象，不用于“剪切和填充”操作";
 3DSelectGroup.GeologyButtonTooltip.Tooltip="代表地下图层且用于随挖随填操作的地质学";
 3DSelectGroup.TerrainButtonTooltip.Tooltip="代表顶部曲面且用于随挖随填操作的地形";
@@ -24,32 +24,32 @@ VAlignmentGroup.VAlignmentEditButton.Tooltip="单击以编辑垂直对齐草图"
 3DSelectGroup.CheckBoxTerrainOptimizedProjectionMode.Label="启用多面体展示";
 3DSelectGroup.CheckBoxTerrainOptimizedProjectionMode.Tooltip="为多面体实体禁用使用边线生成。此模式不允许将投影用作 Sketcher 实体。";
 
-SelectHAlignment="选择水平对齐";
-SelectAlignment="选择对齐";
+SelectHAlignment="选择水平线路";
+SelectAlignment="选择线路";
 SelectTerrain="无选择";
 
-ButtonsGroup.VAlignmentButton.Label="创建垂直对齐";
-ButtonsGroup.VAlignmentButton.Tooltip="单击以创建垂直对齐草图";
-ButtonsGroup.3DAlignmentButton.Label="创建 3D 对齐";
-ButtonsGroup.3DAlignmentButton.Tooltip="单击以创建 3D 对齐曲线";
+ButtonsGroup.VAlignmentButton.Label="创建垂直线路";
+ButtonsGroup.VAlignmentButton.Tooltip="单击以创建垂直线路草图";
+ButtonsGroup.3DAlignmentButton.Label="创建 3D 线路";
+ButtonsGroup.3DAlignmentButton.Tooltip="单击以创建 3D 线路曲线";
 
-VerticalExists.Title="垂直对齐创建";
-VerticalExists.Text="此水平对齐已存在垂直对齐。";
-VerticalExists.Info="是否要创建新的垂直对齐？";
+VerticalExists.Title="垂直线路创建";
+VerticalExists.Text="此水平线路已存在垂直线路。";
+VerticalExists.Info="是否要创建新的垂直线路？";
 
-TerrainSelection.OldCutAndFillFeature.Error="无法添加地形或地质。您必须升级所有对齐的挖掘和填充元素。";
+TerrainSelection.OldCutAndFillFeature.Error="无法添加地形或地质。您必须升级所有线路的挖掘和填充元素。";
 
 ImcompatibleTerrain_Title="至少一个地形/图层与优化模式不兼容";
 ImcompatibleTerrain_Message="这些特征的相交投影将不会被优化";
 ImcompatibleTerrain_Message2="只能优化多面体地形/图层投影。\n不兼容的对象包括： ";
 
 OutputSeparator.OutputTitle.Text="输出管理";
-OutputSeparator.OutputManagementButtonTooltip.Tooltip="管理输出生命周期。只有存在 3D 对齐时才会生成曲面。
+OutputSeparator.OutputManagementButtonTooltip.Tooltip="管理输出生命周期。只有存在 3D 线路时才会生成曲面。
 主曲线从曲面提取，因此应选择最后一条曲线以生成主曲线。如果取消选择现有输出，则通过单击“确定”按钮将其移除。";
 
 Output.ListOutput.TextHeaderName="输出";
 Output.ListOutput.TextHeaderValue=" ";
 
-AutomaticSurface_Tooltip="只有存在 3D 对齐时才会生成曲面。";
+AutomaticSurface_Tooltip="只有存在 3D 线路时才会生成曲面。";
 AutomaticMainCurves_Tooltip="应检查自动曲面以生成主曲线。";
 

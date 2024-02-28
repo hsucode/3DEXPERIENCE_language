@@ -1,6 +1,6 @@
 <meta charset="UTF-8"/>
 AECKernel="建筑和公共装配";
-AECKernel.AecAlignmentType="对齐类型";
+AECKernel.AecAlignmentType="线路类型";
 AECKernel.AecBOAbstract="AEC 业务对象提取";
 AECKernel.AecElement="AEC 元素";
 AECKernel.AecElementAssembly="元素装配";

@@ -42,7 +42,7 @@ AddSectionLabel="添加截面";
 
 Remove="移除";
 Display3DParm="显示/隐藏参数";
-ReorderSections="沿对齐排序";
+ReorderSections="沿线路排序";
 CopyPasteSubMenu="复制/粘贴横截面";
 
 SelectAll="全选";

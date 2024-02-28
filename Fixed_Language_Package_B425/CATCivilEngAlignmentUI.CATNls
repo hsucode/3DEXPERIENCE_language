@@ -279,7 +279,7 @@ NumberOfLanes="车道数";
 IncomingTangentGradient="传入切线梯度";
 OutgoingTangentGradient="传出切线梯度";
 Category="道路类别";
-Offset="从对齐偏移（左侧为负）";
+Offset="从线路偏移（左侧为负）";
 DesignSpeed="设计速度";
 Flow="流";
 TraveledWayWidth="行驶路线宽度";
@@ -341,11 +341,11 @@ MaxValue="最大值";
 SemanticTyping.SameTypeWarning="与上一个点类型相同。\n它将开始新的 /P1。";
 SemanticTyping.EmptySelection="未选择任何线路点！";
 
-ActiveProfileUpdated="活动水平对齐现在为 /P1";
-NoActiveProfileUpdated="没有活动水平对齐";
+ActiveProfileUpdated="活动水平线路现在为 /P1";
+NoActiveProfileUpdated="没有活动水平线路";
 
-Alignment="对齐";
-HAlignment="水平对齐";
+Alignment="线路";
+HAlignment="水平线路";
 HACurve="HACurveProfile";
 Network="网络";
-ActiveProfile="活动对齐";
+ActiveProfile="活动线路";

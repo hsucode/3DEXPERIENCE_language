@@ -19,7 +19,7 @@ UpgradeComponent.YesNo.More="单击“是”以升级。这样将删除典型横
 单击“否”则不升级。";
 
 //----------------- GENERAL -------------------
-GeneralGrid.CurveLabel.Label="对齐";
+GeneralGrid.CurveLabel.Label="线路";
 GeneralGrid.SurfaceLabel.Label="曲面";
 GeneralGrid.SurfaceLabel.Road.Label="道路曲面";
 GeneralGrid.SurfaceLabel.Railway.Label="铁路曲面";
@@ -76,7 +76,7 @@ DefaultSelectionName.End="结束";
 //----------------------------------------------------------------------------
 // Help
 //----------------------------------------------------------------------------
-CurveSelector.TooltipShortHelp="选择对齐。";
+CurveSelector.TooltipShortHelp="选择线路。";
 
 SurfaceSelector.TooltipShortHelp="选择方向朝上的曲面。";
 SurfaceSelector.Platform.TooltipShortHelp="选择平台曲面或平台轮廓。";
@@ -148,7 +148,7 @@ UpdateTargetTerrain.YesNo.Question="/P1 土方工程“/P2”没有地形。
 // Selection status bar message
 //----------------------------------------------------------------------------
 State1.SelectAlignmentSurface="选择线路曲面。";
-State1.SelectAlignmentCurve="选择对齐曲线。";
+State1.SelectAlignmentCurve="选择线路曲线。";
 State1.SelectPlatform="选择平台。";
 State1.SelectStartElement="选择起始元素。";
 State1.SelectEndElement="选择终止元素。";
@@ -163,7 +163,7 @@ State1.SelectCrossSectionUdf="选择路基以共享相同的典型横截面。";
 State1.SelectModifyTerrainInput="选择土方工程、路基或其他元素以修改地形或整合路基图层。";
 State1.SelectLinearStretchInput="选择土方工程或路基。";
 
-Warning.State1.SelectSectionPoint.1="尚未选择对齐方式。不可选择点。\n请首先选择对齐方式。";
+Warning.State1.SelectSectionPoint.1="尚未选择线路方式。不可选择点。\n请首先选择线路方式。";
 Warning.State1.SelectModifyTerrainInput.1="未将选定元素键入为挖掘作业或填充作业。";
 
 //----------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 
 CATCivilUIXMLReporter_Panel="导出 /P1报告";
 
-Alignment="对齐";
+Alignment="线路";
 Rebars="钢筋";
 
 FeatureSelect.Text="选择";

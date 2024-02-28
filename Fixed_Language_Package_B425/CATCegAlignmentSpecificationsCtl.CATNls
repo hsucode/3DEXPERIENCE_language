@@ -12,10 +12,10 @@ FirstWayLeftSide="第一路线左侧";
 FirstWayCenter="第一路线中心";
 FirstWayRightSide="第一路线右侧";
 LaneWithIndex="车道 #/P1";
-Reset="恢复先前过载的 PkPoint 或对齐的值";
+Reset="恢复先前过载的 PkPoint 或线路的值";
 Edit="编辑 PkPoint 以使其值过载";
 ProfileLabel="轮廓";
-Warning="未找到一个或多个对齐规则";
+Warning="未找到一个或多个线路规则";
 LaneToolTip="宽度 = /P1\n横向间隙 = /P2";
 ProjectSpecificationsExpanderLabel="项目规格";
 

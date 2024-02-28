@@ -7,7 +7,7 @@ SelectAlignment="（选择 3D 线路）";
 
 // Name Editor
 GridEditorName.txtAlignment.Text="线路";
-GridRotationAndLane.txtAlignment.Text="对齐";
+GridRotationAndLane.txtAlignment.Text="线路";
 
 // Lane Type Combo
 GroupLane.Label="路径";
@@ -102,5 +102,5 @@ txtWidth2.Text.Railway="右肩宽度";
 GroupParameters.GridParameters.txtWidth2Caption.Text="(c)";
 
 // Context Updated
-ContextUpdated="已使用对齐 /p1 时定义的值成功更新上下文：/p2";
+ContextUpdated="已使用线路 /p1 时定义的值成功更新上下文：/p2";
 

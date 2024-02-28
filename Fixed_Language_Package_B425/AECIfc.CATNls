@@ -1,5 +1,5 @@
 <meta charset="UTF-8"/>
-AECIfc.IfcAlignment="Ifc 对齐";
+AECIfc.IfcAlignment="Ifc 线路";
 AECIfc.IfcAlignment.IfcAlignment_ObjectType="对象类型";
 AECIfc.IfcAlignment.IfcAlignment_PredefinedType="预定义类型";
 AECIfc.IfcAlignment.IfcAlignment_LinearRefMethod="线性参考方法（已弃用）";

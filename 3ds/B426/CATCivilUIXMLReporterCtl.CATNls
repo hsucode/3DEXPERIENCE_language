@@ -1,0 +1,36 @@
+<meta charset="UTF-8"/>
+
+CATCivilUIXMLReporter_Panel="导出 /P1报告";
+
+Alignment="对齐";
+Rebars="钢筋";
+BVBS="3D 到 2D 选项";
+BVBS_DiameterLimit="标称直径";
+BVBS_DiameterLimit_Tooltip="设置 3D 到 2D 导出的标称直径限制";
+BVBS_NumberDiamters="直径数";
+BVBS_NumberDiamters_Tooltip="设置 3D 到 2D 导出的物理直径数限制";
+
+Sorting.Label="排序模式";
+Sorting.NoSorting="无排序";
+Sorting.ByDiameter="按直径";
+Sorting.ByBarMark="按条形标记";
+
+Language.Label="输出语言";
+Language.English="英语";
+Language.French="法语";
+Language.German="德语";
+Language.Italian="意大利语";
+Language.Japanese="日语";
+Language.Korean="韩国语";
+
+FeatureSelect.Text="选择";
+Format.Text="格式";
+
+Excel.TooltipShortHelp="导出到 excel 格式";
+Html.TooltipShortHelp="导出到 html 格式";
+
+ExportError="导出错误";
+ExportSuccess="导出成功 /P1";
+ExportStopped="导出已停止 /P1";
+
+CompleteSelection.Info="未找到此选择的元素";

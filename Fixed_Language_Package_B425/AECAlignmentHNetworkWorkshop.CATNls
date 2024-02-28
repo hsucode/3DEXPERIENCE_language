@@ -11,7 +11,7 @@ AECAlignmentHNetworkWorkshop.LongHelp="Horizontal Alignment Sketcher";
 //----------------------------------------------------------------------------
 // ACTION BAR
 //----------------------------------------------------------------------------
-AlignmentSection.Title="对齐";
+AlignmentSection.Title="线路";
 SketcherSection.Title="Sketcher";
 AnalysisSection.Title="分析";
 
