@@ -1,0 +1,13 @@
+<meta charset="UTF-8"/>
+SWXAECPLMEditorDlg.Title="BIM 属性";
+SWXAECPLMEditorDlg.SelectionList="对象列表";
+SWXAECPLMEditorDlg.NotAddingToList="选定参考的类型不是“/P01”";
+SWXAECPLMEditorDlg.LabelProductScroll="/P1/ /P2";
+SWXAECPLMEditorDlg.LabelProductScroll.CountSearchResult="已发现：/P1";
+SWXAECPLMEditorDlg.LabelAnalyzeLeafNodesCB="仅适用于叶节点";
+SWXAECPLMEditorDlg.TransParencySlider.ToolTip="调整对象列表中未突出显示的对象的透明度";
+SWXAECPLMEditorDlg.NoBIMAttribute="没有与所选对象关联的 BIM 属性";
+
+
+
+

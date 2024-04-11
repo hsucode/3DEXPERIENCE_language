@@ -1,0 +1,58 @@
+<meta charset="UTF-8"/>
+Title="图形显示首选项"; // ?@validatedUsage ATV 13:10:03 
+
+DisplayIGOptionsTabCont.ShowTabPage.Title="图形自定义"; // ?@validatedUsage ATV 13:10:03 
+DisplayIGOptionsTabCont.ShowTabPage.ShortHelp="用于修改图形显示的选项"; // ?@validatedUsage ATV 13:10:03 
+DisplayIGOptionsTabCont.ShowTabPage.LongHelp="用于修改图形显示的选项"; // ?@validatedUsage ATV 13:10:03 
+
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmCloneFrame.CloneLabel.Title="复制";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmCloneFrame.ShortHelp="修改节点（包括复制对象）的背景颜色";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmCloneFrame.LongHelp="修改节点（包括复制对象）的背景颜色\n复制对象指的是在影响图中出现多次的对象"; // ?@validatedUsage ATV 13:10:03 
+
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmLoadedFrame.LoadedLabel.Title="未加载";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmLoadedFrame.ShortHelp="修改节点（包括会话中的未加载对象）的背景颜色";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmLoadedFrame.LongHelp="修改节点（包括会话中的未加载对象）的背景颜色";
+
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmRelationFrame.RelationLabel.Title="关系颜色";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmRelationFrame.ShortHelp="根据类型修改圆弧的颜色";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmRelationFrame.LongHelp="根据类型修改圆弧的颜色\n圆弧可上色或不上色";
+
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmExpandRelationFrame.ExpandRelationLabel.Title="关系文本显示";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmExpandRelationFrame.ShortHelp="修改关系节点的显示";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmExpandRelationFrame.LongHelp="修改关系节点的显示\n可以显示或不显示文本";
+
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmNotSyncRelationFrame.NotSyncRelationLabel.Title="未同步的关系";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmNotSyncRelationFrame.ShortHelp="修改节点（包括未同步的关系）的背景颜色";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.CATImmNotSyncRelationFrame.LongHelp="修改节点（包括未同步的关系）的背景颜色\n显示关系文本（如果尚未显示）";
+
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.DisplayNameTypeFrame.DisplayTypeLabel.Title="节点阵列";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.DisplayNameTypeFrame.ShortHelp="修改节点的显示阵列";
+DisplayIGOptionsTabCont.ShowTabPage.CATImmShowFrame.DisplayNameTypeFrame.LongHelp="修改节点的显示阵列";
+
+DisplayIGOptionsTabCont.FilterTabPage.Title="过滤器";
+DisplayIGOptionsTabCont.FilterTabPage.ShortHelp="用于修改图形的拓扑图形显示的过滤器"; // ?@validatedUsage ATV 13:10:03 
+DisplayIGOptionsTabCont.FilterTabPage.LongHelp="用于修改图形的拓扑图形显示的过滤器"; // ?@validatedUsage ATV 13:10:03 
+
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.FilterRelationFrame.FilterRelationTypeCheckButton.Title="根据关系类型";
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.FilterRelationFrame.FilterRelationTypeCheckButton.ShortHelp="用于根据关系类型过滤图形的首选项"; // ?@validatedUsage ATV 13:10:03 
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.FilterRelationFrame.FilterRelationTypeCheckButton.LongHelp="用于根据关系类型过滤图形的首选项\n通过按下右边的按钮来选择过滤的关系"; // ?@validatedUsage ATV 13:10:03 
+
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.FilterRelationFrame.DisplayPanelRelationTypePushButton.Title="...";
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.FilterRelationFrame.DisplayPanelRelationTypePushButton.ShortHelp="用于选择过滤关系类型的显示面板";
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.FilterRelationFrame.DisplayPanelRelationTypePushButton.LongHelp="用于选择过滤关系类型的显示面板\n没有在“首选项+选项”设置中选择不可拾取的关系类型";
+
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.NotSynchroRelCheckButton.Title="未同步的关系";
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.NotSynchroRelCheckButton.ShortHelp="用于仅根据未同步关系过滤图形的首选项"; // ?@validatedUsage ATV 13:10:03 
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.NotSynchroRelCheckButton.LongHelp="用于仅根据未同步关系过滤图形的首选项\n仅显示图形（包括未同步的关系）分支"; // ?@validatedUsage ATV 13:10:03 
+
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.PublicationLinkDisplayButton.Title="隐藏发布链接";
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.PublicationLinkDisplayButton.ShortHelp="用于管理发布链接显示的首选项";
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.PublicationLinkDisplayButton.LongHelp="用于管理发布链接显示的首选项";
+
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.CouplingFrame.EnableVPMnavCouplingButton.Title="根据耦合 Product Finder 应用程序";
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.CouplingFrame.EnableVPMnavCouplingButton.ShortHelp="用于仅根据耦合 Product Finder 应用程序过滤图形的首选项"; // ?@validatedUsage ATV 13:10:03 
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.CouplingFrame.EnableVPMnavCouplingButton.LongHelp="用于仅根据耦合 Product Finder 应用程序过滤图形的首选项"; // ?@validatedUsage ATV 13:10:03 
+
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.CouplingFrame.CouplingPushButton.Title="...";
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.CouplingFrame.CouplingPushButton.ShortHelp="用于选择要耦合的选项卡的显示面板";
+DisplayIGOptionsTabCont.FilterTabPage.CATImmFilterFrame.CouplingFrame.CouplingPushButton.LongHelp="用于选择要耦合的首选项的显示面板";

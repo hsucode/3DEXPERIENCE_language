@@ -1,0 +1,35 @@
+<meta charset="UTF-8"/>
+//CATEseSpecCompareCmd NLS
+CATEseSpecCompareCmd.InitialState.Message="选择要与活动规格比较的规格";
+CATEseSpecCompareCmd.PanelDisplayed.Message="在规格中执行任何必要的更改或关闭面板";
+
+PanelTitle="规格比较";
+
+Identical.Title="相同的对象";
+Identical="此对象在两个规格中均存在";
+
+HaveSameType.Title="相同类型的对象";
+HaveSameType="对象类型相同但不相关";
+
+SubtableTooltip.Title="子表";
+SubtableTooltip="“/P1”是“/P3”/P4 的 /P2 子表";
+SubtableTooltip.Direct=" 直接";
+SubtableTooltip.AdditionalMessage=" 缺少 /P1 列";
+
+SubfilterTooltip.Title="包含";
+SubfilterTooltip="“/P1”的所有过滤器单元均包含在“/P2”之内";
+
+//FirstElementAction.ColumnName="Action";
+//SecondElementAction.ColumnName="Action";
+Status.ColumnName="状态";
+
+ContextMenu.RemoveFromMain="移除左侧对象";
+ContextMenu.RemoveFromSecond="移除右侧对象";
+ContextMenu.CreateSubobjectInMain.Table="在左侧规格中创建右侧对象的子对象";
+ContextMenu.CreateSubobjectInSecond.Table="在右侧规格中创建左侧对象的子对象";
+ContextMenu.TransferFromMainToSecond="在右侧规格中添加左侧对象";
+ContextMenu.TransferFromSecondToMain="在左侧规格中添加右侧对象";
+
+SpecificationCombo.PlaceHolder="选择规格";
+SpecificationCombo.Description="比较“/P1”与 ";
+CATEseSpecCompareCmd.UndoTitle="ESE 规格比较";

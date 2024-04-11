@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+ColCoreListTitle="实心";
+ColCavityListTitle="空腔";
+
+ColCoreListIconTitle="图标";
+ColCavityListIconTitle="图标";
+CoreToCavityBtnId="->";
+CavityToCoreBtnSyp="<-";
+AssignProtectedVolumeLabel="定义为";
+ExtractionPropertiesGrid.CoreListTable.TooltipLongHelp="分配到实心的特征列表。";
+ExtractionPropertiesGrid.CavityListTable.TooltipLongHelp="分配到空腔的特征列表。";
+ExtractionPropertiesGrid.CoreCavityButtonsLayStack.CoreToCavityBtn.TooltipLongHelp="将受保护的特征从实心列表
+分配到空腔列表。";
+ExtractionPropertiesGrid.CoreCavityButtonsLayStack.CavityToCoreBtn.TooltipLongHelp="将受保护的特征从空腔列表
+分配到实心列表。";
+

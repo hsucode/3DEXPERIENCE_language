@@ -1,0 +1,110 @@
+<meta charset="UTF-8"/>
+
+// Messages
+// --------
+SWXUiAECMessages.Error.NoUDFInstance="无法实例化用户定义的特征实例。";
+SWXUiAECMessages.Error.NoGridForCatalogMember="没有建筑或参考平面网格。创建目录特征前，请先创建建筑或参考平面网格。";
+SWXUiAECMessages.Error.NoGridForStructurePlate="不存在建筑或参考平面网格。创建板前，请先创建建筑或参考平面网格。";
+SWXUiAECMessages.Error.NoBuildingGridForCastOrFndMember="没有建筑或参考平面网格。创建预制或基础特征前，请先创建建筑网格。";
+SWXUiAECMessages.Error.SelectBuildingGridTrialWire="尚不支持参考平面网格特征上的混凝土构件。";
+SWXUiAECMessages.Error.IntersectingContoursInSketch="选定草图包含带有相交边线或不当重叠的轮廓。选择具有单一闭合轮廓或完全包含在单一外部闭合轮廓中的内部闭合轮廓的草图。";
+SWXUiAECMessages.Error.OpenSketch="选定草图包含一个或多个开放轮廓。选择闭合轮廓草图。";
+SWXUiAECMessages.Error.NoFoundationStory="不存在基础楼层。先在建筑中插入基础楼层，然后再创建基础构件。";
+SWXUiAECMessages.Error.NoGridOnFoundationStory="没有网格包括基础楼层，请先选择该选项以为网格纳入基础参考平面，然后再创建基础构件。";
+SWXUiAECMessages.Error.WallFootingInputError="无法创建底基几何体。请修改输入。";
+SWXUiAECMessages.Error.ExportSuccess="SDNF 文件导出成功";
+SWXUiAECMessages.Error.ExportFailure="无法导出所有线性构件和楼板。请检查日志了解详细信息。";
+SWXUiAECMessages.Error.ImportSuccess="SDNF 文件导入成功";
+SWXUiAECMessages.Error.ImportFailure="模型比较失败。对比的建筑可能不同。检查日志以了解详细信息。";
+SWXUiAECMessages.Error.FileNotFound="未找到要导入的 SDNF 文件。检查路径。";
+SWXUiAECMessages.Error.NoPreviewBody="无法创建预览几何体。";
+SWXUiAECMessages.Error.NoJoistPreviewBody="搁架跨度太大，请选择较小的尺寸。";
+SWXUiAECMessages.Error.CheckSegmentForHighCurvature="无法创建几何图形，检查网格段曲率是否过大。";
+SWXUiAECMessages.Error.NoHostsForSteelDetailing="没有合适的主支柱可用来创建详细特征。首先创建结构构件。";
+SWXUiAECMessages.Warning.BadPerimeterBasedResults="带非垂直平面的参考平面网格可能会针对斜肋构架、全内部或全侧面创建模式生成意外结果。 ";
+SWXUiAECMessages.Error.FailedToCreateFeature="无法创建特征。检查选择和参数。";
+SWXUiAECMessages.Error.FailedToMakeGridSegments="无法生成现有网格段。检查模型。";
+SWXUiAECMessages.Error.NoStructurePart="未找到结构零件。";
+SWXUiAECMessages.Error.InvalidHost="选择的主构建无效。";
+SWXUiAECMessages.Error.InvalidMemberToCut="选择的要剪切的构件无效。无法剪切预制构件。";
+
+SWXUiAECMessages.Error.Warning="警告";
+SWXUiAECMessages.Error.FeatureNotReady="尚未准备好对此进行测试。";
+
+SWXUiAECMessages.Error.NoSuitableHostCorbel="没有合适的主支柱可用来放置托臂。首先创建一个或多个垂直预制支柱。";
+SWXUiAECMessages.Error.NoCastColumns="预制托臂置于预制支柱，但不存在任何预制支柱。";
+SWXUiAECMessages.Error.NoSuitableHostGussetPlate="没有合适的主特征可用来放置角撑板。首先创建一个或多个目录横梁、支柱、撑杆或横梁阵列。";
+SWXUiAECMessages.Error.NoGridSimuliaExport="没有结构网格特征。先创建一个或多个结构网格特征，然后再将模型导出到 Simulia。";
+SWXUiAECMessages.Error.NoGridForTrussLayout="没有建筑或参考平面网格。创建桁架布局特征前，请先创建建筑或参考平面网格。";
+SWXUiAECMessages.Error.NeedsMissingShellCore="要在活动几何图形集中创建特征，必须存在建筑的壳体/实心产品。";
+
+SWXUiAECMessages.Error.GeneralError="错误";
+SWXUiAECMessages.Error.SelectionError="选择错误";
+SWXUiAECMessages.Error.InvalidWire="所选线无效。只选择包含单条直线或光顺曲线的直线、样条线、折线或草图。不允许有多条边线的草图或折线。";
+SWXUiAECMessages.Error.InvalidPoint="选择的点无效。选择 GSM 点、平面上的 GSM 点或 3D 轴系。";
+SWXUiAECMessages.Error.InvalidPullDir="所选方向无效，或它不会在所选线上产生有效结果。选择直线、平面或轴系。";
+SWXUiAECMessages.Error.InvalidRefForPattern="选择无效。选择几何图形集，包含输出特征的草图，或矩形、圆形或用户阵列。";
+SWXUiAECMessages.Error.WrongInWorkGeomSet="选择无效。选择与工作中几何图形集不同且未包含在其中的几何图形集。";
+SWXUiAECMessages.Error.CheckGeomSetContents="无法创建预览几何体。所选线不包含有效曲线，或输入的参数导致几何体无效。";
+SWXUiAECMessages.Warning.NegativeTrimValue="样条曲线上的负端剪裁可能会产生意外结果。为了获得更好的结果，使基础样条曲线（可能在网格草图中）足够长，已适应负终点修剪。";
+SWXUiAECMessages.Error.SamePoint="所选点与先前所选点相同。请选择不同点。";
+SWXUiAECMessages.Warning.End1TrimError="终点 1 修剪平面不与构件相交。如果样条线上终点修剪为负，原因可能是样条线无法足够延伸来适应修剪。在这种情况下，使基础样条线（可能在网格草图中）足够长，以适应负终点修剪。";
+SWXUiAECMessages.Warning.End2TrimError="终点 2 修剪平面不与构件相交。如果样条线上终点修剪为负，原因可能是样条线无法足够延伸来适应修剪。在这种情况下，使基础样条线（可能在网格草图中）足够长，以适应负终点修剪。";
+SWXUiAECMessages.Warning.EndTrimError="终点修剪平面移除整个构件。";
+
+SWXUiAECMessages.Info.PreProcessing="预处理已完成，正在读取模型。";
+SWXUiAECMessages.Info.Read="模型读取成功，正在预计算。";
+SWXUiAECMessages.Info.PreCompute="预计算已完成，正在计算仿真元素。";
+SWXUiAECMessages.Info.Compute="模型计算成功，正在后计算。";
+SWXUiAECMessages.Info.PostCompute="后计算已完成，正在写入仿真模型。";
+SWXUiAECMessages.Info.Write="仿真模型写入成功，正在更新 PLM 部件。";
+SWXUiAECMessages.Info.Update="PLM 更新已完成，正在写入刚性连接器。";
+SWXUiAECMessages.Info.Connectors="正在后处理。";
+SWXUiAECMessages.Info.PostProcess="后处理已完成。";
+SWXUiAECMessages.Info.Export="生成模拟";
+SWXUiAECMessages.Info.FileExistsTitle="文件已存在";
+SWXUiAECMessages.Info.FileExistsMessage="文件已存在。是否要覆盖该文件？";
+SWXUiAECMessages.Info.SwitchingToMemberSketch="将选择切换为生成了 CATIA 草图的构件驱动草图";
+SWXUiAECMessages.Info.OnlyOneHostPlane="主特征只有一个主平面";
+SWXUiAECMessages.Info.MissingSketch="为轮廓选择草图或构件驱动的草图";
+SWXUiAECMessages.Warning.SWXSketch="此特征引用了 SOLIDWORKS 草图。
+Buildings Space Planning 中不再支持 SOLIWORKS 草图。继续引用 SOLIDWORKS 草图可能导致此特征无法迁移到最新版本。强烈建议您将参考的草图替换为 CATIA 草图。";
+SWXUiAECMessages.Warning.IncompatibleOT="所选对象类型不能用于创建建筑物结构构建，所选对象类型不包含适当的资源。选择包含适当的基于横截面特征的设计资源的对象类型。";
+
+
+SWXUiAECMessages.Message.MigrationNeededTitle="需要模型迁移";
+SWXUiAECMessages.Message.MigrationOnEdit="必须先迁移构建模型，然后才能创建新的或编辑现有的结构特征。
+
+迁移构建模型将会替换使用功能建模建模的预制支柱、梁、梁阵列、托臂、撑杆和底基特征，这些特征不使用功能建模。对于大型构建模型，这可能需要花费一些时间。
+
+如果构建模型有待定更改，强烈建议您单击下面的“否”，并在迁移构建模型之前更新该构建。
+
+是否要立即迁移构建模型？";
+
+SWXUiAECMessages.Message.MigrationOnCreate="在创建新结构特征之前需要迁移。
+
+请注意，在迁移过程结束时将会更新建筑物。对于大型建筑物而言，更新可能需要很长时间。
+
+如果建筑物有待定更改，强烈建议您在执行迁移之前先更新建筑物。";
+
+SWXUiAECMessages.Message.MigrationTitle="迁移";
+SWXUiAECMessages.Message.AssemblyNotOpen="除非整个建筑物装配体打开，否则无法迁移建筑物。
+
+如果整个建筑物装配体打开，则可能没有正确地删除一个或多个楼层。右键单击树中的建筑物，然后选择“建筑物 -> 还原缺失的楼层”。然后根据需要删除楼层。再然后迁移建筑物。
+
+除非整个建筑物装配体打开，否则不要使用“还原缺失的楼层”。";
+
+SWXUiAECMessages.PlaceHolder.NotDefineByType="未按类型定义";
+
+SWXUiAECMessages.Message.ObjectTypeTitle="选择对象类型助手";
+SWXUiAECMessages.Message.ObjectTypeCtlInfo="此控件用于选择定义结构构件所需的对象类型。";
+
+SWXUiAECMessages.Error.NeedMorethanOnePlane="要放置底基，需要多个平面。";
+
+SWXUiAECMessages.Info.OrphansTitle="孤立构件";
+SWXUiAECMessages.Info.OrphansDisplayPrefix="有 ";
+SWXUiAECMessages.Info.OrphansDisplaySuffixMembers=" 孤立构件。";
+SWXUiAECMessages.Info.OrphansDisplaySuffixFoundation=" 孤立基础特征。";
+SWXUiAECMessages.Info.OrphansDisplayGridOutput1=" 孤立网格段， ";
+SWXUiAECMessages.Info.OrphansDisplayGridOutput2=" 网格点， ";
+SWXUiAECMessages.Info.OrphansDisplayGridOutput3=" 网格轴。";

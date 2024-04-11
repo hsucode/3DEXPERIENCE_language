@@ -1,0 +1,21 @@
+<meta charset="UTF-8"/>
+CopyExtnButton.Label="复制扩展";
+CopyTypeButton.Label="复制类型";
+CopyExtnButton.ToolTip="将对象列表中突出显示的对象的所有或选定扩展及选定属性复制到对象列表中的其他所有对象";
+CopyTypeButton.ToolTip="将对象列表中突出显示的对象的“类型”复制到对象列表中的其他所有对象";
+ScrollLeftBtn.ToolTip="上一个对象";
+ScrollRightBtn.ToolTip="下一个对象";
+ShowObjectsListBtn.ToolTip="显示对象列表";
+FindSimilarBtn.Label="查找元素";
+AnalyzeBtn.Label="分析";
+FindSimilarBtn.ToolTip="启动“查找元素”面板以选择与所选特征的属性匹配的特征。";
+AnalyzeBtn.ToolTip="根据 AEC 类型和范围分析选定属性";
+TransparencySlider.ToolTip="调整对象列表中未突出显示的对象的透明度";
+FSBtnStackMod.Label="查找";
+FSOkBtnStackMod.Label="确定";
+FSCancelBtnStackMod.Label="取消";
+FSBtnStackMod.ToolTip="查找类似对象。";
+FSOkBtnStackMod.ToolTip="查找类似对象并关闭命令。";
+FSCancelBtnStackMod.ToolTip="取消操作并关闭命令。";
+
+

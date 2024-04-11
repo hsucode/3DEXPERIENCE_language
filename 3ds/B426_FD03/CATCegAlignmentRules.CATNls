@@ -1,0 +1,4 @@
+<meta charset="UTF-8"/>
+CIV_0.ShortMessage="该元素未聚集且未被任何元素使用。";
+CIV_0.ErrorMessage="类型为“/p2”的元素“/p1”未聚集且未被任何元素使用。";
+CIV_0.CleanMessage="已清除类型为“/p2”的元素“/p1”。";

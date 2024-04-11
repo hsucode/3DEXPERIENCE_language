@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+// Widget
+
+MigrationMessageLabel.Text="添加材料的机械切割现在由重新限定特征提供支持";
+MigrationNoteLabel.Text="是否要将当前机械切割特征转换为重新限定特征？";

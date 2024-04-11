@@ -1,0 +1,11 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT Dassault Systemes 2022
+//===================================================================
+// CATBldLevelErrorMsg.CATNls
+
+
+//Level UI errors
+LevelAvailable="在给定标高已有一个级别特征可用。";
+CATBldLevelCopyNotAllowed="无法复制不可分级别。";
+CATBldLevelDeleteNotAllowed="无法删除分布式级别。";
+CATBldLevelSetCopyNotAllowed="无法复制分布式级别。";

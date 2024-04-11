@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+CopyExtension.Label="复制扩展";
+RadButtonCopyAll.Label="复制所有扩展";
+RadButtonCopyAll.ToolTip="复制所有扩展以及所有属性值";
+RadButtonCopySelected.Label="复制选定扩展";
+RadButtonCopySelected.ToolTip="复制选定扩展以及选定属性值";
+CopyExtensionsOKButton.ToolTip="将对象列表中突出显示的对象的扩展复制到对象列表中的其他所有对象";
+CopyExtensionCancelButton.ToolTip="取消复制";
+

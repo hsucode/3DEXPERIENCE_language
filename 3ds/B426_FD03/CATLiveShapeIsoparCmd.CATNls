@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+//---------------------------------------------------
+// Ressource File for CATGSMCatalog Class
+// En_US
+//---------------------------------------------------
+// MERCI DE CONSERVER L'ORDRE ALPHABETIQUE POUR PLUS
+// DE LISIBILITE.
+
+//  ATTENTION NE PAS METTRE 2 FOIS LE MEME LABEL DANS LE FICHIER
+//  SI LE TEXTE EST LE MEME, UTILISER CELUI QUI EXISTE, SINON
+//  UTILISER UN AUTRE LABEL
+
+CATLiveShapeValidMsg="验证等参数线";
+CATLiveShapeOtherSideMsg="其他侧等参数线";
+CATLiveShapeIsoparCmd.UndoTitle="变形";
+

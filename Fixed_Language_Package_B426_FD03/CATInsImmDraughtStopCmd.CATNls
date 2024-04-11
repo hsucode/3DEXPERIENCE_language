@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+WrongActiveContainer.Diagnostic="激活包含所选绝缘的 3D 形状展示。";
+WrongActiveContext.Diagnostic="错误的上下文处于活动状态。请激活正确的上下文。";
+MultiInsulationContainer.Diagnostic="所选零件包含多个绝缘特征。请激活其 3D 形状展示以编辑绝缘。";
+AutomaticName="自动命名";

@@ -1,0 +1,26 @@
+<meta charset="UTF-8"/>
+//
+// WorkBench
+//
+SWXAECEngineeringWkb.Title="建筑和土木结构设计";
+SWXAECEngineeringWkb.Help="建筑和土木结构设计";
+SWXAECEngineeringWkb.ShortHelp="建筑和土木结构设计";
+SWXAECEngineeringWkb.LongHelp="建筑和土木结构设计";
+
+//
+// ActionBar
+//
+Tab_Steel.Title="钢材";
+Tab_Concrete.Title="混凝土";
+SWXUiBuildingCommands.Title="建筑";
+Tab_SteelDetailing.Title="钢详细";
+Tab_Rebar.Title="加固";
+SWXUiAnalysisCommands.Title="分析";
+SWXUiSolidsCommands.Title="几何图形";
+Tab_WireframeAndSurface.Title="线框和曲面";
+Tab_Volume.Title="包络体";
+Tab_Solid.Title="实体";
+Tab_Component.Title="部件";
+Tab_Review.Title="复核";
+SWXUiToolsCommands.Title="工具";
+

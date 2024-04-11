@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+// --------------------------
+// AECRebarCoupler.CATNls
+// --------------------------
+
+NoConfigForDiam.Request="无配置";
+NoConfigForDiam.Diagnostic="未找到给定钢筋直径 /P1 的配置。";
+NoConfigForDiam.Advice="检查对象类型的资源表是否包含给定的钢筋直径。";
+
+NoDesignTable.Request="无设计表";
+NoDesignTable.Diagnostic="未找到此对象类型的设计表或配置。";
+NoDesignTable.Advice="检查设计表是否存在。";
+
+OT1.Request="对象类型无效";
+OT1.Diagnostic="对象类型不包含用户定义的特征。";
+OT1.Advice="将用户定义的特征添加到对象类型中。";

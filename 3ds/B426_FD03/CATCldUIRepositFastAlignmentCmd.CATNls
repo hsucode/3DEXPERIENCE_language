@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATCldUIRepositFastAlignmentCmd.UndoTitle="快速对齐...";
+ProgressTaskUI.Title="快速对齐";
+ProgressTaskUI.Comment="正在处理快速对齐";
+//ProgressTaskUI.ObjectName = "The Object" ;

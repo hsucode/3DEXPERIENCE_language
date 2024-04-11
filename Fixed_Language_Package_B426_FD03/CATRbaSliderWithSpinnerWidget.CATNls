@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT DASSAULT SYSTEMES 2013
+//===========================================================================
+//
+// CATRbaSliderWithSpinnerWidget (English)
+//
+//===========================================================================
+
+resetButton.Tooltip="重置值";

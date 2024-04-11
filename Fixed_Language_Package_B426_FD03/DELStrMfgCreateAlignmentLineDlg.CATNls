@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title="线路线";
+pFrameObjectSelection.pFrameProductSelection.pLabelProduct.Title="已标记的产品";
+pFrameObjectSelection.pFrameProductSelection.pLabelProduct.LongHelp="选择 SDD 板";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pLabelIntersectingPrd.Title="相交产品";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pLabelIntersectingPrd.LongHelp="选择 SDD 板/加强肋";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameMarkingSide.pLabelMarkingSide.Title="标记线边";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameMarkingSide.pLabelMarkingSide.LongHelp="选择边";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameMarkingSide.pFrameIntersectingSide.pLabelIntersectingSide.Title="相交边";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameMarkingSide.pFrameIntersectingSide.pLabelIntersectingSide.LongHelp="选择边";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameAlignOffset.pLabelAlignOffset.Title="线路偏移";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameAlignOffset.pLabelAlignOffset.LongHelp="从端点选择偏移";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameAlignOffset.pFrameAlignLength.pLabelAlignLength.Title="线路长度";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameAlignOffset.pFrameAlignLength.pLabelAlignLength.LongHelp="选择线路线的长度";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameAlignOffset.pFrameAlignLength.pFrameAlignExtremity.pLabelAlignExtremity.Title="线路端点";
+pFrameObjectSelection.pFrameProductSelection.pFrameIntersectingPrdSelectionUpdate.pFrameAlignOffset.pFrameAlignLength.pFrameAlignExtremity.pLabelAlignExtremity.LongHelp="选择线路线的位置";
+// END WIZARD REPLACEMENT ZONE

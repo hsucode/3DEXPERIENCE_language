@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+//===================================================================
+// COPYRIGHT Dassault Systemes 2023
+//===================================================================
+
+CATRreAlignmentAxisCmd.State3DAlignment.Message="选择 3D 线路";
+CATRreAlignmentAxisCmd.State3DPointSelected.Message="选择 3D 点";
+CATRreAlignmentAxisCmd.UndoTitle="在线路上创建轴";
+MainDialog.Title="线路轴";
+Update.MsgUpdateFeatureOK.Text="特征更新成功： ";

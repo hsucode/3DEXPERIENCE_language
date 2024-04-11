@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+MessageBox.Title="修改对齐线";
+MessageBox.Text="是否要应用更改？";
+MessageBox.InformativeText="相同加强肋的受影响特征将进行相同的更改。";
+ClickCancelButton.InformativeTextText="未修改对齐线。";

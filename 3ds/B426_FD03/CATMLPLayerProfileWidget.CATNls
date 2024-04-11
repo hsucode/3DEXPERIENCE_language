@@ -1,0 +1,61 @@
+<meta charset="UTF-8"/>
+// Widget
+
+CATMLPLayerWidgetLayerDefinitionLabel.Text="轮廓图层参数定义";
+
+CATMLPLayerWidgetLayerNameLabel.Text="名称";
+LayerNameEditor.TooltipTitle="定义图层名称。";
+LayerNameEditor.TooltipLongHelp="图层名称将显示在树视图中。";
+
+CATMLPLayerWidgetContourLabel.Text="轮廓";
+ProfileEditor.TooltipTitle="定义图层几何图形。";
+ProfileEditor.TooltipLongHelp="用于定义图层轮廓的几何图形。";
+
+CATMLPLayerWidgetLayerGroupLabel.Text="图层组";
+LayerGroupEditor.TooltipTitle="图层组。";
+LayerGroupEditor.TooltipLongHelp="图层的图层组。";
+
+CATMLPLayerWidgetMaterialLabel.Text="材料";
+MaterialEditor.TooltipTitle="图层材料。";
+MaterialEditor.TooltipLongHelp="应用于图层的材料。";
+
+CATMLPLayerWidgetChangeMachineDirAngleButton.Label="旋转：+90 度";
+CATMLPLayerWidgetChangeMachineDirAngleButton.TooltipTitle="旋转机器方向。";
+CATMLPLayerWidgetChangeMachineDirAngleButton.TooltipLongHelp="将机器方向旋转 90 度角；此方向可旋转数次。";
+
+CATMLPLayerWidgetInvertMachineDirBox.Label="反转机器方向";
+CATMLPLayerWidgetInvertMachineDirBox.TooltipTitle="反转机器方向。";
+CATMLPLayerWidgetInvertMachineDirBox.TooltipLongHelp="根据堆叠中定义的机器方向反转机器方向。";
+
+CATMLPLayerWidgetLayerColorLabel.Text="颜色";
+CATMLPLayerWidgetLayerColorLabel.TooltipTitle="定义图层颜色。";
+CATMLPLayerWidgetLayerColorLabel.TooltipLongHelp="定义要应用于图层几何图形的颜色。";
+
+GridMode.Text="视图模式";
+MDProfileRadioButton.Label="MD 轮廓";
+CDProfileRadioButton.Label="CD 轮廓";
+SolidRadioButton.Label="实体";
+
+BordersTitleGrid.Text="网格的参数定义";
+CATMLPLayerWidgetChannelLabel.Text="通道";
+CATMLPLayerWidgetWeightLabel.Text="设计重量";
+CATMLPLayerWidgetProfileLabel.Text="轮廓";
+CATMLPLayerWidgetReferencePointLabel.Text="起点";
+CATMLPLayerWidgetMDSpacingLabel.Text="MD 间距";
+CATMLPLayerWidgetCDSpacingLabel.Text="CD 间距";
+
+CATMLPLayerWidgetDensityLabel.Text="密度";
+
+CATMLPLayerWidgetWarningVolumeLabel.Text="显示的比率容差";
+CATMLPLayerWidgeAdjustRatioUpdateButton.Label="调整选定区域的比率";
+
+CATMLPLayerWidgetResetRatioButton.Label="重置比率";
+CATMLPLayerWidgScaleButton.Label="缩放比率";
+
+CATMLPLayerWidgetHideStacking.Label="隐藏除轮廓图层以外的所有图层";
+
+ThresholdLabel.Text="区域权重阈值";
+
+CATMLPLayerWidgetBoostLabel.Text="权重（增强）";
+
+Planes="基准面";

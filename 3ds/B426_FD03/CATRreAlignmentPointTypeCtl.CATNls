@@ -1,0 +1,38 @@
+<meta charset="UTF-8"/>
+MainGrid.btnIndex.TooltipShortHelp="更多";
+MainGrid.btnIndex.TooltipLongHelp="更多";
+
+MainGrid.Text1Type.TooltipTitle="自定义点上的标签";
+MainGrid.Text1Type.TooltipLongHelp="标签：
+  %s：桩号
+  %d：与起点的距离
+  %D：与桩号原点的距离
+  %i：点索引
+  %I：起点索引（大写字母 i）
+  %v：速度（仅当过载时才显示）
+  %c：类别（仅当过载时才显示）
+  %t：类型（仅当过载时才显示）
+  %r：第一个事件圆形的半径；
+  %w：道路的宽度（行驶道路 + 路肩）
+  %E：地理定位点的东向位置
+  %N：地理定位点的北向位置
+  %q：设备类型（仅当过载时才显示）
+  %y：首字母缩略词";
+
+MainGrid.Text2Type.TooltipTitle="自定义点上的标签";
+MainGrid.Text2Type.TooltipLongHelp="标签：
+  %s：桩号
+  %d：与起点的距离
+  %D：与桩号原点的距离
+  %i：点索引
+  %I：起点索引（大写字母 i）
+  %v：速度（仅当过载时才显示）
+  %c：类别（仅当过载时才显示）
+  %t：类型（仅当过载时才显示）
+  %r：第一个事件圆形的半径；
+  %w：道路的宽度（行驶道路 + 路肩）
+  %E：地理定位点的东向位置
+  %N：地理定位点的北向位置；
+  %q：设备类型（仅当过载时才显示）";
+
+UpdateIndexPI.UndoTitle="PI/VPI 索引修改";

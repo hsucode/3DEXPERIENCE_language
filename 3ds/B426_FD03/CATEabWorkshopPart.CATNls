@@ -1,0 +1,20 @@
+<meta charset="UTF-8"/>
+CATEabWorkshopPart.Title="Electrical 3D Part Design";
+CATEabWorkshopPart.ShortHelp="Electrical 3D Part Design";
+CATEabWorkshopPart.Help="Electrical 3D Part Design";
+CATEabWorkshopPart.LongHelp="允许您在模型上下文中定义电气物理系统";
+
+ExitTB.Title="退出";
+HarnessPart.Title="电气分支几何图形";
+DevicePart.Title="设备";
+DeviceBehavior.Title="设备行为";
+CnxPt.Title="连接点";
+EabGeometry.Title="几何图形";
+BranchPt.Title="分支点";
+
+// Section titles, after 3DEXPERIENCE migration
+BranchSection.Title="分支线束";
+DeviceSection.Title="设备";
+ProtectionSection.Title="保护";
+GeometrySection.Title="几何图形";
+AutomationSection.Title="自动化";

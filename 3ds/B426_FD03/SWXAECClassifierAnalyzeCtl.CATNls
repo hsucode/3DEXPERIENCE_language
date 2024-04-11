@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+AnalyzeDummyBtn.Label="分析";
+AnalyzeOKBtn.Tooltip="在选定对象上执行分析";
+AnalyzeCancelBtn.ToolTip="取消分析";
+ShowAnalyzeObjectsBtn.ToolTip="显示对象列表";
+AnalyzeObjectList.Label="分析对象";
+
+
+

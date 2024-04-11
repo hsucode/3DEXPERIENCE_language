@@ -1,0 +1,25 @@
+<meta charset="UTF-8"/>
+CATCegParallelAlignmentCmd="平行线路";
+CATCegParallelAlignmentCmd.Title="平行线路";
+CATCegParallelAlignmentCmd.UndoTitle="平行线路";
+
+CATCegParallelAlignmentCmd.ReferenceAlignmentState.Message="选择参考水平线路";
+CATCegParallelAlignmentCmd.StartPointState.Message="在参考线路上选择一个起点以定义平行线路限制。仅允许使用水平关键点";
+CATCegParallelAlignmentCmd.EndPointState.Message="在参考线路上选择一个终点以定义平行线路限制。仅允许使用水平关键点";
+CATCegParallelAlignmentCmd.VerticalAlignmentEditionState.Message="选择是否要编辑创建的垂直线路";
+
+CATCegParallelAlignmentCmd.RelationshipSimpleCombo.Child="子项";
+CATCegParallelAlignmentCmd.RelationshipSimpleCombo.Sibling="同级";
+
+CATCegParallelAlignmentCmd.SideSimpleCombo.BothSide="两侧";
+CATCegParallelAlignmentCmd.SideSimpleCombo.LeftSide="左侧";
+CATCegParallelAlignmentCmd.SideSimpleCombo.RightSide="右侧";
+
+SingleVerticalAlignmentEdition.Title="垂直线路过短";
+MultipleVerticalAlignmentEdition.Title="垂直线路过短";
+
+SingleVerticalAlignmentEdition.Text="垂直线路比水平线路展开短";
+MultipleVerticalAlignmentEdition.Text="至少一个垂直线路比其水平线路展开短";
+
+SingleVerticalAlignmentEdition.Info="如果要编辑垂直线路草图，请单击“确定”按钮。";
+MultipleVerticalAlignmentEdition.Info="如果要开始编辑第一个偏移垂直线路，请单击“确定”按钮。";

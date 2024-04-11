@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+ImportReportDlg.Title="导入报告";
+ImportReportInformationCategory="信息 (/P01)";
+ImportReportWarningCategory="警告 (/P01)";
+ImportReportErrorCategory="错误 (/P01)";
+ImportReportLogCategory="执行";
+
+ExportReportDlg.Title="导出报告";
+
+ImportFailed.Message="导入失败。";
+ImportSuccessful.Message="导入成功。";
+
+ExportFailed.Message="导出失败。";
+ExportSuccessful.Message="导出成功。";
+
+KELVIN="开";

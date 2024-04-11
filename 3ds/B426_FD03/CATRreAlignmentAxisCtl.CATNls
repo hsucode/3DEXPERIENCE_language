@@ -1,0 +1,46 @@
+<meta charset="UTF-8"/>
+//===================================================================
+// COPYRIGHT Dassault Systemes2023
+//===================================================================
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.3DAlignmentLabel.Text="3D 对齐";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.3DAlignment.TooltipLongHelp="选择 3D 对齐";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.StationLabel.Text="站";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.Station.TooltipLongHelp="定义站";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.3DPointSelectedLabel.Text="参考点";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.3DPointSelected.TooltipLongHelp="选择点";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.LongitudinalOffsetLabel.Text="纵向偏移";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.LongitudinalOffset.TooltipLongHelp="定义纵向偏移";
+
+Position.OptionMostLeft.Text="MostLeft";
+Position.OptionMiddle.Text="中间";
+Position.OptionMostRight.Text="MostRight";
+Position.OptionLeftTravelWay.Text="LeftTravelWay";
+Position.OptionRightTravelWay.Text="RightTravelWay";
+Position.OptionLeftShoulder.Text="LeftShoulder";
+Position.OptionRightShoulder.Text="RightShoulder";
+Position.OptionLeftLane.Text="LeftLane";
+Position.OptionRightLane.Text="RightLane";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.PositionLabel.Text="横向锚定";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.Position.TooltipLongHelp="定义横向锚定";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.LateralOffsetLabel.Text="横向偏移";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.LateralOffset.TooltipLongHelp="定义横向偏移";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.ElevationOffsetLabel.Text="标高偏移";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.ElevationOffset.TooltipLongHelp="定义高度偏移";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.CountLabel.Text="计数";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.Count.TooltipLongHelp="定义轴数";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.SpacingLabel.Text="间距";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.Spacing.TooltipLongHelp="定义两个轴之间的间距";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.ComponentSumUpLabel.Text="对象类型";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.ComponentSumUp.TooltipLongHelp="定义对象类型";
+
+

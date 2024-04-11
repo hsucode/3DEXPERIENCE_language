@@ -1,0 +1,81 @@
+<meta charset="UTF-8"/>
+GridDrivenPlate="网格驱动板";
+
+//Tool Tips
+
+CATMainPanelGrid.ProfileSelectorGrid.PlateTypeButtons.PlateTypeButton1.TooltipShortHelp="板";
+CATMainPanelGrid.ProfileSelectorGrid.PlateTypeButtons.PlateTypeButton1.TooltipLongHelp="指定板的功能是通用的。";
+
+CATMainPanelGrid.ProfileSelectorGrid.PlateTypeButtons.PlateTypeButton2.TooltipShortHelp="凸缘";
+CATMainPanelGrid.ProfileSelectorGrid.PlateTypeButtons.PlateTypeButton2.TooltipLongHelp="指定板的功能是抗弯曲。";
+
+CATMainPanelGrid.ProfileSelectorGrid.PlateTypeButtons.PlateTypeButton3.TooltipShortHelp="腹板";
+CATMainPanelGrid.ProfileSelectorGrid.PlateTypeButtons.PlateTypeButton3.TooltipLongHelp="指定板的功能是抗剪切或支撑凸缘板。";
+
+CATMainPanelGrid.ProfileSelectorGrid.PlateTypeButtons.SourceAltButton.TooltipShortHelp="变化";
+CATMainPanelGrid.ProfileSelectorGrid.PlateTypeButtons.SourceAltButton.TooltipLongHelp="选定板类型值不同。";
+
+CATMainPanelGrid.ProfileSelectorGrid.Width.TooltipShortHelp="宽度";
+CATMainPanelGrid.ProfileSelectorGrid.Width.TooltipLongHelp="指定板在 U 方向上的尺寸。";
+
+CATMainPanelGrid.ProfileSelectorGrid.Depth.TooltipShortHelp="深度";
+CATMainPanelGrid.ProfileSelectorGrid.Depth.TooltipLongHelp="指定板在 V 方向上的尺寸。";
+
+//..
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.TooltipShortHelp="网格驱动板修剪选项";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.TooltipLongHelp="展开以指定网格驱动板修剪选项。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimTypeBtnsStack.End1NormalTrimBtn.TooltipShortHelp="法线";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimTypeBtnsStack.End1NormalTrimBtn.TooltipLongHelp="相对于垂直于沿构件主机网格线段的点的平面来修剪构件。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimTypeBtnsStack.End1VerticalTrimBtn.TooltipShortHelp="垂直";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimTypeBtnsStack.End1VerticalTrimBtn.TooltipLongHelp="相对于与构件主机网格线段终点水平偏移的垂直平面来修剪构件。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimTypeBtnsStack.End1HorizontalTrimBtn.TooltipShortHelp="水平";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimTypeBtnsStack.End1HorizontalTrimBtn.TooltipLongHelp="相对于与构件主机网格线段终点垂直偏移的水平平面来修剪构件。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimSpin.TooltipShortHelp="长度";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimSpin.TooltipLongHelp="指定与要应用修剪的构件主机网格线段的终点的距离。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimAngleSpin.TooltipShortHelp="角度";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.End1TrimAngleSpin.TooltipLongHelp="指定修剪的相对角度。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.EndTrim1ExtToCutElmCB.TooltipShortHelp="延伸到切除元素";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End1TrimOptions.End1TrimOptionsGrid.EndTrim1ExtToCutElmCB.TooltipLongHelp="指定是否将构件延伸到切除元素。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimTypeBtnsStack.End2NormalTrimBtn.TooltipShortHelp="法线";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimTypeBtnsStack.End2NormalTrimBtn.TooltipLongHelp="相对于垂直于沿构件主机网格线段的点的平面来修剪构件。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimTypeBtnsStack.End2VerticalTrimBtn.TooltipShortHelp="垂直";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimTypeBtnsStack.End2VerticalTrimBtn.TooltipLongHelp="相对于与构件主机网格线段终点水平偏移的垂直平面来修剪构件。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimTypeBtnsStack.End2HorizontalTrimBtn.TooltipShortHelp="水平";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimTypeBtnsStack.End2HorizontalTrimBtn.TooltipLongHelp="相对于与构件主机网格线段终点垂直偏移的水平平面来修剪构件。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimSpin.TooltipShortHelp="长度";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimSpin.TooltipLongHelp="指定与要应用修剪的构件主机网格线段的终点的距离。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimAngleSpin.TooltipShortHelp="角度";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.End2TrimAngleSpin.TooltipLongHelp="指定修剪的相对角度。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.EndTrim2ExtToCutElmCB.TooltipShortHelp="延伸到切除元素";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.End2TrimOptions.End2TrimOptionsGrid.EndTrim2ExtToCutElmCB.TooltipLongHelp="指定是否将构件延伸到切除元素。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.LateralOffsetUSpin.TooltipShortHelp="U 偏移";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.LateralOffsetUSpin.TooltipLongHelp="在 U 方向上平移横梁阵列。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.LateralOffsetVSpin.TooltipShortHelp="V 偏移";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.LateralOffsetVSpin.TooltipLongHelp="在 V 方向上平移横梁阵列。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.RotationSpin.TooltipShortHelp="旋转";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.RotationSpin.TooltipLongHelp="按其长度逆时针旋转横梁。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.RotateUsingGuideSurface.TooltipShortHelp="使用引导曲面旋转";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.RotateUsingGuideSurface.TooltipLongHelp="将使用引导曲面旋转网格板。";
+
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.MirrorAcrossGridSegment.TooltipShortHelp="相对于网格线段进行镜像";
+CATMainPanelGrid.ProfileSelectorGrid.TrimOptions.MirrorAcrossGridSegment.TooltipLongHelp="将相对于选定网格线段镜像网格板。";
+
+CATMainPanelGrid.ProfileSelectorGrid.OTSumUpLabel.Text="对象类型";
+
+

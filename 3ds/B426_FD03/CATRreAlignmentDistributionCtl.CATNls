@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+Title="分布";
+LanesExpanderLabel="行驶路线车道分配";
+AddSpecRoadCommonLabel="添加道路规格";
+AddlaneDistribLabel="添加行驶路线车道分布";
+ShouldersExpanderLabel="路肩分配";
+AddShouldersDistribLabel="添加侧翼车道分布";
+ParameterLabel="参数";
+FirstWayLeftSide="第一个路线左侧";
+FirstWayCenter="第一个路线中心";
+FirstWayRightSide="第一个路线右侧";
+LaneToolTip="宽度 = /P1\n横向间隙 = /P2";
+LaneWithIndex="车道编号 /P1";
+Reset="使用先前过载的 Pk 点或对齐恢复值";
+Edit="编辑 Pk 点以使其值过载";
+
+LaneGroupeBox.Label="车道";
+ShoulderGroupeBox.Label="侧翼";

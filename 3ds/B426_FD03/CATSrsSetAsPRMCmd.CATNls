@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+// Title
+NotificationTitle="在数据设置中设置 SRS";
+
+// Message
+SuccessNotificationMessage="已成功在数据设置中设置当前 SRS。";
+FailureNotificationMessage="未在数据设置中设置当前 SRS。\n请检查您的 SRS。";
+NotExistNotificationMessage="资源不存在或无法访问";
+InvalidContext="活动的上下文对此操作无效。\n请将您的展示设为活动的上下文";

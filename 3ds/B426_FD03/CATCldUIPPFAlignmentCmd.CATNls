@@ -1,0 +1,28 @@
+<meta charset="UTF-8"/>
+//===================================================================
+// COPYRIGHT Dassault Systemes 22/03/2023
+//===================================================================
+// CATCldUIPPFAlignmentCmd.cpp
+// NLS file of class CATCldUIPPFAlignmentCmd
+//===================================================================
+
+CATCldUIPPFAlignmentCmd.UndoTitle="配对点对齐...";
+CATCldUIPPFAlignmentCmd.Title="插入对象";
+CATCldUIPPFAlignmentCmd.InitialState.Message="选择支持面";
+CATCldUIPPFAlignmentCmd.SecondState.Message="选择目标";
+
+// CATCldUIPPFAlignmentCmd.Step1="Step 1/6 - Filtering target points";
+// CATCldUIPPFAlignmentCmd.Step2="Step 2/6 - Step value estimation";
+// CATCldUIPPFAlignmentCmd.Step3="Step 3/6 - Object normal estimation";
+// CATCldUIPPFAlignmentCmd.Step4="Step 4/6 - Point Cloud normal estimation";
+// CATCldUIPPFAlignmentCmd.Step5="Step 5/6 - Transformation estimation";
+// CATCldUIPPFAlignmentCmd.Step6="Step 6/6 - Apply transformation";
+
+CATCldUIPPFAlignmentCmd.Step1="步骤 1（共 6 步）";
+CATCldUIPPFAlignmentCmd.Step2="步骤 2（共 6 步）";
+CATCldUIPPFAlignmentCmd.Step3="步骤 3（共 6 步）";
+CATCldUIPPFAlignmentCmd.Step4="步骤 4（共 6 步）";
+CATCldUIPPFAlignmentCmd.Step5="步骤 5（共 6 步）";
+CATCldUIPPFAlignmentCmd.Step6="步骤 6（共 6 步）";
+
+Issue.Text="计算失败";

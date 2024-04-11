@@ -1,0 +1,34 @@
+<meta charset="UTF-8"/>
+DELMnOPofAdminAlignmentLinePanel.title="创建对齐线特征";
+
+lbConnectionFeatLabel.Text="连接： ";
+lbConnectionFeatLabel.TooltipTitle="连接： ";
+lbConnectionFeatLabel.TooltipLongHelp="连接： ";
+lbConnectionFeatLabel.TooltipShortHelp="连接： ";
+
+leConnectionFeatLabel.Text="选择连接";
+leConnectionFeatLabel.TooltipTitle="选择连接";
+leConnectionFeatLabel.TooltipLongHelp="选择连接";
+leConnectionFeatLabel.TooltipShortHelp="选择连接";
+
+SecondFaceLabel.Text="支持面： ";
+SecondFaceLabel.TooltipTitle="支持面： ";
+SecondFaceLabel.TooltipLongHelp="支持面： ";
+SecondFaceLabel.TooltipShortHelp="支持面： ";
+
+SecondFaceName.Text="选择面";
+SecondFaceName.TooltipTitle="所选的第二面";
+SecondFaceName.TooltipLongHelp="选择面";
+SecondFaceName.TooltipShortHelp="选择面";
+
+LengthLabel.Text="长度： ";
+LengthLabel.TooltipTitle="长度： ";
+LengthLabel.TooltipLongHelp="长度： ";
+LengthLabel.TooltipShortHelp="长度： ";
+
+OffsetLabel.Text="偏移： ";
+OffsetLabel.TooltipTitle="偏移： ";
+OffsetLabel.TooltipLongHelp="偏移： ";
+OffsetLabel.TooltipShortHelp="偏移： ";
+
+DELMnOPofAdminAlignmentLine.CATDE2Manager.stProductSelectionId.Message="选择连接面";

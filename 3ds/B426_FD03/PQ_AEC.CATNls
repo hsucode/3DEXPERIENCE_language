@@ -1,0 +1,70 @@
+<meta charset="UTF-8"/>
+//This file contains the Nls resources for type management such as Predefined Queries or BL typing  
+//defined in file: resources\plmsearch\plmtoolbar\...\PQ_AEC.CATRsc
+Aec.Title="建筑和土木";
+Aec.ShortHelp="建筑和土木 (aec:)";
+Aec.Abbreviation="aec";
+Aec.Abbreviations="建筑和土木|土木|civ|aec";
+
+SAec.Title="标准建筑和土木";
+SAec.ShortHelp="标准建筑和土木 (saec:)";
+SAec.Abbreviation="saec";
+SAec.Abbreviations="标准建筑和土木|scivil|sciv|saec";
+
+AecObjectType.Title="建筑和土木类型";
+AecObjectType.ShortHelp="建筑和土木类型 (aect:)";
+AecObjectType.Abbreviation="aect";
+AecObjectType.Abbreviations="AECT|aect";
+
+SAecObjectType.Title="标准建筑和土木类型";
+SAecObjectType.ShortHelp="标准建筑和土木类型 (saect:)";
+SAecObjectType.Abbreviation="saect";
+SAecObjectType.Abbreviations="saect";
+
+AecSite.Title="站点";
+AecSite.ShortHelp="站点（坐：）";
+AecSite.Abbreviation="坐";
+AecSite.Abbreviations="站点|站点|坐";
+
+SAecSite.Title="标准站点";
+SAecSite.ShortHelp="标准站点 (ssit:)";
+SAecSite.Abbreviation="ssit";
+SAecSite.Abbreviations="标准站点|ssite|ssit";
+
+AecTerrain.Title="地形";
+AecTerrain.ShortHelp="地形 (trn:)";
+AecTerrain.Abbreviation="trn";
+AecTerrain.Abbreviations="地形|地形|trn";
+
+SAecTerrain.Title="标准地形";
+SAecTerrain.ShortHelp="标准地形 (strn:)";
+SAecTerrain.Abbreviation="strn";
+SAecTerrain.Abbreviations="标准地形|sterrain|strn";
+
+Building.Title="建筑";
+Building.ShortHelp="建筑 (bld:)";
+Building.Abbreviation="bld";
+Building.Abbreviations="建筑|建筑|bld";
+
+SBuilding.Title="标准建筑";
+SBuilding.ShortHelp="标准建筑 (sbld:)";
+SBuilding.Abbreviation="sbld";
+SBuilding.Abbreviations="标准建筑|sbuilding|sbld";
+
+BuildingStorey.Title="楼层";
+BuildingStorey.ShortHelp="楼层 (sto:)";
+BuildingStorey.Abbreviation="设置操作";
+BuildingStorey.Abbreviations="楼层|楼层|sto";
+
+SBuildingStorey.Title="标准楼层";
+SBuildingStorey.ShortHelp="标准楼层 (sto:)";
+SBuildingStorey.Abbreviation="ssto";
+SBuildingStorey.Abbreviations="标准楼层|sstorey|ssto";
+
+UniformatBuilding.Title="统一形式的建筑";
+UniformatBuilding.ShortHelp="统一格式的建筑 (ubu:)";
+UniformatBuilding.Abbreviations="统一格式的建筑|统一格式的建筑|ubu";
+
+OmniClass.Title="OmniClass";
+OmniClass.ShortHelp="OmniClass (omn:)";
+OmniClass.Abbreviations="OmniClass|omniclass|omn";

@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+L2PAnalysisReport="用于物理分析报告的逻辑";
+L2PSynchronizationReport="用于物理同步报告的逻辑";
+
+L2PPhysicalElementTitle="物理元素";
+L2PLogicalElementTitle="逻辑元素";
+L2PModificationTitle="修改";
+L2PStatusTitle="状态";
+L2PMessageInformation="消息";
+L2PUserComments="用户注释";
+
+L2PToValidateWarning="您需要接受或拒绝此元素才能进行同步";
+
+UnknownName="未知";
+

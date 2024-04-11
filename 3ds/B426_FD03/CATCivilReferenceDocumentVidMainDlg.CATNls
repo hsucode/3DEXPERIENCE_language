@@ -1,0 +1,62 @@
+<meta charset="UTF-8"/>
+//===================================================================
+// COPYRIGHT Dassault Systemes 1/26/2022 10:30:34 AM
+//===================================================================
+// CATCivilReferenceDocumentVidMainDlg.cpp
+// NLS file of class CATCivilReferenceDocumentVidMainDlg
+//===================================================================
+CATCivilReferenceDocumentVidMainDlg.DefinitionSection.Text="定义";
+CATCivilReferenceDocumentVidMainDlg.DefinitionSection.LongHelp="定义文档定义。";
+
+CATCivilReferenceDocumentVidMainDlg.DefinitionSectionSub.Text="定义文档定义。";
+
+CATCivilReferenceDocumentVidMainDlg.ExternalFileBrowserControl.Text="文档";
+CATCivilReferenceDocumentVidMainDlg.ExternalFileBrowserControl.ShortHelp="选择要关联的文档。";
+CATCivilReferenceDocumentVidMainDlg.ExternalFileBrowserControl.LongHelp="选择要关联的文档。";
+CATCivilReferenceDocumentVidMainDlg.ExternalFileBrowserControl.DefaultText="文档";
+
+CATCivilReferenceDocumentVidMainDlg.OpenPLMBrowserForDrawings.ShortHelp="选择要关联的工程图对象。";
+CATCivilReferenceDocumentVidMainDlg.OpenPLMBrowserForDrawings.LongHelp="选择要关联的工程图对象。";
+
+CATCivilReferenceDocumentVidMainDlg.DownloadButtonControl.Text="打开文件";
+CATCivilReferenceDocumentVidMainDlg.DownloadButtonControl.LongHelp="下载并打开文件。";
+CATCivilReferenceDocumentVidMainDlg.DownloadButtonControl.DefaultText="打开文件";
+
+CATCivilReferenceDocumentVidMainDlg.UploadButton.LongHelp="将文件上传到数据库，并创建新文档。";
+CATCivilReferenceDocumentVidMainDlg.UploadButton.DefaultText="上传本地文件";
+CATCivilReferenceDocumentVidMainDlg.FileBrowser.2DDocumentType="2D 文档";
+CATCivilReferenceDocumentVidMainDlg.FileBrowser.AnyType="任何文档";
+
+
+CATCivilReferenceDocumentVidMainDlg.FileNameBubbleControl.Text="文件";
+CATCivilReferenceDocumentVidMainDlg.FileNameBubbleControl.LongHelp="从所选文档中选择要使用的文件。";
+CATCivilReferenceDocumentVidMainDlg.FileNameBubbleControl.DefaultText="文件";
+
+CATCivilReferenceDocumentVidMainDlg.UpdateButton.Text="更新";
+CATCivilReferenceDocumentVidMainDlg.UpdateButton.LongHelp="更新 2D 视图。
+如果检测到外部文档的更改，此操作将变为可用，并更新 2D 视图以显示新文档。";
+CATCivilReferenceDocumentVidMainDlg.UpdateButton.DefaultText="更新";
+
+CATCivilReferenceDocumentVidMainDlg.2DViewsSectionSection.Text="2D 视图";
+CATCivilReferenceDocumentVidMainDlg.2DViewsSectionSection.LongHelp="定义显示的 2D 视图。";
+
+CATCivilReferenceDocumentVidMainDlg.2DViewsSectionSectionSub.Text="定义显示的 2D 视图。";
+
+CATCivilReferenceDocumentVidMainDlg.SheetList.ColumnHeader1.Text="2D 视图";
+CATCivilReferenceDocumentVidMainDlg.SheetList.ColumnHeader2.Text="平面";
+CATCivilReferenceDocumentVidMainDlg.SheetListControl.Text="显示图纸的列表。";
+CATCivilReferenceDocumentVidMainDlg.SheetListControl.LongHelp="显示所显示图纸的列表。";
+CATCivilReferenceDocumentVidMainDlg.SheetListControl.DefaultText="显示图纸的列表。";
+
+CATCivilReferenceDocumentVidMainDlg.CreateButtonControl.Text="创建 2D 视图";
+CATCivilReferenceDocumentVidMainDlg.CreateButtonControl.LongHelp="创建所选文件的新 2D 视图。";
+CATCivilReferenceDocumentVidMainDlg.CreateButtonControl.DefaultText="创建 2D 视图";
+
+CATCivilReferenceDocumentVidMainDlg.EditButtonControl.Text="编辑 2D 视图";
+CATCivilReferenceDocumentVidMainDlg.EditButtonControl.LongHelp="编辑所选 2D 视图。
+允许裁剪、缩放和定义 2D 视图的位置。";
+CATCivilReferenceDocumentVidMainDlg.EditButtonControl.DefaultText="编辑 2D 视图";
+
+CATCivilReferenceDocumentVidMainDlg.DeleteButtonControl.Text="删除 2D 视图";
+CATCivilReferenceDocumentVidMainDlg.DeleteButtonControl.LongHelp="删除所选 2D 视图。";
+CATCivilReferenceDocumentVidMainDlg.DeleteButtonControl.DefaultText="删除 2D 视图";

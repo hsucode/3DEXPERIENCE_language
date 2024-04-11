@@ -1,0 +1,20 @@
+<meta charset="UTF-8"/>
+AEC_Panel="面板定义";
+AEC_Glazed_Panels="上釉面板";
+AEC_Solid_Panels="实体面板";
+G-Simple="G-Simple";
+S-Simple="S-Simple";
+S-Simple-Angled="S-Simple-Angled";
+G-Config="G-Config";
+G-XV_XH="G-XV_XH";
+S-XV_XH="S-XV_XH";
+G-2V_XH="G-2V_XH";
+G-2V_XHSE="G-2V_XHSE";
+G-3V_XH="G-3V_XH";
+G-3V_XHSE="G-3V_XHSE";
+
+// obsoleted, but keep these for odts
+// --------
+AEC_Concept_Panel="面板";
+AEC_Concept_PanelGlazed="上釉面板";
+Metal_Building_Facade_Panel_01="Mtl Bldg 面板 01";

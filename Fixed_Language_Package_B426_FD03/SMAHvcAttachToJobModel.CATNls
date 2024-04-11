@@ -1,0 +1,20 @@
+<meta charset="UTF-8"/>
+AttachToJob_Grid.Options_Grid.CurSimRadioBtn.Label="当前仿真";
+AttachToJob_Grid.Options_Grid.SearchRunSimRadioBtn.Label="运行仿真";
+AttachToJob_Grid.Options_Grid.ExternalJobRadioBtn.Label="外部作业";
+
+AttachToJob_Grid.Button_Grid.OK_Button.Label="确定";
+AttachToJob_Grid.Button_Grid.Close_Button.Label="关闭";
+
+FileSelectorLabel.Label="结果文件： ";
+SMAHvcAttachToJobDlg.Title="作业监控";
+
+RunningJobsMessage.Title="结果";
+SimulationNotRunning.Message="所选仿真未处于运行状态，请选择正在运行的仿真。";
+JobsCurrentlyNotRunningAndSaveNotPossible.Message="此仿真当前正在运行。\n\n当有结果可供浏览时，您将收到通知。";
+RunningJobsSaveNotPossible.Message="此仿真当前正在运行。\n\n注意：在仿真完成之前执行的操作将不会保存。";
+JobsCurrentlyNotRunning.Message="当有结果可供浏览时，您将收到通知。";
+RunningJobRemoteOrGridCompletion.Label="仿真求解已完成，且 /P1 的临时结果不再可用。\n\n请使用具有已完成结果的仿真状态手动刷新会话，然后再编辑场景特征和结果可视化。";
+PreviewResultsStart.Label="/P1 的结果现已可用。\n\n是否要立即查看它们？\n\n注意：在仿真完成之前执行的操作将不会保存。";
+
+RefreshNotifyJobMonitoring.Message="在会话刷新期间，结果查看将被停用。手动激活以再次查看它们。";

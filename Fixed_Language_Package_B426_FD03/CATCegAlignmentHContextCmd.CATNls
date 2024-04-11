@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+
+CATCegAlignmentHContextCmd.UndoTitle="撤消上下文定义。";
+CATCegAlignmentHContextCmd.InitialState.Message="选择上下文。";
+

@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT Dassault Systemes 2011
+//===================================================================
+//===========================================================================
+// Names of KWE Types for Live Building attributes
+//===========================================================================
+
+// Thermal Zone (IES)
+AECThermalZone="热区域";
+ThermalZoneHeatingSetPoint="加热设置点";
+ThermalZoneCoolingSetPoint="制冷设置点";
+ThermalZoneHeatingAirTemperature="加热气体温度";
+ThermalZoneCoolingAirTemperature="制冷气体温度";
+ThermalZonePowerLoadPerArea="单位面积电量负荷";
+ThermalZoneLightingLoadPerArea="单位面积光照负荷";

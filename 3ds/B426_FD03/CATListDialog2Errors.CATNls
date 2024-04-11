@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+ElemBelongsNotToSameRoot="无法将元素 /P1 添加到列表中。必须将要添加的元素放入同一文档（而非列表）中。";
+ElemBelongsNotToSameRootTitle="无法添加元素 /P1";
+
+
+UnableToAddElem="无法将元素 /P1 添加到列表中。";
+UnableToAddElemTitle="无法添加元素 /P1";
+
+

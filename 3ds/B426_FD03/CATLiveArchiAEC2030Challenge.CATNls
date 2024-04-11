@@ -1,0 +1,59 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT Dassault Systemes 2011
+//===================================================================
+//===========================================================================
+// Names of KWE Types for Live Building attributes
+//===========================================================================
+
+// CONSTRUCTION TYPE
+AEC2030Challenge="2030 质询";
+BuildingType2030="2030 建筑类型";
+
+AdminProfGovtOffice="管理/专业和政府办公室";
+Bank="银行";
+Clinic="诊所/其他门诊健康";
+CollegeUniversity="学院/大学";
+ConvenienceStore=" 便利店（带或者不带加油站）";
+DistributionShipping="分销/航运中心";
+FastFood="快餐";
+FireStation="消防局/警察局";
+HospitalChildren="医院：急症护理/儿科";
+HotelEconomy="酒店（经济型）";
+HotelMidscaleNoFood="酒店（中等规模，无餐饮）";
+HotelModscaleWithFood="酒店（中等规模，有餐饮）";
+HotelUpperscale="酒店（豪华型）";
+HotelUpscale="酒店（高档）";
+K12School="K-12 学校";
+MedicalOffice="医务所";
+MobileHomes="流动房屋（全国平均值）";
+MultiFamily2to4="多户，2 到 4 个单元（全国平均值）";
+MultiFamily5OrMore="多户，超过 5 个单元（全国平均值）";
+NursingHome="养老院/生活援助中心";
+PublicAssembly="公众集会场所";
+ReligiousWorship="宗教崇拜场所";
+ResidenceHall="学生宿舍/宿舍";
+Restaurant="餐厅/自助餐厅";
+RetailStore="零售商店";
+RetaiStoreNoAC="零售商店（非冷冻）";
+SelfStorage="自储";
+ServiceAutomotive="服务（车辆维修/服务，邮政服务）";
+SingleFamilyDetached="独立式独户住宅（全国平均值）";
+SingleFamilyAttahced="相连式独户住宅（全国平均值）";
+SuperMarket="超市/杂货店";
+WarehouseNoAC="仓库（非冷冻）";
+WarehouseAC="仓库（冷冻）";
+UNSUPPORTED="不受支持";
+
+CoolingFuel="冷却燃料";
+Electricity="电力";
+NaturalGas="天然气";
+FuelOil="燃油";
+PropaneOrLPG="丙烷或液体丙烷 (LPG)";
+WoodBiomass="木材（生物质）";
+CoalBituminous="煤（烟煤）";
+CoalAnthracite="煤（无烟煤）";
+SmokelessFuelCoke="无烟燃料（焦炭）";
+
+HeatingFuel="加热燃料";
+
+WeeklyOperatingHours="每周工作时间";

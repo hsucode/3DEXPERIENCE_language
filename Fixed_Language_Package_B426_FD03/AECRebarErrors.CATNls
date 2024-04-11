@@ -1,0 +1,135 @@
+<meta charset="UTF-8"/>
+ERR_RebarLayer_Update="由于内部错误而导致无法构建钢筋图层";
+ERR_RebarLayer_Update_Name="由于内部错误而导致无法构建钢筋图层 /P1";
+ERR_RebarLayer_UDFErrorFeature="发生模板实例化错误，无法构建特征 /P1";
+ERR_RebarLayer_ObjectTypeNotFound="未找到对象类型 /P1";
+
+WNG_RebarLayer_Partial="钢筋图层已部分构建，仅创建了 /P1条，共 /P2 条";
+WNG_RebarLayer_MeanLimitingPlane="角色为 /P1 的模板输入是一个曲面，将创建平均平面";
+WNG_RebarLayer_SwwepIntersection="在生成的钢筋上检测到碰撞，用户可以增大参数 /P1 来避免此问题。";
+
+ERR_RebarWires_ObjectTypeNotFound="未找到对象类型";
+ERR_RebarWires_DestinationPathOfInsertion="无法设置插入的目标路径";
+ERR_RebarWires_UdfInstantiation="/P1上的模板实例化失败";
+ERR_RebarWires_UdfInstantiationRole="具有角色 /P1 的模板输入不正确，请尝试升级此特征。";
+ERR_RebarWires_CornerLocation="无法为 /P2创建半径值为 /P1 的折弯";
+ERR_RebarWires_CornerLocation_Diameter="无法为 /P2 创建直径值为 /P1 的折弯";
+ERR_RebarWires_CornerKO="至少有一个折弯无法创建，请更改折弯半径或者停用折弯";
+ERR_RebarWires_CornerKO_Diameter="至少有一个折弯无法创建，请更改折弯直径或者停用折弯";
+ERR_RebarWires_CornerOverlap="至少有两个折弯重叠，请更改折弯半径或者停用折弯";
+ERR_RebarWires_CornerOverlap_Diameter="至少有两个折弯重叠，请更改折弯直径或者停用折弯";
+ERR_RebarWires_MultipleCornerKO="不允许非等拓扑线具有多个折弯半径值。\n请将半径值重置为单一值或者更改您的设计";
+ERR_RebarWires_MultipleCornerKO_Diameter="不允许非等拓扑线具有多个折弯直径值。\n请将直径值重置为单一值或者更改您的设计";
+ERR_RebarWires_InputOffsetKO="覆盖层的偏移曲面已在 /P1上失败";
+ERR_RebarWires_CheckOffsetKO="覆盖层的偏移曲面已在 /P1上失败，面未连通";
+ERR_RebarWires_NoPattern="无可用阵列：选择一个阵列";
+ERR_RebarWires_RunPatternKO="阵列计算失败：请检查方向、阵列限制位置或参数";
+
+ERR_RebarWires_Select="选择至少两个杆";
+WNG_RebarWires_Intersect="已选择 /P1个杆，但只有 /P2 个杆连接到线 #/P3";
+ERR_RebarWires_SketchNotConnex="结果线不连通";
+ERR_RebarWires_WireNotConnex="附加线不连通";
+WNG_RebarWires_Relimitation="未对端点执行 /P1 重新限定，因为对于选定长度或限制曲面，没有可以提供的结果";
+WNG_RebarWires_RelimitationImpacts="受影响的线 /P1";
+ERR_RebarWires_RelimitationFromSelection="选择中缺少重新限定的元素。";
+ERR_RebarWires_AdditionalWire="缺少附加线的元素。";
+
+ERR_HooksOpe_HookStart="使用半径值 /P1无法构建钩起点";
+ERR_HooksOpe_HookStart_Diameter="使用直径值 /P1 无法构建钩起点";
+ERR_HooksOpe_HookEnd="使用半径值 /P1无法构建钩终点";
+ERR_HooksOpe_HookEnd_Diameter="使用直径值 /P1 无法构建钩终点";
+ERR_HooksOpe_HookEndAccessory="无法构建钩终点，因为已有钢筋配件";
+ERR_HooksOpe_HookStartAccessory="无法构建钩起点，因为已有钢筋配件";
+
+ERR_Template="模板";
+ERR_Template_Errors="模板错误";
+ERR_Template_Skipped="跳过的模板";
+ERR_Template_Destination="实例化时失败的模板将被保存在 /P1中";
+ERR_Template_UnresolvedBRep="角色 /P1的未解析模板输入";
+
+ERR_Wire="线";
+ERR_Wire_Errors="线错误";
+ERR_Wire_Skipped="跳过的线";
+ERR_Wire_Destination="创建时失败的线将被保存在 /P1中";
+
+ERR_Strap_UnresolvedBRep="未解析支持面，未找到钢筋 #/P1";
+ERR_Strap_BarSideOffset="参数 /P1 必须设为 /P2 或 /P3";
+ERR_Strap_BendRadiusIssue="当前折弯半径 (/P1) 太小。最小值为 /P2。";
+ERR_Strap_BendRadiusIssue_Diameter="当前折弯直径 (/P1) 太小。最小值为 /P2。";
+ERR_Strap_HookRadiusIssue="当前钩半径 (/P1) 太小。最小值为 /P2。";
+ERR_Strap_HookRadiusIssue_Diameter="当前钩直径 (/P1) 太小。最小值为 /P2。";
+
+ERR_CustomCurve_Missing="线无效、为空或缺失。
+此运算没有解。";
+ERR_CustomCurve_UnresolvedBRep="未解析的曲线";
+ERR_CustomAxis_UnresolvedBRep="未解析的轴线";
+
+ERR_3DTag.Title="3D 标记标签警告";
+ERR_3DTag.Text="未知标记";
+ERR_3DTag.Info="标记 /P1未知。请参阅相关文档。";
+
+ERR_WireBodyNULL="无效线：没有关联的几何图形。";
+ERR_WireNoCurve="无效线：线不包含边线。";
+ERR_WireDomainNoCurve="无效线：至少一个域不包含边线。";
+ERR_WireMultiDomain="无效线：线包含多个域。\n切换到无阵列。";
+ERR_WireInfiniteBody="无效线：线是无限的。";
+ERR_WireClosedWire="无效线：线是闭合的。";
+ERR_WireSelfIntersecting="无效线：线是自相交的。";
+
+ERR_RebarCustomWireMissingAxis="线必须与轴系关联。";
+
+ERR_FormatChecker="无法从 XML 文件读取参数“/P1”。未定义或其值具有错误的语法。";
+
+ERR_RebarSplit_Update="由于内部错误而导致无法构建钢筋分割";
+WNG_RebarSplit_Partial="钢筋分割已部分构建，仅创建了 /P1 条，共 /P2 条";
+
+ERR_RebarAccessory_GetAxis="钢筋线之间没有接触";
+ERR_RebarAccessory_CheckCoupler="钢筋层的直径与耦合器的直径不同";
+ERR_RebarAccessory_MissingInput="缺少输入元素或该元素无效、未填。
+缺少某个必需的输入元素或该元素无效、未填。
+此运算没有任何解法。";
+ERR_RebarAccessory_MoreThan1Diameter="无法创建接头，因为从选定分割中检索到了多个直径。通过接头选择层，将接头置于两个不同直径的层之间";
+ERR_RebarConcrete_MissingInputGentle="缺少输入元素或该元素未填。
+缺少一个必需的输入元素或该元素无效、未填。
+此运算仍可求解。";
+
+ERR_RebarDrawing_ExceedMaxNumber.Request="";
+ERR_RebarDrawing_ExceedMaxNumber.Diagnostic="允许的最大数字为“/P1”。";
+ERR_RebarDrawing_ExceedMaxNumber.Advice="";
+
+ERR_RebarDrawing_NoNumber.Request="";
+ERR_RebarDrawing_NoNumber.Diagnostic="空字段。";
+ERR_RebarDrawing_NoNumber.Advice="";
+
+ERR_RebarDrawing_ExtentOnlyOneBar="仅在一个钢筋上请求的范围";
+WNG_RebarDrawing_BarEndPerpendicularToView="钢筋端点与视图垂直，不能添加附加线";
+WNG_RebarDrawing_Hook_90Deg="钩为 90 度";
+
+INF_RebarAccessory_ValueonMaxValue="/P1//P2 钢筋 ";
+INF_RebarSplit_ValueonMaxValue="/P1//P2 由分割创建的钢筋层。";
+INF_RebarCreation_ValueOnMaxValue="/P1//P2 钢筋。";
+INF_RebarReport_ValueonMaxValue="/P1//P2 从层号 /P3 报告的钢筋。";
+INF_RebarCreation_FirstBar="第一条钢筋";
+ERR_RebarCreation_Interrupt="用户中断了计算";
+INF_RebarCreation_Computation="计算";
+
+
+CATCegRebarHookNormalOpe.Hook_NoError="无错误";
+CATCegRebarHookNormalOpe.Hook_MissingExtr="缺少顶点";
+CATCegRebarHookNormalOpe.Hook_ErrInProjection="投影运算符错误";
+CATCegRebarHookNormalOpe.Hook_WireHasBeenReversed="挂钩已反转";
+CATCegRebarHookNormalOpe.Hook_NoMthodHasWorking="什么都不奏效";
+CATCegRebarHookNormalOpe.Hook_SkecthHasNoPlane="无法检索草图平面";
+CATCegRebarHookNormalOpe.Hook_NoSupportSurface="边线没有支持曲面，请考虑避免使用负长度进行重新限制";
+CATCegRebarHookNormalOpe.Hook_No3PtsNonAligned="无法检索电线上的 3 个非线路点";
+CATCegRebarHookNormalOpe.Hook_CanNotComputeCurvature="无法计算电线末端的曲率";
+CATCegRebarHookNormalOpe.SingleEdge_CurveNothingIsWorking="弯曲边线，无阵列，也无挂钩支持面。请指定挂钩支持面";
+CATCegRebarHookNormalOpe.SingleEdge_LineNothingIsWorking="线性边线，无阵列或挂钩支持面。请指定挂钩支持面";
+CATCegRebarHookNormalOpe.Hook_NoPatternNormal="无法确定阵列法线（根据输入阵列的方向）";
+CATCegRebarHookNormalOpe.Hook_NotLyingIsUserSpec="要挂接的末端线必须与选定的挂钩支持面平行";
+CATCegRebarHookNormalOpe.Hook_HookSpecIsNotPlanar="挂钩支持面不是平面";
+CATCegRebarHookNormalOpe.Hook_BadPatternNormal="阵列方向未定义有效的挂钩平面。";
+CATCegRebarHookOpe.NoHookOnBend="不能在折弯上创建挂钩";
+
+ERR_MeshModeSubElement="网格模式：在此情况下未授权子元素选择。
+在同一钢筋内或在连续钢筋内选择子元素";

@@ -1,0 +1,7 @@
+<meta charset="UTF-8"/>
+RadButtonAll.Label="匹配所有选定属性";
+RadButtonAll.ToolTip="检查的所有属性值都匹配";
+RadButtonAny.Label="匹配任意选定属性";
+RadButtonAny.ToolTip="检查的任意属性值匹配";
+FindSimilar.Label="查找元素";
+

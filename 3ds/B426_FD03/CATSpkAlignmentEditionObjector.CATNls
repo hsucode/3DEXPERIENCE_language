@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+//=============================================================================
+// COPYRIGHT Dassault Systemes 2021
+//=============================================================================
+//
+// CATSpkBooleanGeomCmd NLS
+//=============================================================================
+// Usage Notes :
+//
+//=============================================================================
+// May 2021    : Creation                                Christophe BOYER (CB2)
+//=============================================================================
+
+CATSpkAlignmentEditionObjector.Title="对齐支持面编辑";
+CATSpkAlignmentEditionObjector.UndoTitle="对齐支持面编辑";
+
+// States Message
+CATSpkAlignmentEditionObjector.SelectSupportObjectState.Message="选择对象作为对齐支持面";

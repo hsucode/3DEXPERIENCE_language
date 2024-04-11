@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+
+Error_Title="错误消息";
+Error_Title_OffsetDistance="输入数据无效";
+Error_Msg_OffsetDistance="开始值和偏移值应小于视图的结束值。它还应在输入道路集范围内";
+

@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// Workshop
+//----------------------------------------------------------------------------
+// [AECRebarSketchWorkshop] @Workshop BEB 17:09:07
+AECRebarSketchWorkbench.Title="钢筋轮廓";
+AECRebarSketchWorkbench.ShortHelp="钢筋轮廓";
+AECRebarSketchWorkbench.Help="钢筋轮廓";
+AECRebarSketchWorkbench.LongHelp="钢筋轮廓";
+
+//----------------------------------------------------------------------------
+// ACTION BAR
+//----------------------------------------------------------------------------
+RebarSketchSection.Title="钢筋草图";
+SketcherSection.Title="草图";
+AnalysisSection.Title="分析";

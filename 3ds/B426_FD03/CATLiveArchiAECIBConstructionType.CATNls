@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT Dassault Systemes 2011
+//===================================================================
+//===========================================================================
+// Names of KWE Types for Live Building attributes
+//===========================================================================
+
+// IBC Construction Type
+AECIBConstructionType="IBC 构造类型：";
+IBCType="类型";

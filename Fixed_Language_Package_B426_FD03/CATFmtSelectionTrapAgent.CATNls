@@ -1,0 +1,30 @@
+<meta charset="UTF-8"/>
+//
+// ---------------------------
+// Selection trap dialog
+// ---------------------------
+//
+
+CATFmtSelectionTrapAgent.FirstPoint.Message="指示开始定义多边形的第一个点";
+CATFmtSelectionTrapAgent.FirstPointRectangle.Message="指示开始定义矩形的第一个点";
+
+CATFmtSelectionTrapAgent.OtherPoints.Message="指示要继续多边形的点，双击可终止多边形。";
+CATFmtSelectionTrapAgent.OtherPointRectangle.Message="指示结束矩形的第二个点";
+
+CATFmtSelectionTrapAgent.Validate.Message="验证";
+
+CATFmtSelectionTrapAgent.CATFmtTrapTypeDlg.Title="选择框类型";
+
+CATFmtSelectionTrapAgent.CATFmtTrapTypeDlg.ButtonFrame.Button1.Title="相交多边形封闭曲线";
+CATFmtSelectionTrapAgent.CATFmtTrapTypeDlg.ButtonFrame.Button1.Help="相交多边形封闭曲线";
+CATFmtSelectionTrapAgent.CATFmtTrapTypeDlg.ButtonFrame.Button1.ShortHelp="通过相交多边形选择框选择对象";
+CATFmtSelectionTrapAgent.CATFmtTrapTypeDlg.ButtonFrame.Button1.LongHelp="通过相交多边形选择框选择对象：可选择相交或位于多边形中的所有对象";
+
+CATFmtSelectionTrapAgent.CATFmtTrapTypeDlg.ButtonFrame.Button2.Title="包括多边形封闭曲线";
+CATFmtSelectionTrapAgent.CATFmtTrapTypeDlg.ButtonFrame.Button2.Help="包括多边形封闭曲线";
+CATFmtSelectionTrapAgent.CATFmtTrapTypeDlg.ButtonFrame.Button2.ShortHelp="通过包含多边形选择框选择对象";
+CATFmtSelectionTrapAgent.CATFmtTrapTypeDlg.ButtonFrame.Button2.LongHelp="通过包含多边形选择框选择对象：只能选择完全包含在多边形中的对象";
+
+CATFmtSelectionTrapAgent.TrapIndication.UndoTitle="选择框";
+
+ToleranceTooLow="选择结果可能近似，因为图像分辨率差。\n请放大进行更精确的选择。";

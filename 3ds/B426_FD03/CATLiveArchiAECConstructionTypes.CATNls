@@ -1,0 +1,94 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT Dassault Systemes 2011
+//===================================================================
+//===========================================================================
+// Names of KWE Types for Live Building attributes
+//===========================================================================
+
+// CONSTRUCTION TYPE
+AECConstructionTypes="构造类型";
+BuildingType="ASHRAE 建筑类型";
+
+AutomotiveFacility="汽车工厂";
+CourtHouse="法院";
+DiningBarLoungeOrLeisure="休闲设施处的餐厅或酒吧或酒廊";
+DiningCafeteriaFastFood="餐厅或自助餐厅或快餐";
+DiningFamily="家庭用餐区";
+Dormitory="宿舍";
+ExerciseCenter="运动中心";
+FireStation="消防局";
+Gymnasium="健身房";
+HospitalOrHealthcare="医院或医疗机构";
+Hotel="酒店";
+Library="图书馆";
+Manufacturing="制造";
+Motel="汽车旅馆";
+MotionPictureTheatre="电影剧院";
+MultiFamily="多户住宅";
+Museum="博物馆";
+Office="办公室";
+ParkingGarage="车库停车区";
+Penitentiary="赎免局";
+PerformingArtsTheater="表演艺术剧院";
+PoliceStation="警察局";
+PostOffice="邮局";
+ReligiousBuilding="神殿";
+Retail="零售店";
+SchoolOrUniversity="学校或大学建筑";
+SingleFamily="单户住宅";
+SportsArena="体育馆";
+TownHall="市镇大厅";
+Transportation="交通运输";
+Warehouse="仓库";
+Workshop="工作间";
+
+HVACServiceType="ASHRAE 暖通空调服务类型";
+BuildingDefault="默认建筑类型";
+RadCoolCeilings="辐射冷却天花板";
+CenHeatConvectors="中央暖气对流";
+CentHeatHotAir="中央暖气热风";
+CentHeatRadFloor="中央供热辐射地板";
+CentHeatRadiators="中央采暖散热器";
+ForcedConvHeaterFlue="强制对流取暖器烟道";
+ForcedConvHeaterNoFlue="强制对流取暖器（无烟道）";
+OtherRoomHeater="其他室内取暖器";
+RadHeaterFlue="辐射取暖器烟道";
+RadHeaterNoFlue="辐射取暖器（无烟道）";
+RadHeaterMultiburner="辐射取暖器多燃烧炉";
+SplSysWithMechVent="带机械通风的分体式系统";
+SplSysWithNatVent="带自然通风的分体式系统";
+ActiveChilledBeams="主动式冷梁";
+ConstVolDualDuct="定容双管道";
+ConstVolFixedOA="定容固定 OA";
+ConstVolVarOA="定容可变 OA";
+ConstVolTerminalReheat="定容终端再热";
+FanCoilSystem="风机盘管系统";
+InductionSystem="感应系统";
+MultizoneHotDeckColdDeck="多区域热板冷板";
+SplSysWithMechVentWithCooling="带冷却机械通风的分体式系统";
+VarRefrigerantFlow="可变制冷剂流量";
+VAVDualDuct="VA V 双管道";
+VAVIndoorPackCabinet="VA V 室内包装柜";
+VAVSingleDuct="VA V 单管道";
+WaterLoopHeatPump="水循环加热泵";
+
+IBCType="IBC 构造类型";
+IA="IA";
+IB="IB";
+IIA="IIA";
+IIB="IIB";
+IIIA="IIIA";
+IIIB="IIIB";
+IVA="IVA";
+IVB="IVB";
+VA="VA";
+VB="VB";
+
+ISOCLass="ISO 构造类";
+Frame="框架";
+JoistedMasonry="托梁砌体";
+NonCombustible="非可燃";
+MasonryNonCombustible="砌体非可燃";
+ModifiedFireResistive="改性耐火性";
+FireResisitive="耐火性";
+

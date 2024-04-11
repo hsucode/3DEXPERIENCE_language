@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT Dassault Systemes 2011
+//===================================================================
+//===========================================================================
+// Names of KWE Types for Live Building attributes
+//===========================================================================
+// ISO Construction Type
+AECISOContructionType="ISO 构造类型";
+ISOCLass="类";

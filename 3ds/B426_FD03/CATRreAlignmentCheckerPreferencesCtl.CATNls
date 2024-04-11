@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+MainGrid.CurveTypeGrid.CurveTypeLabel.Text="曲线类型";
+MainGrid.TransitionGrid.TransitionTypeGrid.TransitionTypeLabel.Text="转换类型";
+MainGrid.HorizontalTransitionTypeGrid.HorizontalTransitionTypeLabel.Text="转换类型";
+
+MainGrid.AutomaticPICreationGrid.AutomaticPICreationLabel.Text="PI 创建";
+MainGrid.AutomaticPICreationGrid.SubGrid.AutomaticPICreationMode.Label="自动";
+MainGrid.AutomaticPICreationGrid.SubGrid.ManualPICreationMode.Label="手动";
+

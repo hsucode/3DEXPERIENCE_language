@@ -1,0 +1,25 @@
+<meta charset="UTF-8"/>
+MainGrid.ISOGroupBox.Label="ISO";
+MainGrid.ISOGroupBox.ISOGrid.CtlFeatParamISO.FeatParamISO.Text="选项参数：";
+MainGrid.ISOGroupBox.ISOGrid.CtlFeatParamISO.TooltipShortHelp="选项参数：";
+MainGrid.ISOGroupBox.ISOGrid.FeatParamISOCombo.TooltipShortHelp="定义公差生成时使用的公差特征参数以及 ISO 父标准（公差特征参数
+允许管理哪些公差修改器、公差类型必须用于几何案例...）。";
+MainGrid.ISOGroupBox.ISOGrid.FeatParamISOSheetOpenBtn.Tooltip="浏览资源表";
+MainGrid.ISOGroupBox.ISOGrid.CtlClassesISO.ClassesISO.Text="默认值参数：";
+MainGrid.ISOGroupBox.ISOGrid.CtlClassesISO.TooltipShortHelp="默认值参数：";
+MainGrid.ISOGroupBox.ISOGrid.ClassesISOCombo.TooltipShortHelp="定义公差生成时使用的公差值以及 ISO 父标准（公差值参数
+允许根据公差类型和几何案例定义要使用的公差值。";
+MainGrid.ISOGroupBox.ISOGrid.ClassesISOSheetOpenBtn.Tooltip="浏览资源表";
+MainGrid.ASMEGroupBox.Label="ASME";
+MainGrid.ASMEGroupBox.ASMEGrid.CtlFeatParamASME.FeatParamASME.Text="选项参数：";
+MainGrid.ASMEGroupBox.ASMEGrid.CtlFeatParamASME.TooltipShortHelp="选项参数：";
+MainGrid.ASMEGroupBox.ASMEGrid.FeatParamASMECombo.TooltipShortHelp="定义公差生成时使用的公差特征参数以及 ASME 父标准（公差特征参数
+允许管理哪些公差修改器、公差类型必须用于几何案例...）。";
+MainGrid.ASMEGroupBox.ASMEGrid.FeatParamASMESheetOpenBtn.Tooltip="浏览资源表";
+MainGrid.ASMEGroupBox.ASMEGrid.CtlClassesASME.ClassesASME.Text="默认值参数：";
+MainGrid.ASMEGroupBox.ASMEGrid.CtlClassesASME.TooltipShortHelp="默认值参数：";
+MainGrid.ASMEGroupBox.ASMEGrid.ClassesASMECombo.TooltipShortHelp="定义公差生成时使用的公差值以及 ASME 父标准（公差值参数
+允许根据公差类型和几何案例定义要使用的公差值。";
+MainGrid.ASMEGroupBox.ASMEGrid.ClassesASMESheetOpenBtn.Tooltip="浏览资源表";
+Parameters="参数...";
+Less="更少...";

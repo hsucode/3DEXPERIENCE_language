@@ -1,0 +1,88 @@
+<meta charset="UTF-8"/>
+//===========================================================================
+// COPYRIGHT DASSAULT SYSTEMES PROVENCE 2012
+//===========================================================================
+//   ENGLISH ENGLISH ENGLISH ENGLISH ENGLISH ENGLISH ENGLISH ENGLISH ENGLISH 
+//===========================================================================
+// Resource catalog for the CATDesHybridMSCmdPaletteHeader class
+// used in the CAADegCreateBoxPaletteHeader command for the palette
+//===========================================================================
+// YS9 - Ajout des balise NotConcernedByTootipMigration sur les headers utilisés par la palette
+
+// [MS_ExtrudeHdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_ExtrudeHdrCATNls.Help="切换到拉伸面模式。";
+CATDesHybridMSCmdPaletteHeader.MS_ExtrudeHdrCATNls.LongHelp="切换到拉伸面模式。";
+CATDesHybridMSCmdPaletteHeader.MS_ExtrudeHdrCATNls.ShortHelp="拉伸面";
+CATDesHybridMSCmdPaletteHeader.MS_ExtrudeHdrCATNls.Title="IMA_拉伸面模式";
+
+// [MS_AddHdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_AddHdrCATNls.Help="添加面以进行匹配。";
+CATDesHybridMSCmdPaletteHeader.MS_AddHdrCATNls.LongHelp="添加面以进行匹配。";
+CATDesHybridMSCmdPaletteHeader.MS_AddHdrCATNls.ShortHelp="添加";
+CATDesHybridMSCmdPaletteHeader.MS_AddHdrCATNls.Title="IMA 添加选项";
+
+// [MS_DeformHdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_DeformHdrCATNls.Help="变形面以进行匹配。";
+CATDesHybridMSCmdPaletteHeader.MS_DeformHdrCATNls.LongHelp="变形面以进行匹配。";
+CATDesHybridMSCmdPaletteHeader.MS_DeformHdrCATNls.ShortHelp="变形";
+CATDesHybridMSCmdPaletteHeader.MS_DeformHdrCATNls.Title="IMA_变形选项";
+
+// [MS_AutoHdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_AutoHdrCATNls.Help="切换用户自动计算或指定的选项。";
+CATDesHybridMSCmdPaletteHeader.MS_AutoHdrCATNls.LongHelp="切换用户自动计算或指定的选项。";
+CATDesHybridMSCmdPaletteHeader.MS_AutoHdrCATNls.ShortHelp="自动或自定义选项";
+CATDesHybridMSCmdPaletteHeader.MS_AutoHdrCATNls.Title="IMA_自动或自定义";
+
+// [MS_CutHdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_CutHdrCATNls.Help="定义匹配面上的剪切数量。";
+CATDesHybridMSCmdPaletteHeader.MS_CutHdrCATNls.LongHelp="定义匹配面上的剪切数量。";
+CATDesHybridMSCmdPaletteHeader.MS_CutHdrCATNls.ShortHelp="切割";
+CATDesHybridMSCmdPaletteHeader.MS_CutHdrCATNls.Title="IMA 剪切数量";
+
+// [MS_RatioHdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_RatioHdrCATNls.Help="定义第二行控制点的变形。";
+CATDesHybridMSCmdPaletteHeader.MS_RatioHdrCATNls.LongHelp="定义第二行控制点的变形。";
+CATDesHybridMSCmdPaletteHeader.MS_RatioHdrCATNls.ShortHelp="比率";
+CATDesHybridMSCmdPaletteHeader.MS_RatioHdrCATNls.Title="IMA 比率";
+
+// [MS_DegForG0HdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_DegForG0HdrCATNls.Help="定义连接质量的级别。";
+CATDesHybridMSCmdPaletteHeader.MS_DegForG0HdrCATNls.LongHelp="定义修改 NURBS 度的连接质量级别。";
+CATDesHybridMSCmdPaletteHeader.MS_DegForG0HdrCATNls.ShortHelp="连接质量";
+CATDesHybridMSCmdPaletteHeader.MS_DegForG0HdrCATNls.Title="IMA_连接质量";
+
+// [MS_DegForG2HdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_DegForG2HdrCATNls.Help="定义曲率质量的级别。";
+CATDesHybridMSCmdPaletteHeader.MS_DegForG2HdrCATNls.LongHelp="定义修改 NURBS 度的连接质量级别。";
+CATDesHybridMSCmdPaletteHeader.MS_DegForG2HdrCATNls.ShortHelp="曲率质量";
+CATDesHybridMSCmdPaletteHeader.MS_DegForG2HdrCATNls.Title="IMA_曲率质量";
+
+// [MS_PickHdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_PickHdrCATNls.Help="选择目标。";
+CATDesHybridMSCmdPaletteHeader.MS_PickHdrCATNls.LongHelp="选择目标。";
+CATDesHybridMSCmdPaletteHeader.MS_PickHdrCATNls.ShortHelp="目标选择";
+CATDesHybridMSCmdPaletteHeader.MS_PickHdrCATNls.Title="IMA_拾取";
+
+// [MS_ContG0HdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_ContG0HdrCATNls.Help="定义 G0 连续。";
+CATDesHybridMSCmdPaletteHeader.MS_ContG0HdrCATNls.LongHelp="定义 G0 连续。";
+CATDesHybridMSCmdPaletteHeader.MS_ContG0HdrCATNls.ShortHelp="G0 连续";
+CATDesHybridMSCmdPaletteHeader.MS_ContG0HdrCATNls.Title="IMA_G0 连续";
+
+// [MS_ContG1HdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_ContG1HdrCATNls.Help="定义 G1 连续。";
+CATDesHybridMSCmdPaletteHeader.MS_ContG1HdrCATNls.LongHelp="定义 G1 连续。";
+CATDesHybridMSCmdPaletteHeader.MS_ContG1HdrCATNls.ShortHelp="G1 连续";
+CATDesHybridMSCmdPaletteHeader.MS_ContG1HdrCATNls.Title="IMA_G1 连续";
+
+// [MS_ContG2HdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_ContG2HdrCATNls.Help="定义 G2 连续。";
+CATDesHybridMSCmdPaletteHeader.MS_ContG2HdrCATNls.LongHelp="定义 G2 连续。";
+CATDesHybridMSCmdPaletteHeader.MS_ContG2HdrCATNls.ShortHelp="G2 连续";
+CATDesHybridMSCmdPaletteHeader.MS_ContG2HdrCATNls.Title="IMA_G2 连续";
+
+// [MS_PickTangentPropagHdrCATNls] @NotConcernedByTooltipMigration YS9 17:07:10
+CATDesHybridMSCmdPaletteHeader.MS_PickTangentPropagHdrCATNls.Help="将相切拓展用于边线选择。";
+CATDesHybridMSCmdPaletteHeader.MS_PickTangentPropagHdrCATNls.LongHelp="将相切拓展用于边线选择。";
+CATDesHybridMSCmdPaletteHeader.MS_PickTangentPropagHdrCATNls.ShortHelp="相切拓展";
+CATDesHybridMSCmdPaletteHeader.MS_PickTangentPropagHdrCATNls.Title="IMA 相切拓展";

@@ -1,0 +1,13 @@
+﻿<meta charset="UTF-8"/>
+//This file contains the Nls resources for type management such as Predefined Queries or BL typing  
+//defined in file: resources\plmsearch\plmtoolbar\...\PQ_Railway.CATRsc
+
+Railway.Title="铁路";
+Railway.ShortHelp="铁路 (rlw:)";
+Railway.Abbreviation="rlw";
+Railway.Abbreviations="Railway|railway|rlw";
+
+SRailway.Title="铁路";
+SRailway.ShortHelp="标准铁路 (srlw:)";
+SRailway.Abbreviation="srlw";
+SRailway.Abbreviations="Standard Railway|srailway|srlw";

@@ -1,0 +1,65 @@
+<meta charset="UTF-8"/>
+//---------------------------------------------------
+// Resource File for CATAECAccommodationCommandHeader Class
+//---------------------------------------------------
+//=================================================================================================================
+
+
+// == AGT 2.0 ===== Start
+CATAECAccommodationCommandHeader.CATAGT2CeilingCmdHdr.Title="天花板";
+
+CATAECAccommodationCommandHeader.CATAGT2EditCeilingCmdHdr.Title="编辑天花板";
+
+CATAECAccommodationCommandHeader.CATAGT2WallCmdHdr.Title="墙体";
+
+CATAECAccommodationCommandHeader.CATAGT2EditWallCmdHdr.Title="编辑墙体";
+
+CATAECAccommodationCommandHeader.CATAGT2CoveringCmdHdr.Title="覆面层";
+
+CATAECAccommodationCommandHeader.CATAGT2EditCoveringCmdHdr.Title="编辑覆盖";
+
+CATAECAccommodationCommandHeader.CATAGT2CeilingPanelCmdHdr.Title="分解天花板";
+
+CATAECAccommodationCommandHeader.CATAGT2WallPanelCmdHdr.Title="分解墙体";
+
+CATAECAccommodationCommandHeader.CATAGT2CoveringPanelCmdHdr.Title="分解覆盖";
+
+CATAECAccommodationCommandHeader.CATAGT2RemoveCeilingDecompositionCmdHdr.Title="移除天花板的分解";
+
+CATAECAccommodationCommandHeader.CATAGT2RemoveCoveringDecompositionCmdHdr.Title="移除覆盖层的分解";
+
+CATAECAccommodationCommandHeader.CATAGT2RemoveWallDecompositionCmdHdr.Title="移除墙体的分解";
+
+CATAECAccommodationCommandHeader.CATAGT2SillCmdHdr.Title="标准卡座";
+
+CATAECAccommodationCommandHeader.CATAGT2SketchBasedSillCmdHdr.Title="基于草图的卡座";
+
+CATAECAccommodationCommandHeader.CATAGT2ConnectorCmdHdr.Title="连接器";
+
+CATAECAccommodationCommandHeader.CATAGT2EditSillCmdHdr.Title="编辑标准卡座";
+
+CATAECAccommodationCommandHeader.CATAGT2EditSketchBasedSillCmdHdr.Title="编辑基于草图的卡座";
+
+CATAECAccommodationCommandHeader.CATAGT2EditConnectorCmdHdr.Title="编辑连接器";
+
+CATAECAccommodationCommandHeader.CATAGT2CutoutCmdHdr.Title="剪口";
+
+CATAECAccommodationCommandHeader.CATAGT2SplitCmdHdr.Title="分割";
+
+CATAECAccommodationCommandHeader.CATAGT2LevelSelectionCmdHdr.Title="级别选择";
+
+CATAECAccommodationCommandHeader.CATAGT2CompartmentCmdHdr.Title="隔间";
+
+CATAECAccommodationCommandHeader.CATAGT2CompartmentEditCmdHdr.Title=" 编辑隔间";
+
+CATAECAccommodationCommandHeader.CATAGT3SketchCmdHdr.Title="草图";
+
+CATAECAccommodationCommandHeader.CATAGTExtrudeCmdHdr.Title="拉伸";
+
+CATAECAccommodationCommandHeader.CATAGTFillCmdHdr.Title="填充";
+
+CATAECAccommodationCommandHeader.CATAGTExtractCmdHdr.Title="提取";
+
+CATAECAccommodationCommandHeader.CATAGTOffsetCmdHdr.Title="偏移";
+
+// == AGT 2.0 ===== Ends

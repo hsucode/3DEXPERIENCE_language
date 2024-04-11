@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+// =====================================================================
+// NLS for PP  frame (attributs parametrization)
+// =====================================================================
+
+Frame.IconPP.ShortHelp="访问 PP 表";
+Frame.IconPP.Help="访问 PP 表";
+Frame.IconPP.LongHelp="访问在当前零件操作中参考的 PP 词汇表";
+
+Frame.CharEdit.ShortHelp="PP 词汇语法文本字段";
+Frame.CharEdit.Help="PP 词汇语法文本字段";
+Frame.CharEdit.LongHelp="直接在文本字段中输入一个或多个 PP 词汇语法";
+
+

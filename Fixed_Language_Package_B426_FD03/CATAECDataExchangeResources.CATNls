@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+CATAECDataExchangeResources.Alias="建筑和土木数据交换资源";
+CATAECDataExchangeResources.Description="定义建筑和土木数据交换的资源";
+
+AECDataExchange.Alias="对象映射定义";
+AECDataExchange.Description="定义外部格式（例如 IFC）实体和 ENOVIA 实体之间的映射";
+
+IFCCustomMapping.Alias="IFC 自定义属性映射定义";
+IFCCustomMapping.Description="定义 IFC 自定义属性和 Enovia 属性之间的映射";

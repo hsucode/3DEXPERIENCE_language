@@ -1,0 +1,39 @@
+<meta charset="UTF-8"/>
+// CATMxauCtrlAlignment.CATNls
+
+AlignmentLabel.Text="对齐";
+
+Btn1_Same.Tooltip="相同";
+Btn1_Opposite.Tooltip="相反";
+Btn1_Parallel.Tooltip="未定义";
+
+Btn1_Sector1.Tooltip="扇形 1";
+Btn1_Sector2.Tooltip="扇形 2";
+Btn1_Sector3.Tooltip="扇形 3";
+Btn1_Sector4.Tooltip="扇形 4";
+
+Btn1_FlipX.Tooltip="翻转 x";
+Btn1_FlipY.Tooltip="翻转 y";
+Btn1_FlipZ.Tooltip="翻转 z";
+
+Btn2_FlipX.Tooltip="翻转 x";
+Btn2_FlipY.Tooltip="翻转 y";
+Btn2_FlipZ.Tooltip="翻转 z";
+
+Btn1_Above.Tooltip="之上";
+Btn1_Below.Tooltip="下方";
+Btn1_Undefined.Tooltip="未定义";
+
+Btn2_Same.Tooltip="相同";
+Btn2_Opposite.Tooltip="相反";
+Btn2_Parallel.Tooltip="平行";
+Btn2_LineUndefined.Tooltip="未定义";
+
+Btn1_X.Tooltip="x 轴";
+Btn1_Y.Tooltip="y 轴";
+Btn1_Z.Tooltip="z 轴";
+Btn1_Reverse.Tooltip="反转方向";
+Btn2_X.Tooltip="x 轴";
+Btn2_Y.Tooltip="y 轴";
+Btn2_Z.Tooltip="z 轴";
+Btn2_Reverse.Tooltip="反转方向";

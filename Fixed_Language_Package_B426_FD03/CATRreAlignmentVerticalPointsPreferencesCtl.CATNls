@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+//---------------------------------------------------------
+// CATRreAlignmentVerticalPointsPreferencesCtl.CATNls
+//---------------------------------------------------------
+
+VPointIntersectionLabel="VPI";
+GradientSpiralLabel="梯度-螺旋";
+SpiralCurveLabel="螺旋-曲线";
+GradientCurveLabel="梯度-曲线";
+CurveExtremumLabel="曲线末端";
+CurveCurveLabel="曲线-曲线";
+CurveGradientLabel="曲线-梯度";
+CurveSpiralLabel="曲线-螺旋";
+SpiralGradientLabel="螺旋-梯度";

@@ -1,0 +1,253 @@
+<meta charset="UTF-8"/>
+PHMERR_0001.Request="无法网格化 /P01";
+PHMERR_0001.Diagnostic="尝试使用不同的网格大小重新网格化。";
+PHMERR_0001.Advice="";
+
+
+PHMERR_002a.Request="一个包络体无法进行扫掠网格化且填充了四面体主导的元素。";
+PHMERR_002a.Diagnostic="调整全局网格大小可能会减少扫掠失败次数。";
+PHMERR_002a.Advice="";
+
+PHMERR_002b.Request="/P01 包络体无法进行扫掠网格化且填充了四面体主导的元素。";
+PHMERR_002b.Diagnostic="调整全局网格大小可能会减少扫掠失败次数。";
+PHMERR_002b.Advice="";
+
+PHMERR_003a.Request="一个包络体无法进行结构化网格化且填充了四面体主导的元素。";
+PHMERR_003a.Diagnostic="调整全局网格大小可能会减少结构化网格失败次数。";
+PHMERR_003a.Advice="";
+
+PHMERR_003b.Request="/P01 包络体无法进行结构化网格化且填充了四面体主导的元素。";
+PHMERR_003b.Diagnostic="调整全局网格大小可能会减少结构化网格失败次数。";
+PHMERR_003b.Advice="";
+
+PHMERR_004a.Request="无法网格化一个扫掠包络体的源侧。将使用四面体主导的元素填充此包络体。";
+PHMERR_004a.Diagnostic="调整全局网格大小可能会减少扫掠失败次数。";
+PHMERR_004a.Advice="";
+
+PHMERR_004b.Request="无法网格化 /P01 扫掠包络体的源侧。将使用四面体主导的元素填充这些包络体。";
+PHMERR_004b.Diagnostic="调整全局网格大小可能会减少扫掠失败次数。";
+PHMERR_004b.Advice="";
+
+PHMERR_005a.Request="无法网格化一个扫掠包络体的源侧。将使用四面体主导的元素填充此包络体。";
+PHMERR_005a.Diagnostic="调整全局网格大小或\n移除一些局部边线分布可能会减少扫掠失败次数。";
+PHMERR_005a.Advice="";
+
+PHMERR_005b.Request="无法网格化 /P01 扫掠包络体的源侧。将使用四面体主导的元素填充这些包络体。";
+PHMERR_005b.Diagnostic="调整全局网格大小或\n移除一些局部边线分布可能会减少扫掠失败次数。";
+PHMERR_005b.Advice="";
+
+PHMERR_006a.Request="无法用四面体主导的元素网格化一个包络体。";
+PHMERR_006a.Diagnostic="尝试使用更小的网格大小重新网格化。";
+PHMERR_006a.Advice="";
+
+PHMERR_006b.Request="无法用四面体主导的元素网格化 /P01 包络体。";
+PHMERR_006b.Diagnostic="尝试使用更小的网格大小重新网格化。";
+PHMERR_006b.Advice="";
+
+PHMERR_007a.Request="无法用三角形网格化一个四面体主导的包络体的一些曲面。";
+PHMERR_007a.Diagnostic="尝试使用更小的网格大小重新网格化。";
+PHMERR_007a.Advice="";
+
+PHMERR_007b.Request="无法用三角形网格化 /P01 四面体主导的包络体的一些曲面。";
+PHMERR_007b.Diagnostic="尝试使用更小的网格大小重新网格化。";
+PHMERR_007b.Advice="";
+
+PHMERR_008a.Request="无法用四面体网格化一个包络体。";
+PHMERR_008a.Diagnostic="尝试使用更小的网格大小重新网格化。";
+PHMERR_008a.Advice="";
+
+PHMERR_008b.Request="无法用四面体网格化 /P01 包络体。";
+PHMERR_008b.Diagnostic="尝试使用更小的网格大小重新网格化。";
+PHMERR_008b.Advice="";
+
+PHMERR_009a.Request="无法用三角形网格化一个四面体包络体的一些曲面。";
+PHMERR_009a.Diagnostic="尝试使用更小的网格大小重新网格化。";
+PHMERR_009a.Advice="";
+
+PHMERR_009b.Request="无法用三角形网格化 /P01 四面体包络体的一些曲面。";
+PHMERR_009b.Diagnostic="尝试使用更小的网格大小重新网格化。";
+PHMERR_009b.Advice="";
+
+PHMERR_010a.Request="已用四面体填充一个扫掠包络体以避免相邻包络体之间产生不兼容的六面体。\n不兼容的接口位于零件内部且显示为红色。";
+PHMERR_010a.Diagnostic="尝试添加更多分区，以使扫掠网格拓扑兼容。";
+PHMERR_010a.Advice="";
+
+PHMERR_010b.Request="已用四面体填充 /P01 扫掠包络体以避免相邻包络体之间产生不兼容的六面体。\n不兼容的接口位于零件内部且显示为红色。";
+PHMERR_010b.Diagnostic="尝试添加更多分区，以使扫掠网格拓扑兼容。";
+PHMERR_010b.Advice="";
+
+PHMERR_011.Request="无法跨不兼容的接口创建关联接触。";
+PHMERR_011.Diagnostic="尝试添加更多分区，以使网格拓扑兼容。";
+PHMERR_011.Advice="";
+
+PHMERR_012a.Request="一个局部边线分布不能完全匹配";
+PHMERR_012a.Diagnostic="";
+PHMERR_012a.Advice="";
+
+PHMERR_012b.Request="/P01局部边线分布不能完全匹配。";
+PHMERR_012b.Diagnostic="";
+PHMERR_012b.Advice="";
+
+PHMERR_012c.Request="一个局部边线分布不能完全匹配";
+PHMERR_012c.Diagnostic="对于纯六面体网格化，每个边线通常都需要偶数个元素。";
+PHMERR_012c.Advice="";
+
+PHMERR_012d.Request="/P01 局部边线分布不能完全匹配。";
+PHMERR_012d.Diagnostic="对于纯六面体网格化，每个边线通常都需要偶数个元素。";
+PHMERR_012d.Advice="";
+
+PHMERR_013.Request="已创建一些楔形物。";
+PHMERR_013.Diagnostic="";
+PHMERR_013.Advice="";
+
+PHMERR_014a.Request="曲面网格将被忽略并从一个域中移除。";
+PHMERR_014a.Diagnostic="移除的曲面网格具有与 3D 网格化技术不一致的网格阵列。";
+PHMERR_014a.Advice="通过分配不同的技术或编辑拓扑来调整 3D 网格化技术。";
+
+PHMERR_014b.Request="曲面网格将被忽略并从 /P01 个域中移除";
+PHMERR_014b.Diagnostic="移除的曲面网格具有与 3D 网格化技术不一致的网格阵列。";
+PHMERR_014b.Advice="通过分配不同的技术或编辑拓扑来调整 3D 网格化技术。";
+
+PHMERR_015a.Request="在一个接口上创建了关联接触";
+PHMERR_015a.Diagnostic="网格在不兼容的网格阵列之间有接口。";
+PHMERR_015a.Advice="";
+
+PHMERR_015b.Request="关联接触已在 /P01 接口创建";
+PHMERR_015b.Diagnostic="网格在不兼容的网格阵列之间有接口。";
+PHMERR_015b.Advice="";
+
+PHMERR_016.Request="无法生成网格！\n找到具有无效 2D 网格的域";
+PHMERR_016.Diagnostic="2D 网格可能缺少元素、重叠元素或悬空节点。";
+PHMERR_016.Advice="使用网格编辑工具修复 2D 网格。";
+
+PHMERR_017.Request="无法生成网格！";
+PHMERR_017.Diagnostic="预期将使用结构化阵列网格化的具有 2D 网格的域包含三角形元素。";
+PHMERR_017.Advice="使用网格编辑工具修复 2D 网格。";
+
+PHMERR_018.Request="无法生成网格！";
+PHMERR_018.Diagnostic="预期将使用结构化模式网格化的具有 2D 网格的域包含非结构化阵列。";
+PHMERR_018.Advice="使用网格编辑工具修复 2D 网格。";
+
+PHMERR_019.Request="已生成六面体主导网格，而不是纯六面体网格";
+PHMERR_019.Diagnostic="使用 2D 元素三角形元素网格化的域。";
+PHMERR_019.Advice="使用网格编辑工具修复 2D 网格";
+
+PHMERR_020.Request="已生成六面体主导网格，而不是纯六面体网格";
+PHMERR_020.Diagnostic="使用 2D 元素网格化的域边线具有奇数个元素。\n沿每条边线的元素数必须为偶数。";
+PHMERR_020.Advice="使用网格编辑工具修复 2D 网格。";
+
+AssignSweepTechERR_0001.Request="扫掠网格技术规格无效。";
+AssignSweepTechERR_0001.Diagnostic="缺少支持面。";
+AssignSweepTechERR_0001.Advice="选择包络体作为支持面。";
+
+AssignSweepTechERR_0002.Request="扫掠网格技术规格无效。";
+AssignSweepTechERR_0002.Diagnostic="未指定源侧。";
+AssignSweepTechERR_0002.Advice="选择一个或多个域作为源侧。";
+
+AssignSweepTechERR_0003.Request="扫掠网格技术规格无效。";
+AssignSweepTechERR_0003.Diagnostic="未指定目标侧。";
+AssignSweepTechERR_0003.Advice="选择一个或多个域作为目标侧。";
+
+AssignSweepTechERR_0004.Request="扫掠网格技术规格无效。";
+AssignSweepTechERR_0004.Diagnostic="源侧和目标侧与扫掠拓扑不一致。";
+AssignSweepTechERR_0004.Advice="编辑源和/或目标侧";
+
+AssignSweepTechERR_0005.Request="扫掠网格技术规格无效。";
+AssignSweepTechERR_0005.Diagnostic="源或目标必须包含单个域。";
+AssignSweepTechERR_0005.Advice="编辑目标或源侧，或通过取消约束边线\n并将多个域合并到单个域中来修改拓扑。";
+
+AssignSweepTechERR_0006.Request="无法从源侧计算目标侧。";
+AssignSweepTechERR_0006.Diagnostic="未指定源侧。";
+AssignSweepTechERR_0006.Advice="选择一个或多个域作为源侧。";
+
+AssignSweepTechERR_0007.Request="无法从源侧计算目标侧。";
+AssignSweepTechERR_0007.Diagnostic="找不到使用扫掠技术生成一致拓扑的目标侧。";
+AssignSweepTechERR_0007.Advice="编辑源侧或手动选择目标侧。";
+
+AssignSweepTechERR_0008.Request="选定的源侧和计算的目标侧发生翻转。";
+AssignSweepTechERR_0008.Diagnostic="选定的源侧已移至目标侧，以便生成\n与扫掠技术一致的拓扑。";
+AssignSweepTechERR_0008.Advice="目标侧必须包含单个域。";
+
+AssignSweepTechERR_0009.Request="源侧和目标侧发生翻转。";
+AssignSweepTechERR_0009.Diagnostic="源侧和目标侧发生翻转，以便生成\n与扫掠技术一致的拓扑。";
+AssignSweepTechERR_0009.Advice="目标侧必须包含单个域。";
+
+AssignSweepTechERR_0009a.Title="源侧和目标侧发生翻转。";
+AssignSweepTechERR_0009a.Text="源侧和目标侧发生翻转，以便生成\n与扫掠技术一致的拓扑。\n目标侧必须包含单个域。";
+
+AssignStructureTechERR_0001.Request="结构化网格化技术规格无效。";
+AssignStructureTechERR_0001.Diagnostic="缺少支持面。";
+AssignStructureTechERR_0001.Advice="选择包络体作为支持面。";
+
+AssignStructureTechERR_0002.Request="无法分配结构化技术。";
+AssignStructureTechERR_0002.Diagnostic="结构化网格化技术不适用。";
+AssignStructureTechERR_0002.Advice="请使用其他网格化技术。";
+
+AssignStructureTechERR_002a.Request="结构化网格化技术不适用于某些包络体。";
+AssignStructureTechERR_002a.Diagnostic="这些包络体已从支持面中移除。";
+AssignStructureTechERR_002a.Advice="请对这些包络体使用其他网格化技术。";
+
+AssignStructureTechERR_0003.Request="无法将结构化技术分配给某些选定包络体。";
+AssignStructureTechERR_0003.Diagnostic="结构化网格化技术不适用于这些包络体。";
+AssignStructureTechERR_0003.Advice="请对这些包络体使用其他网格化技术。";
+
+// Global report
+
+Size="，大小 = %.4g %s";
+
+NbCreatedNodes="%d 个节点已创建";
+NbCreatedElements="%d 个元素已创建";
+NbVolumesFailed="%d 个包络体的网格化失败";
+
+OnePHMCreatedTie="已在一个接口处创建关联接触";
+NbPHMCreatedTies="已在 %d 个接口处创建关联接触";
+
+OnePHMSeedViolation="无法完全匹配一个局部边线分布";
+OnePHMSeedViolationAllHex="一个局部边线分布不能完全匹配\n（对于纯六面体网格化，每个边线通常都需要偶数个元素）";
+NbPHMSeedViolations="无法完全匹配 %d 个局部边线分布";
+NbPHMSeedViolationsAllHex="%d 个局部边线分布不能完全匹配\n（对于纯六面体网格化，每个边线通常都需要偶数个元素）";
+
+PHMUnwantedWedges="已创建一些楔形物";
+
+PHMInvalid2DMesh="无法生成网格！\n找到具有无效 2D 网格的域。\n\n2D 网格可能具有缺少的元素、重叠元素或悬空节点。\n使用网格编辑工具修复 2D 网格";
+
+PHMStructuredDomainWithTri="无法生成网格！\n预期将使用结构化阵列网格化的具有 2D 网格的域包含三角形元素。";
+
+PHMStructuredDomainPattern="无法生成网格！\n预期将使用结构化模式网格化的具有 2D 网格的域包含非结构化阵列。";
+
+PHMInconsistent2DMeshTri="已生成六面体主导网格，而不是纯六面体网格，因为 2D 网格包含三角形元素";
+
+PHMInconsistent2DMeshDistribution="已生成六面体主导网格，而不是纯六面体网格，因为 2D 网格在某些边线上具有偶数个元素";
+
+OnePHMSurfFailed="无法网格化一个包络体的一些曲面";
+NbPHMSurfFailed="无法网格化 %d 个包络体的一些曲面";
+
+OnePHMSweepFailed="一个包络体无法进行扫掠网格化且填充了四面体";
+NbPHMSweepFailed="%d 个包络体无法进行扫掠网格化且填充了四面体";
+
+OnePHMStructuredFailed="一个包络体无法进行结构化网格化且填充了四面体";
+NbPHMStructuredFailed="%d 个包络体无法进行结构化网格化且填充了四面体";
+
+OnePHMFreeFailed="无法用四面体网格化一个包络体";
+NbPHMFreeFailed="无法用四面体网格化 %d 个包络体";
+
+OnePHMTieFailed="无法在一个不兼容的接口上创建关联接触";
+NbPHMTieFailed="无法在 %d 个不兼容的接口上创建关联接触";
+
+PHMSingleSurfMeshRemoved="曲面网格将从一个域中移除，因为它的网格阵列与 3D 网格化技术不一致。";
+PHMMultiSurfMeshRemoved="曲面网格将从 %d 个域中移除，因为它们的网格阵列与 3D 网格化技术不一致。";
+
+PHMInconsistentFaceCaptureOnTarget_Diagnostic="捕获的元素面位于扫掠包络体的目标侧，很可能在包络体网格化过程中被忽略。\n\n";
+PHMInconsistentFaceCaptureOnTarget_Advice="尝试翻转扫掠包络体的源侧和目标侧，或分配自由技术。";
+
+PHMInconsistentFaceCaptureOnLateral_Diagnostic="捕获的元素面位于扫掠包络体的侧面，具有不规则的网格阵列。\n它们将在包络体网格化过程中被忽略。\n\n";
+PHMInconsistentFaceCaptureOnLateral_Advice="请尝试更改扫掠技术、编辑拓扑或分配自由技术。";
+
+PHMInconsistentFaceCaptureOnStructured_Diagnostic="捕获的元素面位于结构化包络体的侧面，具有不规则的网格阵列。\n它们将在包络体网格化过程中被忽略。\n\n";
+PHMInconsistentFaceCaptureOnStructured_Advice="请尝试更改网格化技术、编辑拓扑或分配自由技术。";
+
+PHMInvalidSupportLocalMeshFaceCapt="支持面无效。\n用于局部网格化的支持面必须包括受面捕获规格限制的所有包络体。";
+
+PHMInvalidSupportLocalUnMeshFaceCapt="支持面无效。\n用于局部网格删除的支持面必须包括受面捕获规格限制的所有包络体。";
+
+MeshOK="网格化成功";

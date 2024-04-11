@@ -1,0 +1,32 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// Workshop
+//----------------------------------------------------------------------------
+// [AECAlignmentVWorkshop] @Workshop BEB 17:09:07
+AECAlignmentVWorkshop.Title="Vertical Alignment Sketcher";
+AECAlignmentVWorkshop.ShortHelp="Vertical Alignment Sketcher";
+AECAlignmentVWorkshop.Help="Vertical Alignment Sketcher";
+AECAlignmentVWorkshop.LongHelp="Vertical Alignment Sketcher";
+
+//----------------------------------------------------------------------------
+// ACTION BAR
+//----------------------------------------------------------------------------
+AlignmentSection.Title="线路";
+SketcherSection.Title="Sketcher";
+AnalysisSection.Title="分析";
+
+AECAlignmentVWorkshop.AlignmentEdition2DGeomHdr.Title="编辑几何图形定义";
+AECAlignmentVWorkshop.AlignmentEdition2DGeomHdr.Help="编辑几何图形定义";
+AECAlignmentVWorkshop.AlignmentEdition2DGeomHdr.ShortHelp="编辑所选元素的几何图形";
+AECAlignmentVWorkshop.AlignmentEdition2DGeomHdr.LongHelp="编辑所选元素的几何图形。";
+
+AECAlignmentVWorkshop.AECDumpWkbHdr.Title="转储工作间";
+AECAlignmentVWorkshop.AECDumpWkbHdr.Help="转储工作间";
+AECAlignmentVWorkshop.AECDumpWkbHdr.ShortHelp="转储工作间";
+AECAlignmentVWorkshop.AECDumpWkbHdr.LongHelp="转储工作间。";
+
+AECAlignmentVWorkshop.AECAlignmentCutAndFillHdr.Title="挖掘和填充";
+AECAlignmentVWorkshop.AECAlignmentCutAndFillHdr.Help="显示挖掘和填充信息";
+AECAlignmentVWorkshop.AECAlignmentCutAndFillHdr.ShortHelp="在专用面板中计算和显示挖掘和填充包络体。";
+AECAlignmentVWorkshop.AECAlignmentCutAndFillHdr.LongHelp="在专用面板中计算和显示挖掘和填充包络体。";
+

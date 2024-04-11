@@ -1,0 +1,57 @@
+<meta charset="UTF-8"/>
+PlateDirectionLabel="方向      ";
+
+// Tool Tips
+
+//Direction
+AlignmentSelectorGrid.PlateDirection.PlateDirection_1.TooltipShortHelp="正面";
+AlignmentSelectorGrid.PlateDirection.PlateDirection_1.TooltipLongHelp="加厚 U,V 平面的法线。";
+
+AlignmentSelectorGrid.PlateDirection.PlateDirection_2.TooltipShortHelp="背面";
+AlignmentSelectorGrid.PlateDirection.PlateDirection_2.TooltipLongHelp="相对于 U,V 平面的法线方向加厚。";
+
+AlignmentSelectorGrid.PlateDirection.PlateDirection_3.TooltipShortHelp="两侧";
+AlignmentSelectorGrid.PlateDirection.PlateDirection_3.TooltipLongHelp="在 U,V 平面的两侧加厚。";
+
+AlignmentSelectorGrid.PlateDirection.PlateDirection_4.TooltipShortHelp="变化";
+AlignmentSelectorGrid.PlateDirection.PlateDirection_4.TooltipLongHelp="板方向各不相同。";
+
+//Base Plate Direction
+AlignmentSelectorGrid.BasePlateDirection.PlateDirection_1.TooltipShortHelp="向上";
+AlignmentSelectorGrid.BasePlateDirection.PlateDirection_1.TooltipLongHelp="加厚 U,V 平面的法线。";
+
+AlignmentSelectorGrid.BasePlateDirection.PlateDirection_2.TooltipShortHelp="向下";
+AlignmentSelectorGrid.BasePlateDirection.PlateDirection_2.TooltipLongHelp="相对于 U,V 平面的法线方向加厚。";
+
+AlignmentSelectorGrid.BasePlateDirection.PlateDirection_3.TooltipShortHelp="两者";
+AlignmentSelectorGrid.BasePlateDirection.PlateDirection_3.TooltipLongHelp="在 U,V 平面的两侧加厚。";
+
+AlignmentSelectorGrid.BasePlateDirection.PlateDirection_4.TooltipShortHelp="变化";
+AlignmentSelectorGrid.BasePlateDirection.PlateDirection_4.TooltipLongHelp="板方向各不相同。";
+
+//Alignment
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.VPlusBtn.TooltipShortHelp="V +";
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.VPlusBtn.TooltipLongHelp="在 V + 方向上对齐选定构件。";
+
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.VCenterBtn.TooltipShortHelp="V 中心";
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.VCenterBtn.TooltipLongHelp="在 V 中心方向上对齐选定构件。";
+
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.VMinusBtn.TooltipShortHelp="V -";
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.VMinusBtn.TooltipLongHelp="在 V - 方向上对齐选定构件。";
+
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.VAltBtn.TooltipShortHelp="变化";
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.VAltBtn.TooltipLongHelp="选定 V 对齐值不同。";
+
+//..
+AlignmentSelectorGrid.AlignmentBtnsDisplay.HorizontalAlignmentButtons.UPlusBtn.TooltipShortHelp="U +";
+AlignmentSelectorGrid.AlignmentBtnsDisplay.HorizontalAlignmentButtons.UPlusBtn.TooltipLongHelp="在 U + 方向上对齐选定构件。";
+
+AlignmentSelectorGrid.AlignmentBtnsDisplay.HorizontalAlignmentButtons.UCenterBtn.TooltipShortHelp="U 中心";
+AlignmentSelectorGrid.AlignmentBtnsDisplay.HorizontalAlignmentButtons.UCenterBtn.TooltipLongHelp="在 U 中心方向上对齐选定构件。";
+
+AlignmentSelectorGrid.AlignmentBtnsDisplay.HorizontalAlignmentButtons.UMinusBtn.TooltipShortHelp="U -";
+AlignmentSelectorGrid.AlignmentBtnsDisplay.HorizontalAlignmentButtons.UMinusBtn.TooltipLongHelp="在 U - 方向上对齐选定构件。";
+
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.UAltBtn.TooltipShortHelp="变化";
+AlignmentSelectorGrid.AlignmentBtnsDisplay.VerticalAlignmentButtons.UAltBtn.TooltipLongHelp="选定 U 对齐值不同。";
+

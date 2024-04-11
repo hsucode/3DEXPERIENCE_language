@@ -1,0 +1,137 @@
+<meta charset="UTF-8"/>
+//---------------------------------------------------------
+// CATRreAlignmentPointsPreferencesCtl.CATNls
+//---------------------------------------------------------
+
+MainGrid.PointTypeCusto.TableHorizontalPoints.Label="水平关键点";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.HLabelHeaderAcronym.Text="首字母缩略词";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.HLabelHeaderText1.Text="文本 1";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.HLabelHeaderText2.Text="文本 2";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.HLabelHeaderColor.Text="";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.HLabelHeaderSymbol.Text="";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.HLabelHeaderOutput.Text="输出";
+
+MainGrid.PointTypeCusto.TableVerticalPoints.Label="垂直关键点";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.VLabelHeaderAcronym.Text="首字母缩略词";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.VLabelHeaderText1.Text="文本 1";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.VLabelHeaderText2.Text="文本 2";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.VLabelHeaderColor.Text="";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.VLabelHeaderSymbol.Text="";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.VLabelHeaderOutput.Text="输出";
+
+MainGrid.PointTypeCusto.TableEventPoints.Label="事件点";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.ELabelHeaderAcronym.Text="首字母缩略词";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.ELabelHeaderText1.Text="文本 1";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.ELabelHeaderText2.Text="文本 2";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.ELabelHeaderColor.Text="";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.ELabelHeaderSymbol.Text="";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.ELabelHeaderOutput.Text="输出";
+
+MainGrid.PointTypeCusto.TableSurveyPoints.Label="调查点";
+MainGrid.PointTypeCusto.TableSurveyPoints.SurveyGrid.SLabelHeaderAcronym.Text="首字母缩略词";
+MainGrid.PointTypeCusto.TableSurveyPoints.SurveyGrid.SLabelHeaderText1.Text="文本 1";
+MainGrid.PointTypeCusto.TableSurveyPoints.SurveyGrid.SLabelHeaderText2.Text="文本 2";
+MainGrid.PointTypeCusto.TableSurveyPoints.SurveyGrid.SLabelHeaderColor.Text="";
+MainGrid.PointTypeCusto.TableSurveyPoints.SurveyGrid.SLabelHeaderSymbol.Text="";
+MainGrid.PointTypeCusto.TableSurveyPoints.SurveyGrid.SLabelHeaderOutput.Text="输出";
+
+MainGrid.PointTypeCusto.Label="点类型自定义";
+MainGrid.PointTypeCustoOptions.ResetCustomizationButton.TooltipShortHelp="从当前配置文件更新自定义配置";
+MainGrid.PointTypeCustoOptions.ResetCustomizationButton.TooltipLongHelp="根据设计规则 xml 文件中的当前配置文件更新自定义配置";
+MainGrid.PointTypeCustoOptions.ApplyCustomization.Text="将自定义应用到所有现有点";
+MainGrid.PointTypeCustoOptions.ApplyCustomizationButton.TooltipShortHelp="将自定义应用到活动线路中的所有现有点";
+MainGrid.PointTypeCustoOptions.ApplyCustomizationButton.TooltipLongHelp="将自定义应用到活动线路中的所有现有点，描述、符号和颜色将受到影响";
+
+LabelResetAll="从“/P1”配置文件更新自定义配置";
+LabelResetAll.UndoTitle="点类型自定义更新";
+ApplyToExisting.UndoTitle="现有点自定义";
+
+//---------------------------------------------------------
+// CATRreAlignmentHorizontalPointsPreferencesCtl.CATNls
+//---------------------------------------------------------
+MainGrid.PointTypeCusto.TableHorizontalPoints.Label="水平关键点";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.PointIntersection.LabelPointType="PI";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.TangentSpiral.LabelPointType="切线-螺旋";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.TangentCurve.LabelPointType="切线-圆形";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.SpiralCurveH.LabelPointType="螺旋-圆形";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.CircleMiddle.LabelPointType="圆形中间";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.SpiralSpiral.LabelPointType="螺旋-螺旋";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.CurveCurveH.LabelPointType="圆形-圆形";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.CurveSpiralH.LabelPointType="圆形-螺旋";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.CurveTangent.LabelPointType="圆形-切线";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.SpiralTangent.LabelPointType="螺旋-切线";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.CurveExtremum.LabelPointType="曲线末端";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.TangentTangent.LabelPointType="切线-切线";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.SpiralSpiral_CShape.LabelPointType="螺旋-螺旋（C 形）";
+MainGrid.PointTypeCusto.TableHorizontalPoints.HorizontalGrid.SpiralSpiral_SShape.LabelPointType="螺旋-螺旋（S 形）";
+
+//---------------------------------------------------------
+// CATRreAlignmentVerticalPointsPreferencesCtl.CATNls
+//---------------------------------------------------------
+
+MainGrid.PointTypeCusto.TableVerticalPoints.Label="垂直关键点";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.VPointIntersection.LabelPointType="VPI";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.GradientSpiral.LabelPointType="梯度-螺旋";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.SpiralGradient.LabelPointType="螺旋-梯度";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.SpiralCurveV.LabelPointType="螺旋-曲线";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.GradientCurve.LabelPointType="梯度-曲线";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.CurveExtremum.LabelPointType="曲线末端";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.CurveCurveV.LabelPointType="曲线-曲线";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.CurveGradient.LabelPointType="曲线-梯度";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.CurveSpiralV.LabelPointType="曲线-螺旋";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.GradientGradient.LabelPointType="梯度-梯度";
+MainGrid.PointTypeCusto.TableVerticalPoints.VerticalGrid.SpiralSpiralV.LabelPointType="螺旋-螺旋";
+
+
+//---------------------------------------------------------
+// CATRreEventPointsPreferencesCtl.CATNls
+//---------------------------------------------------------
+
+MainGrid.PointTypeCusto.TableEventPoints.Label="事件点";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.Start.LabelPointType="开始";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.End.LabelPointType="结束";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.StationEquation.LabelPointType="站方程式";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.Speed.LabelPointType="速度";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.Width.LabelPointType="宽度";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.Infrastructure.LabelPointType="基础结构";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.Other.LabelPointType="其他";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.Origin.LabelPointType="原点";
+MainGrid.PointTypeCusto.TableEventPoints.EventGrid.Equipment.LabelPointType="设备";
+
+//---------------------------------------------------------
+// CATRreSurveyPointsPreferencesCtl.CATNls
+//---------------------------------------------------------
+
+MainGrid.PointTypeCusto.TableSurveyPoints.Label="调查点";
+MainGrid.PointTypeCusto.TableSurveyPoints.SurveyGrid.Geolocated.LabelPointType="地理定位";
+MainGrid.PointTypeCusto.TableSurveyPoints.SurveyGrid.Stationed.LabelPointType="已布点";
+
+LabelStartIndex="起始索引";
+LabelStepIndex="步长索引";
+
+OutputWarning_Title="输出点删除错误";
+OutputWarning_Message="至少有一个输出不能被销毁，因为另一个特征指向它";
+OutputWarning_Information="移除现有链接，然后再次单击此按钮以应用更改";
+
+
+//---------------------------------------------------------
+// CATRreAlignmentPointsPreferencesCtl.CATNls - Strips
+//---------------------------------------------------------
+
+MainGrid.StripBarDisplay.Label="条形自定义";
+MainGrid.StripBarDisplay.AllStripGrid.HorizontalGeometriesDisplay.Label="显示水平几何图形";
+MainGrid.StripBarDisplay.AllStripGrid.HorizontalGeometriesDisplay.Tooltip="显示列出水平几何图形的条形";
+MainGrid.StripBarDisplay.AllStripGrid.VerticalGeometriesDisplay.Label="显示垂直几何图形";
+MainGrid.StripBarDisplay.AllStripGrid.VerticalGeometriesDisplay.Tooltip="显示列出垂直几何图形的条形";
+MainGrid.StripBarDisplay.AllStripGrid.PItoPIDisplay.Label="显示相交垂直点";
+MainGrid.StripBarDisplay.AllStripGrid.PItoPIDisplay.Tooltip="显示列出垂直相交点的条形";
+MainGrid.StripBarDisplay.AllStripGrid.RulerDisplay.Label="显示布点标尺";
+MainGrid.StripBarDisplay.AllStripGrid.RulerDisplay.Tooltip="显示列出布点的标尺";
+MainGrid.StripBarDisplay.AllStripGrid.EventPointsDisplay.Label="显示基础结构";
+MainGrid.StripBarDisplay.AllStripGrid.EventPointsDisplay.Tooltip="显示列出基础结构的条形";
+MainGrid.StripBarDisplay.AllStripGrid.HorizontalStripGrid.OneColorPerGeometry.Label="每个几何图形一种颜色";
+MainGrid.StripBarDisplay.AllStripGrid.HorizontalStripGrid.OneColorPerTurn.Label="每转一种颜色";
+
+MainGrid.HorizontalStripGrid.HorizontalStripLabel.Text="水平线路信息";
+MainGrid.HorizontalStripGrid.OneColorPerGeometry.Label="每个几何体一种颜色";
+MainGrid.HorizontalStripGrid.OneColorPerTurn.Label="每转一种颜色";

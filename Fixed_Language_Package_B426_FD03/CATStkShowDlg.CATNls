@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title="显示区域";
+pShowAllPushButton.Title="显示全部";
+pShowPushButton.Title="显示选定区域";
+// END WIZARD REPLACEMENT ZONE
+
+MessageWarningShowZone="尚未选择要显示的区域";
+DisplayMsgWarningShowZone="显示区域警告";
+
+
+
+
+
+

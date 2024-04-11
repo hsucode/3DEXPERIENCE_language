@@ -1,0 +1,34 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT DASSAULT SYSTEMES 2007
+//===========================================================================
+//
+// CATRshShaderFrame
+//
+//===========================================================================
+
+connect.Title="连接...";
+connect.Help="添加纹理";
+connect.ShortHelp="连接纹理";
+connect.LongHelp="将参数连接到从列表选择的着色器。";
+
+disconnect.Title="断开连接";
+disconnect.Help="移除纹理";
+disconnect.ShortHelp="断开参数连接";
+disconnect.LongHelp="从着色器断开参数连接。";
+
+edit.Title="编辑";
+edit.Help="编辑已连接的着色器";
+edit.ShortHelp="编辑已连接的着色器";
+edit.LongHelp="编辑连接到参数的着色器。";
+
+UnitTooltip.ShortHelp="使用以下单位表示的值 ";
+UnitmmTooltip.ShortHelp="以毫米表示的值";
+UnitmTooltip.ShortHelp="以米表示的值";
+UnitcmTooltip.ShortHelp="以厘米表示的值";
+UnitkmTooltip.ShortHelp="以千米表示的值";
+UnitdegTooltip.ShortHelp="以度表示的值";
+UnitKTooltip.ShortHelp="以开氏度表示的值";
+
+TooltipText1.Title="值";
+TooltipText2.Title="范围自";
+TooltipText3.Title="至";

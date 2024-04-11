@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+KeepLinkMsg.Title="激活保留链接";
+KeepLinkMsg1.Message="如果您使用对其他零件的参考来创建数据，则关联性将会丢失。";
+KeepLinkMsg2.Message="在“外部参考”部分中激活“保持与所选对象的链接”首选项";
+KeepLinkMsg3.Message="“我 + 首选项 + 基础结构 + 3D 形状基础结构 + 常规”选项卡页面。";
+KeepLinkMsg.Message="如果您使用对其他零件的参考创建数据，则关联性将会丢失。\n通过“工具”>“首选项”>“基础结构”>“3D 形状基础结构”>“常规”选项卡页面\n在“外部参考”部分激活“保持与所选对象的链接”首选项。";
+
+InvalidRouteMsg="已创建没有足够点的线路。\n是否要删除该线路以免发生构建错误？";
+Error.Title="删除线路";
+

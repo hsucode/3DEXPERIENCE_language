@@ -1,0 +1,25 @@
+<meta charset="UTF-8"/>
+//===================================================================
+// COPYRIGHT Dassault Systemes 7/2/2020 10:35:00 AM
+//===================================================================
+// CATDFDProcessProxyExplorerVidMainDlg.cpp
+// NLS file of class CATDFDProcessProxyExplorerVidMainDlg
+//===================================================================
+
+
+CATDFDProcessProxyExplorerVidMainDlg.AutomaticHideShow.Text="自动隐藏/显示";
+CATDFDProcessProxyExplorerVidMainDlg.AutomaticHideShow.ShortHelp="自动隐藏/显示。";
+CATDFDProcessProxyExplorerVidMainDlg.AutomaticHideShow.LongHelp="自动隐藏或显示选定工具。";
+
+CATDFDProcessProxyExplorerVidMainDlg.CenterTreeButton.Text="将树在选定项上居中";
+CATDFDProcessProxyExplorerVidMainDlg.CenterTreeButton.ShortHelp="将树在选定项上居中。";
+CATDFDProcessProxyExplorerVidMainDlg.CenterTreeButton.LongHelp="将 3D 规格树在选定对象上居中。";
+
+CATDFDProcessProxyExplorerVidMainDlg.DetailedGeometrySelector.DefaultText="影响工具详细几何图形";
+CATDFDProcessProxyExplorerVidMainDlg.DetailedGeometrySelector.Text="影响工具详细几何图形";
+CATDFDProcessProxyExplorerVidMainDlg.DetailedGeometrySelector.ShortHelp="影响用于定义完全细节化的工具几何图形的几何图形。";
+
+CATDFDProcessProxyExplorerVidMainDlg.PropagatedElementSelector.DefaultText="选择要拓展的几何图形";
+CATDFDProcessProxyExplorerVidMainDlg.PropagatedElementSelector.Text="选择要拓展的几何图形";
+CATDFDProcessProxyExplorerVidMainDlg.PropagatedElementSelector.ShortHelp="选择要拓展到后续操作的几何图形。";
+

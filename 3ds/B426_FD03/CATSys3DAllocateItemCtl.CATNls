@@ -1,0 +1,4 @@
+<meta charset="UTF-8"/>
+// Tooltips
+MainGrid.AddButton.Tooltip="添加";
+MainGrid.RemoveButton.Tooltip="移除";

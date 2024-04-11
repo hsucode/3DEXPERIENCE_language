@@ -1,0 +1,46 @@
+<meta charset="UTF-8"/>
+//
+//  COPYRIGHT DASSAULT SYSTEMES 2021
+//  NLS for CSEProperties error messages
+//
+
+PropertiesSetDelete="无法删除属性集。";
+PropertiesSetDelete.Request="删除属性集";
+PropertiesSetDelete.Diagnostic="无法删除属性集。";
+PropertiesSetDelete.Advice="";
+
+PropertiesSetCopy="无法复制属性集。";
+PropertiesSetCopy.Request="复制属性集";
+PropertiesSetCopy.Diagnostic="无法复制属性集。";
+PropertiesSetCopy.Advice="";
+
+PropertiesDeleteReferenced="无法删除此属性，因为它已被参考。",
+"您可以先将其替换。";
+PropertiesDeleteReferenced.Request="删除属性";
+PropertiesDeleteReferenced.Diagnostic="无法删除此属性，因为它已被参考。";
+PropertiesDeleteReferenced.Advice="您可以先将其替换。";
+
+PropertiesDeleteCreatedByVisualScripting="不能在 Visual Scripting 之外删除由 Visual Scripting 创建的属性。";
+PropertiesDeleteCreatedByVisualScripting.Request="删除属性";
+PropertiesDeleteCreatedByVisualScripting.Diagnostic="不能在 Visual Scripting 之外删除由 Visual Scripting 创建的属性。";
+PropertiesDeleteCreatedByVisualScripting.Advice="改为删除相应的 Visual Scripting 节点。";
+
+PropertiesDeleteDefault="无法删除默认属性。";
+PropertiesDeleteDefault.Request="删除属性";
+PropertiesDeleteDefault.Diagnostic="无法删除默认属性。";
+PropertiesDeleteDefault.Advice="";
+
+AppliedConnectionIsNotSupported="应用于焊线上的连接类型不受支持。请将连接类型更改为点紧固件。";
+AppliedConnectionIsNotSupported.Request="将连接应用到焊线";
+AppliedConnectionIsNotSupported.Diagnostic="应用于焊线上的连接类型不受支持。";
+AppliedConnectionIsNotSupported.Advice="请将连接类型更改为点紧固件。";
+
+WeldlineCopy="无法复制焊线。";
+WeldlineCopy.Request="复制焊线";
+WeldlineCopy.Diagnostic="无法复制焊线。";
+WeldlineCopy.Request="";
+
+CreatedByVisualScriptingCopy="无法复制由 Visual Scripting 创建的属性。";
+CreatedByVisualScriptingCopy.Request="复制由 Visual Scripting 创建的属性";
+CreatedByVisualScriptingCopy.Diagnostic="无法复制由 Visual Scripting 创建的属性。";
+CreatedByVisualScriptingCopy.Request="改为复制相应的 Visual Scripting 节点。";

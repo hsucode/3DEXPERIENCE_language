@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+Labels.Title="引入类参数";
+
+Labels.Introduce="引入以下项 ";
+Labels.AddSelectorCheckBox="为所有匹配的选项添加选择器";
+Labels.ClassParameterName.inputholder="输入有效名称";

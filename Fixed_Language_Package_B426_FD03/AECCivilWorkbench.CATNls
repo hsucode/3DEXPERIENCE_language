@@ -1,0 +1,30 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+// [AECCivilWorkbench] @Workbench BEB 17:09:07
+AECCivilWorkbench.Title="建筑和公共装配";
+AECCivilWorkbench.ShortHelp="建筑和公共装配";
+AECCivilWorkbench.Help="建筑和公共装配";
+AECCivilWorkbench.LongHelp="建筑和公共装配";
+
+//----------------------------------------------------------------------------
+// TOOLBAR/SECTION
+//---------------------------------------------------------------------------- 
+CivilWkbSection.Title="BIM";
+CivilWkbTb.Title="BIM";
+CivilWkbFixedSectionTb.Title="土木工程";
+CivilWkbTb.Title="BIM";
+CivilBITb.Title="B.I.";
+ImportOSMCont.Title="导入";
+CATCbaSection2.Title="部件";
+CATCbaTb.Title="部件";
+
+//----------------------------------------------------------------------------
+// COMMAND (not in Actionbar)
+//---------------------------------------------------------------------------- 
+// [ObjectType_DefineByLastVersion] @CmdHeaderInContextualMenu BEB 17:09:07
+AECCivilWorkbench.ObjectType_DefineByLastVersion.Title="按最新版本定义";
+AECCivilWorkbench.ObjectType_DefineByLastVersion.Help="按最新版本定义";
+AECCivilWorkbench.ObjectType_DefineByLastVersion.LongHelp="按最新版本定义";
+AECCivilWorkbench.ObjectType_DefineByLastVersion.ShortHelp="按最新版本定义";

@@ -1,0 +1,8 @@
+<meta charset="UTF-8"/>
+ToRoute="到传递线路";
+WireName="线名称";
+WireEnd1="线端点 1";
+WireEnd2="线端点 2";
+Displayed="已传递";
+
+ErrorUncheckAll="您无法取消勾选所有处于电缆内容模式的线";

@@ -1,0 +1,7 @@
+<meta charset="UTF-8"/>
+Title="SDNF 导入";
+PathSelectorGrid.LocationLabel.Text="位置";
+PathSelectorGrid.LocationButton.Tooltip="浏览";
+ButtonGrid.SDNFImportButton.Tooltip="导入 SDNF 数据";
+
+PathSelectorGrid.SDNFFileName.Text="文件名";

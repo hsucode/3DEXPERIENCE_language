@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+SWXUiAECDefaultCommand.fullSelection="选择";
+SWXUiAECDefaultCommand.fullSelection.Message="CATIA 建筑结构：选择";
+SWXUiAECDefaultCommand.UndoTitle="对象编辑";
+

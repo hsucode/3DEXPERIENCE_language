@@ -1,0 +1,27 @@
+<meta charset="UTF-8"/>
+//===================================================================
+// COPYRIGHT Dassault Systemes 4/18/2023 10:15:36 AM
+//===================================================================
+// CATRreAlignmentAxisCtl.cpp
+// NLS file of class CATRreAlignmentAxisCtl
+//===================================================================
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.3DAlignmentLabel.Text="3D 对齐";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.3DAlignment.TooltipLongHelp="选择 3D 对齐";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.StationLabel.Text="站";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.Station.TooltipLongHelp="定义站";
+
+Position.OptionLeft.Text="左侧";
+Position.OptionMiddle.Text="中间";
+Position.OptionRight.Text="右侧";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.PositionLabel.Text="位置";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.Position.TooltipLongHelp="定义位置";
+
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.OffsetLabel.Text="偏移";
+MainGrid.AlignmentAxisGrid.AlignmentAxisContentGrid.Offset.TooltipLongHelp="定义偏移";
+
+
+
+
+

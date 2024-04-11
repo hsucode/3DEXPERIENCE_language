@@ -1,0 +1,17 @@
+<meta charset="UTF-8"/>
+//---------------------------------------------------------
+// CATRreAlignmentHorizontalPointsPreferencesCtl.CATNls
+//---------------------------------------------------------
+
+StartLabel="开始";
+EndLabel="结束";
+PointIntersectionLabel="PI";
+TangentSpiralLabel="切线-螺旋";
+TangentCurveLabel="切线-圆形";
+SpiralCurveLabel="螺旋-曲线";
+CircleMiddleLabel="圆形中间";
+SpiralSpiralLabel="螺旋-螺旋";
+CurveCurveLabel="曲线-曲线";
+CurveSpiralLabel="圆形-螺旋";
+CurveTangentLabel="圆形-切线";
+SpiralTangentLabel="螺旋-切线";

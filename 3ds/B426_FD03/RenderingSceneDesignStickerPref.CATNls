@@ -1,0 +1,13 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT DASSAULT SYSTEMES 2017
+//===========================================================================
+//
+// RenderingSceneDesignStickerPref (English)
+//
+//===========================================================================
+
+RenderingSceneDesignSticker.Title="贴画";
+
+StickerViewGroup.Title="实时展示";
+StickerRealtimeViewMode.Title="激活实时展示";
+StickerRealtimeViewMode.ShortHelp="激活或取消激活贴画的实时展示。";

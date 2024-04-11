@@ -1,0 +1,58 @@
+<meta charset="UTF-8"/>
+//---------------------------------------------------------
+// SWXAECFeatureRenamingWidget.CATNls
+//---------------------------------------------------------
+
+Dialog.Title="结构参数";
+
+ApplyExisting="应用到现有特征";
+
+ExpanderLabel="现有特征";
+
+BRBtnLabel.Text="使用数据设置中的名称格式";
+
+FormatbtnLabel.Text="指定名称格式";
+
+MaterialLabel.Text="钢材料";
+
+RenameFeatureChkBoxLabel.Text="重命名特征";
+
+RenamePubChkBoxLabel.Text="重命名发布";
+
+MaterialChkBoxLabel.Text="应用材料";
+
+ExistingFeature.Text="现有特征";
+
+FeatureTypeLabel.Text="特征类型";
+
+NameFormatLabel.Text="名称格式";
+
+PreviewLabel.Text="预览";
+
+PreviewLabel.Error="指定格式存在错误";
+
+NameFormatLabel.Tooltip.LongHelp="自定义名称：\n%n：默认名称，\n%t：类型，\n%1t：类型，第一个字符 1 可以替换为任何整数，\n任何文字文本，例如 %n_CAFG 中的 _CAFG 是文字，\n%x：钢和预制柱、横梁、撑杆和阵列的截面大小，\n空字符串被视为 %n";
+NameFormatLabel.Tooltip.ShortHelp="指定自定义名称的格式";
+
+EditButton.TooltipShortHelp="指定特征扩展的第一个数字和步长";
+
+EditButton.LongTooltip="指定特征扩展的第一个数字和步长";
+
+materialButton.ShortTooltip="应用材料";
+
+materialButton.LongTooltip="指定更改 LOD 期间要使用的材料";
+
+FirstNumberSpinBOx.TooltipShortHelp="指定第一个数字。默认值从 1 开始";
+
+FirstNumberSpinBOx.TooltipLongHelp="指定特征扩展上的第一个数字";
+
+StepSpinBOx.TooltipShortHelp="指定每个后续特征扩展的步长";
+
+StepSpinBOx.TooltipLongHelp="指定每个后续特征扩展的步长";
+
+
+
+
+
+
+

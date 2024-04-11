@@ -1,0 +1,21 @@
+<meta charset="UTF-8"/>
+ReferenceAlignment.Text="参考线路";
+Relationship.Text="关系";
+StartStation.Text="开始站";
+EndStation.Text="结束站";
+Side.Text="侧面";
+HorizontalOffset.Text="水平偏移";
+KeepReferenceRadiusText.Text="保留参考半径";
+AdditionalOutputs.Text="附加输出";
+
+ReferenceAlignmentVidSelector.TooltipShortHelp="用于创建平行线路的参考线路。";
+RelationshipCtl.TooltipShortHelp="参考线路和平行线路之间的关系。创建平行线路后无法修改它。";
+StartPointVidSelector.TooltipShortHelp="用于生成平行线路的起点。只能选择沿参考线路的点。应具有比所选终点低的曲线距离。";
+EndPointVidSelector.TooltipShortHelp="用于生成平行线路的终点。只能选择沿参考线路的点。应具有比所选起点高的曲线距离。";
+SideSimpleCombo.TooltipShortHelp="选择应在哪一侧生成平行线路。";
+KeepReferenceRadiusCheckbox.TooltipShortHelp="尝试将参考线路半径应用到平行线路。如果禁用，平行弧将具有与参考不同的半径。";
+OffsetCtl.TooltipShortHelp="用于生成平行线路的等距。左右平行线路使用相同的距离。";
+
+VerticalAlignmentButton.Tooltip="设置为选中可复制参考垂直线路并将其与平行轮廓关联。如果参考线路不包含垂直线路，则禁用。";
+3DAlignmentButton.Tooltip="设置为选中可生成具有创建的水平和垂直平行线路的 3D 线路。如果参考线路不包含垂直线路，则禁用。";
+SweepButton.Tooltip="设置为选中可生成所生成 3D 线路的默认曲面。如果参考线路不包含垂直线路，则为禁用。";

@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+PackageName="AECConcreteStructuresFunctions";
+
+CATKnowledge.Get3DTagText.Description="<p>检索钢筋图层的 3D 标记文本。<span style=\"font-size:12px;\"></span><//p><p><span style=\"font-weight:bold;font-size:12px;\">输入：</span><//p><p>AECRebarLayer<//p><p><span style=\"font-weight:bold;font-size:12px;\">返回值：</span><//p><p>- 3D 标记文本。<//p>";
+CATKnowledge.Get3DTagText.Sample="Let myLayer(AECRebarLayer)\nLet myText(string)\n\nmyText = myLayer.Get3DTagText()\n";

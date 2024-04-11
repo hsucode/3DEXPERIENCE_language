@@ -1,0 +1,19 @@
+<meta charset="UTF-8"/>
+Title="选择颜色方案";
+SplitStyle="分割： ";
+NormalFourParts="正常 4 零件";
+Quartile="四分位数";
+NormalTenParts="正常 10 零件";
+Decile="十分位数";
+LabelLowerColor="下限值：";
+LabelHigherColor="上限值：";
+LabelAverageColor="中点值：";
+ColorPickerLower="选择较低值的颜色";
+LabelQuartileSplit="四分分割";
+LabelNormalSplit="正常分割";
+LabelMinVal="下限值：";
+LabelMaxVal="上限值：";
+ColorPickerDlg.Title="颜色选择器";
+LabelLeafObjectOnlyCB="仅适用于叶节点";
+LabelScale="比例：";
+

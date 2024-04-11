@@ -1,0 +1,25 @@
+<meta charset="UTF-8"/>
+HeaderType="类型";
+HeaderName="规则";
+HeaderMessage="消息";
+
+RailwayRadiusRule="铁路半径规则";
+RailwayLengthRule="铁路长度规则";
+RailwayGradientRule="铁路梯度规则";
+RailwayCantRule="铁路超高规则";
+RailwayAttainmentMethodsRule="铁路实现方法规则";
+RailwaySubgradeSurfaceWidthRule="铁路路基表面宽度规则";
+RailwaySubgradeSurfaceCurveWideningRule="铁路路基表面曲线加宽规则";
+RoadRadiusRule="道路半径规则";
+RoadLengthRule="道路长度规则";
+RoadGradientRule="道路梯度规则";
+RoadSuperelevationRule="道路超高规则";
+RoadAttainmentMethodsRule="道路实现方法规则";
+DrainageRadiusRule="流域半径规则";
+DrainageLengthRule="流域长度规则";
+DrainageGradientRule="流域梯度规则";
+DrainageBendRule="流域折弯规则";
+RoadCurveWideningRule="道路曲线加宽规则";
+
+NoRule="<无规则>";
+Current="当前： ";

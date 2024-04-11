@@ -1,0 +1,22 @@
+<meta charset="UTF-8"/>
+DuctRadius="管道半径";
+OblongLength="椭圆形长度";
+CornerRadius="圆角半径";
+DuctShape="管道形状";
+
+YSpacing="Y 间距";
+ZSpacing="Z 间距";
+YDistNumber="Y 分配编号";
+ZDistNumber="Z 分配编号";
+XOffset="X 偏移";
+YOffset="Y 偏移";
+ZOffset="Z 偏移";
+StartOffset="开始偏移";
+EndOffset="结束偏移";
+ReverseYExtremum="反向 Y 极值";
+ReverseZExtremum="反向 Z 极值";
+SymetricYExtremum="对称 Y 极值";
+SymetricZExtremum="对称 Z 极值";
+ProjOnSurface="投影在曲面上";
+ExtremumMode="极值模式";
+GridName="网格名称";

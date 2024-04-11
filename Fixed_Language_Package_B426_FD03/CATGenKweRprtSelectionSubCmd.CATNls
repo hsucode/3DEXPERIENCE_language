@@ -1,0 +1,23 @@
+<meta charset="UTF-8"/>
+//=============================================================================
+//                                     CNEXT - CXR419
+//                          COPYRIGHT DASSAULT SYSTEMES 2016
+//-----------------------------------------------------------------------------
+// FILENAME    :    CATGenKweRprtSelectionSubCmd
+// LOCATION    :    DraftingGenUI/CNext/resources/msgcatalog/
+// AUTHOR      :    
+// DATE        :    
+//------------------------------------------------------------------------------
+// DESCRIPTION :    Resources File for NLS purpose related to Report Selection
+//                  
+//------------------------------------------------------------------------------
+// COMMENTS    :	 ENGLISH VERSION
+//------------------------------------------------------------------------------
+//MODIFICATIONS     user  date                purpose
+//   HISTORY        ----  ----                -------
+//  01              APR3  19/04/2016          Revision           
+//------------------------------------------------------------------------------
+
+
+CATGenKweRprtSelectionSubCmd.FirstState.Message="选择要用作为报告源的实例";
+CATGenKweRprtSelectionSubCmd.UndoTitle="知识报告表";

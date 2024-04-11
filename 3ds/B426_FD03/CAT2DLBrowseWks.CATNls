@@ -1,0 +1,24 @@
+<meta charset="UTF-8"/>
+
+CAT2DLBrowserMnu.Title="浏览";
+
+// Contextual Menus
+DrwPositionalLink.Title="位置链接";
+DrwOrientationLink.Title="方向链接";
+DrwViewPositioning.Title="视图定位";
+DrwDimInterruptSubMenu.Title="中断";
+CATDrwViewPositioningTlb.Title="视图定位";
+CATDrwDimensionRepresentation.Title="尺寸展示";
+CATDrwMeasureMode.Title="测量模式";
+CATDrwRepresentationMode.Title="展示模式";
+CATDrwAngleSector.Title="角扇形";
+
+CAT2DLVisualizationCtxMnuTlb.Title="3D 可视化";
+CAT2DLBackgroundTlb.Title="背景";
+CAT2DLFilterTlb.Title="过滤器";
+CAT2DLClippingTlb.Title="裁剪";
+CAT2DLRenderingTlb.Title="渲染样式";
+CATDrwPrintAreaSnu.Title="打印区域";
+CATDbuDisplayAreaSnu.Title="显示区域";
+CATDrwViewTextAlignSnu.Title="对齐方式";
+CATDrwAreaFillOperationTlb.Title="操作";

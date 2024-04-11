@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+//Margin
+epExpanderAlignmentLine.Label="对齐线";
+
+epExpanderAlignmentLine.lvimLengthHeader.Label="长度";
+//epExpanderAlignmentLine.lvimLengthHeader.TooltipShortHelp = "Length";
+epExpanderAlignmentLine.lvimOffsetHeader.Label="偏移";
+//epExpanderAlignmentLine.lvimOffsetHeader.TooltipShortHelp = "Offset";
+epExpanderAlignmentLine.lvimTextHeader.Label="文本";
+//epExpanderAlignmentLine.lvimTextHeader.TooltipShortHelp = "Text";

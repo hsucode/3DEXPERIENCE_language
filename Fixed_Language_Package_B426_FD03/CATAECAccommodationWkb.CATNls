@@ -1,0 +1,27 @@
+<meta charset="UTF-8"/>
+//
+// WorkBench
+//
+// [CATAECAccommodationWkb] @Workbench HS7 17:09:01
+// Note when " (Beta)" is dropped make sure you update CATLiveArchiSearch.CATNls
+CATAECAccommodationWkb.Title="居装设计";
+CATAECAccommodationWkb.Help="居装设计";
+CATAECAccommodationWkb.ShortHelp="居装设计";
+CATAECAccommodationWkb.LongHelp="居装设计";
+
+
+//-------------------------------------------------------------
+//AGT2 Title for toolbars.
+//-------------------------------------------------------------
+
+Authoring.Title="创作";
+AuthoringTlBar.Title="创作";
+
+Operation.Title="操作";
+OperationTlBar.Title="操作";
+
+AGTTools.Title="可视化";
+AGTViewTlbar.Title="可视化";
+
+AGTGeomOprations.Title="几何图形操作";
+AGTGeomOprationsTlbar.Title="几何图形操作";

@@ -1,0 +1,132 @@
+<meta charset="UTF-8"/>
+// -------------------------- Dsi errors -------------------------------------------------------
+ComponentDefinitionKO.Request="未正确定义模板";
+ComponentDefinitionKO.Diagnostic="未正确定义模板";
+ComponentDefinitionKO.Advice="未正确定义模板";
+
+MsgInputRolesKO.Request="模板内的输入角色出现问题";
+MsgInputRolesKO.Diagnostic="未找到“/P1”";
+MsgInputRolesKO.Advice="将具有“/P1”的轴系定义为输入角色";
+
+MsgInputAxisKO.Request="模板内的输入角色出现问题";
+MsgInputAxisKO.Diagnostic="“/P1”不是轴系";
+MsgInputAxisKO.Advice="将具有“/P1”的轴系定义为输入角色";
+
+MsgInputRolesUnexpected.Request="模板内存在非预期的输入角色“/P1”";
+MsgInputRolesUnexpected.Diagnostic="未识别“/P1”";
+MsgInputRolesUnexpected.Advice="允许的输入角色包括：/P1";
+
+MsgOutputRolesKO.Request="模板输出角色“/P1”出现问题";
+MsgOutputRolesKO.Diagnostic="输出不是线";
+MsgOutputRolesKO.Advice="请将线设置为模板输出";
+
+MsgInstMethodKO.Request="实例化方法不是 DISTRIBUTE";
+MsgInstMethodKO.Diagnostic="实例化方法不是 DISTRIBUTE";
+MsgInstMethodKO.Advice="实例化方法不是 DISTRIBUTE";
+
+MsgRedondantInputRoles.Request="模板内的两个输入角色出现问题";
+MsgRedondantInputRoles.Diagnostic="无法一起定义“/P1”和“/P2”";
+MsgRedondantInputRoles.Advice="选择两个角色之一作为输入角色";
+
+MsgMissingOT.Request="缺失对象类型";
+MsgMissingOT.Diagnostic="未找到“/P1”";
+MsgMissingOT.Advice="选择新对象类型";
+
+ConfigurationTableKO.Request="配置表未恰当定义标识“/P1”";
+ConfigurationTableKO.Diagnostic="读取属性“/P1”时出错，未预期单元内容“/P2”";
+ConfigurationTableKO.Advice="更改单元内容";
+
+// -------------------------- Bom Report -------------------------------------------------------
+BomReport_Name="钢筋报告";
+BomReport_Feature="特征";
+BomReport_ShortFeature="特征简称";
+BomReport_FeatureContext="特征上下文";
+BomReport_FeatureOccurence="PLM 匹配项";
+BomReport_FeatureReference="PLM 参考";
+BomReport_FeatureInstance="PLM 实例";
+BomReport_NbPointingContexts="指向钢筋上下文的数量";
+BomReport_FeatureRepOccurence="PLM 展示匹配项";
+BomReport_FeatureMode="模式";
+BomReport_MinLength="最小长度";
+BomReport_MaxLength="最大长度";
+BomReport_MeanLength="平均长度";
+BomReport_Container="容器";
+BomReport_VolumicWeight="包络体粗细";
+BomReport_LineicWeight="线宽";
+BomReport_Shape="形状";
+BomReport_ObjectType="对象类型";
+BomReport_Configuration="配置";
+BomReport_Revision="修订版";
+BomReport_Documentation="文档";
+BomReport_SteelGrade="钢级";
+BomReport_Occurences="匹配项";
+BomReport_BendingShapeCode="弯曲形状代码";
+BomReport_UnitaryLength="单位长度";
+BomReport_OccurenceLengths="长度";
+BomReport_BarMark="条形标记";
+
+BomReport_Context="上下文";
+BomReport_Contexts="上下文";
+BomReport_ContextSolids="实体";
+BomReport_ContextName="加固上下文";
+BomReport_ContextSolid="混凝土";
+BomReport_ContextLayers="图层";
+BomReport_ContextActivity="活动";
+BomReport_ContextLayer="图层";
+BomReport_ContextConcreteVolume="混凝土体积";
+BomReport_ContextLayerWeight="图层粗细";
+BomReport_ContextCoG="重心";
+
+BomReport_Bends="折弯";
+BomReport_BendRadius="折弯半径";
+BomReport_BendDiameter="折弯直径";
+BomReport_BendAngle="折弯角度";
+
+BomReport_Hooks="挂钩";
+BomReport_HookRadius="钩半径";
+BomReport_HookDiameter="钩直径";
+BomReport_HookLength="钩长度";
+BomReport_HookAngle="钩角度";
+BomReport_HookStart="开始";
+BomReport_HookEnd="结束";
+
+BomReport_Template="模板";
+BomReport_Wire="线";
+BomReport_Strap="带";
+BomReport_Mesh="网格";
+
+BomReport_Groups="组";
+BomReport_GroupNumber="间距编号";
+BomReport_GroupUserSpacing="用户间距";
+BomReport_GroupRealSpacing="实际间距";
+
+BomReport_RecapParameters_Title="图层摘要";
+BomReport_RecapParameters_Diameter="直径";
+BomReport_RecapParameters_MeanDiameter_Short="平均直径";
+BomReport_RecapParameters_MeanDiameter="平均直径： ";
+BomReport_RecapParameters_LineicWeight="重量";
+BomReport_RecapParameters_Weight="重量";
+BomReport_RecapParameters_TotalWeight_Short="总计";
+BomReport_RecapParameters_TotalWeight="总重量： ";
+BomReport_RecapParameters_Length="长度";
+BomReport_RecapParameters_TotalLength="总长度： ";
+
+BomReport_StartCouplerConfiguration="开始配件配置";
+BomReport_StartCouplerRevision="开始配件修订";
+BomReport_StartCouplerName="开始配件";
+BomReport_StartCouplerPhase="开始配件阶段";
+BomReport_StartCouplerRef="开始配件参考";
+
+BomReport_EndCouplerConfiguration="结束配件配置";
+BomReport_EndCouplerRevision="结束配件修订";
+BomReport_EndCouplerName="结束配件";
+BomReport_EndCouplerPhase="结束配件阶段";
+BomReport_EndCouplerRef="结束配件参考";
+
+BomReport_RecapCoupler_Title="配件摘要";
+BomReport_TopRowRecapCoupler="配件对象类型";
+
+
+
+
+

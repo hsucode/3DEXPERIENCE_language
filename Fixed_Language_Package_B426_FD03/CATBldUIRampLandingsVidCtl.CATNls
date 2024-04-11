@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+// Indicators
+UnequalLandings="不相等的楼梯平台 ";
+LandingDepthLabel="深度 ";
+LandingDepthTooltip="指定落地深度。";
+StLandingDepthLabel="开始楼梯平台深度 ";
+StLandingDepthTooltip="指定开始楼梯平台的深度。";
+
+CATMainPanelGrid.LandingsOptionGrid.UnequalLandings.Label="不相等的楼梯平台 ";
+CATMainPanelGrid.LandingsOptionGrid.StLandingDepthLabel.Text="开始楼梯平台深度 ";
+CATMainPanelGrid.LandingsOptionGrid.EndLandingDepthLabel.Text="结束楼梯平台深度 ";
+
+CATMainPanelGrid.LandingsOptionGrid.UnequalLandings.TooltipShortHelp="选择可指定每个楼梯平台的独立深度。";
+CATMainPanelGrid.LandingsOptionGrid.StLandingDepthCtl.TooltipShortHelp="指定开始楼梯平台的深度。";
+CATMainPanelGrid.LandingsOptionGrid.EndLandingDepthCtl.TooltipShortHelp="指定结束楼梯平台的深度。";

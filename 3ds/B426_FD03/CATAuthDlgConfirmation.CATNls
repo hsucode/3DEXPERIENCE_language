@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+//CATAuthDlgConfirmation
+
+ConfirmButton.Label="确认";
+CancelButton.Label="取消";
+
+Index="#";
+Description="描述";
+
+//Message				= "/p1 operation is not allowed on these objects:\n";
+//Continue			= "Please confirm to continue.";
+
+// States messages
+CATAuthDlgAnalyser.stateAnalyserDialog.Message="分析对象";

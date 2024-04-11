@@ -1,0 +1,42 @@
+<meta charset="UTF-8"/>
+Error.Text1000="禁止为此智能机械部件定义钩。";
+Error.Text1001="选定产品不可编辑。您不能将其转变为智能机械部件。";
+Error.Text1002="选定产品已共享。您不能将其转变为智能机械部件。";
+Error.Text1003="选定产品已锁定。您不能将其转变为智能机械部件。";
+Error.Text1004="在一个装配的展示中至少要有一个右手坐标系。。
+将自动创建一个右手坐标系。";
+Error.Text1005="轴系必须为正交直接。";
+Error.Text1006="轴系不得为显式类型。";
+Error.Text1007="选定产品必须是参考。您不能将其转变为智能机械部件。";
+Error.Text1010="选定参考是框架。您不能编辑它。"; //  @validatedUsage    LCH    2013/11/05     edit
+Error.Text1011="选定参考是移动单元。您不能编辑它。"; //  @validatedUsage    LCH    2013/11/05     edit
+Error.Text1012="选定的参考是加工工具。您不能编辑它。"; //  @validatedUsage    LCH    2013/11/05     edit
+Error.Text1014="选定的参考是加工单元。您不能编辑它。"; //  @validatedUsage    LCH    2013/11/05     edit
+Error.Text1015="选定的参考是加工流。您不能编辑它。"; //  @validatedUsage    LCH    2013/11/05     edit
+Error.Text1016="选定的参考是加工零件。您不能编辑它。"; //  @validatedUsage    LCH    2013/11/05     edit
+Error.Text1017="您不能编辑智能机械部件类型。"; //  @validatedUsage    LCH    2013/11/05     edit
+Error.Text1018="您不能编辑智能机械部件子类型。"; //  @validatedUsage    LCH    2013/11/05     edit
+Error.Text1019="子类型与智能机械部件类型不兼容。";
+Error.Text1020="未设置任何产品参考。";
+Error.Text1021="未设置任何类型。";
+Error.Text1022="未设置任何子类型。";
+Error.Text1023="未设置任何钩。";
+Error.Text1024="定义部件不支持选定产品参考。";
+Error.Text1025="选定产品参考无效。请检查产品对象类型";
+Error.Text1026="根的对象类型必须为产品、3D 零件或智能机械部件。";
+Error.Text1027="结构化部件不能分类。";
+Error.Text1028="不支持当前对象类型。
+选择无指定类型的产品或加工部件。";
+Error.Text1029="自动创建轴系特征以定义钩。";
+Error.Text1030="创建结构性部件时建议创建一个骨架。
+是否在选定的产品参考中创建缺少的骨架？";
+Error.Text1031="建议使用 3D 形状以创建结构性部件。
+是否在选定产品参考中创建缺少的 3D 形状？";
+Error.Text1040="模型已损坏或存在内部错误。";
+
+Error.Title="定义部件";
+Warning.Title="定义部件";
+
+Hook="钩";
+Base="基本";
+

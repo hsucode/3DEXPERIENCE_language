@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+ToolboxRootLabel="开口";
+AEC_Concept_Doors="概念门";
+AEC_Concept_Windows="概念窗";
+AEC_Concept_Openings="概念开口";
+AEC_Concept_Door="概念门";
+AEC_Concept_Opening="概念开口";
+AEC_Concept_Window="概念窗";
+AEC_Concept_Circular_Opening="概念圆形开口";
+AEC_Concept_Circular_Window="概念圆形窗";

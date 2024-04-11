@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+
+CATFmtRulesDBExportCmd.FmtRulesDBExportDlg.Title="保存网格化规则";
+
+CATFmtRulesDBExportCmd.FmtRulesDBExportDlg.BOK="保存";
+
+CATFmtRulesDBExportCmd.StatePLMNewCmd.Message="指定新网格化规则。";
+CATFmtRulesDBExportCmd.UndoTitle="将规则导出到数据库";
+
+CATFmtRulesDBExportCmd.FmtRulesDBExportDlg.meshingRulesNameLbl.Title="网格化规则名称";
+CATFmtRulesDBExportCmd.FmtRulesDBExportDlg.meshingRulesNameLbl.LongHelp="指定网格化规则文档的名称。";
+
+//CATFmtDmtDocumentCreationCmd.FmtConfirmModificationDlg.BCancel = "No";
+//CATFmtDmtDocumentCreationCmd.FmtConfirmModificationDlg.BOK = "Yes";
+
+CATFmtDmtDocumentCreationCmd.StateConfirmModify.Message="是否确定要替换现有网格化规则？";
+CATFmtDmtDocumentCreationCmd_Confirmation.Request="名称已被使用。";
+CATFmtDmtDocumentCreationCmd_Confirmation.Diagnostic="是否确定要替换现有网格化规则？";

@@ -1,0 +1,63 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT Dassault Systemes 2021
+//===========================================================================
+// CATLiveArchiAECEngineeringNLS.CATNls - Alais names features in CATLiveArchiAECEngineering.feat
+// Note that it is Important that all the parameter names on a feature be unique
+//
+// Note only final feature needs alias on the feature
+//===========================================================================
+
+// -----------------------------------------------------------------------
+// shared
+// -----------------------------------------------------------------------
+
+
+// -----------------------------------------------------------------------
+// Since old LiveArchFoot.. were replace only doing pile arragement and pile feature
+
+// ----- LiveArchiPileArrangement
+LiveArchiAxisRotationSO="旋转";
+LiveArchiGridOffsetXDimSO="U 偏移";
+LiveArchiGridOffsetYDimSO="V 偏移";
+LiveArchiGridOffsetZDimSO="垂直偏移";
+LiveArchiCapThicknessSO="帽深度";
+LiveArchiMinDist="桩间距";
+LiveArchiEdgeDist="桩中心到顶盖边线";
+LiveArchiPileConfigurationName="配置";
+
+
+// ----- LiveArchiPileFeature
+LiveArchiPileShape="形状";
+// LiveArchiPileDimension - holds dia, side length but list so not in fx so no name
+LiveArchiPileLength="桩长度";
+LiveArchiPilelnPileCap="顶盖中嵌入桩";
+LiveArchiPileRakingAngle1="斜角 1";
+LiveArchiPileRakingAngle2="斜角 2";
+PileDiameter="桩直径";
+PileWidth="桩宽度";
+
+// ----- LiveArchiBarJoist
+LiveArchiJoistSeatDepthFore="端部 1 座椅深度";
+LiveArchiJoistSeatDepthAft="端部 2 座椅深度";
+LiveArchiJoistBearingLocationFore="端部 1 座椅位置";
+LiveArchiJoistBearingLocationAft="端部 2 座椅位置";
+LiveArchiJoistTopChordExtensionFore="端部 1 顶部延伸";
+LiveArchiJoistTopChordExtensionAft="端部 2 顶部延伸";
+LiveArchiJoistBottomChordExtensionFore="端部 1 底部延伸";
+LiveArchiJoistBottomChordExtensionAft="端部 2 底部延伸";
+//LiveArchiAxisRotationSO above
+LiveArchiHeaderDistance="长度 1";
+LiveArchiHeaderAngle="角度";
+LiveArchiEndingDistance="长度 2";
+LiveArchiVerticalOffsetSO="垂直偏移";
+JoistSizeForFx="搁架大小";
+// -- next 4 are read only parms
+MaxLoadPerLength="每个长度的最大负载";
+JoistDepth="搁架深度";
+InteriorPanelLength="内部面板长度";
+BearingLength="轴承长度";
+
+// ----- LiveArchiSecondaryBarJoist
+//LiveArchiVerticalOffsetSO and JoistSizeForFx from above
+LateralOffsetXDim="U 偏移";
+LateralOffsetYDim="V 偏移";

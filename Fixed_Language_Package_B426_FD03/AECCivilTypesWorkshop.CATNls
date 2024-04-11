@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+// [AECCivilTypesWorkshop] @Workshop BEB 17:09:07
+AECCivilTypesWorkshop.Title="建筑和土木类型";
+AECCivilTypesWorkshop.ShortHelp="建筑和土木类型";
+AECCivilTypesWorkshop.Help="建筑和土木类型";
+AECCivilTypesWorkshop.LongHelp="建筑和土木类型";
+
+//----------------------------------------------------------------------------
+// TOOLBAR/SECTION
+//----------------------------------------------------------------------------
+CivilWksSection.Title="建筑和土木类型";
+CivilWksTb.Title="建筑和土木类型";
+

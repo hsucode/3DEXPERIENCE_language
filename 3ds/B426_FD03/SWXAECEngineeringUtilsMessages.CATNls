@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+ConfirmationMessage="是否要覆盖现有零部件？";
+FinalMessage="没有要导入的新数据";
+Varies="变化";
+BlankMessage="  ";

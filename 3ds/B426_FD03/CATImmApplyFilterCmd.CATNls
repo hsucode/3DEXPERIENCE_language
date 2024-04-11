@@ -1,0 +1,19 @@
+<meta charset="UTF-8"/>
+CATImmApplyFilterCmd.UndoTitle="应用过滤器";
+
+CATImmApplyFilterCmd.InitialState.Message="“将过滤器应用到”命令启动";
+CATImmApplyFilterCmd.RetrieveSelectionState.Message="过滤器选择";
+CATImmApplyFilterCmd.RetrieveDisplayedStructureState.Message="结构选择";
+CATImmApplyFilterCmd.ChooserDialogState.Message="选择一个结构";
+
+NoFilterSelection="选择为空。\n请选择一个要应用的过滤器。";
+NoFilterSelection.Title="应用";
+InvalidSelection="选择无效。\n请只选择一个要应用的过滤器。";
+InvalidSelection.Title="应用";
+MinorOverloadInUWP="此窗口中不支持次要过载。";
+ApplyFilterCanceled="应用过滤器已取消";
+
+Warning="警告";
+
+SelectedFilterCanNotApplied="选定过滤器不能应用于此环境中";
+ApplyFilterCmdTitle="应用过滤器";

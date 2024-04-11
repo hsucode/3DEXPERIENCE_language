@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+CATDfcAddLeaderCmd.AddEnhancedLeaderViewPlane.Title="添加引出线";
+CATDfcAddLeaderCmd.AddEnhancedLeaderViewPlane.Message="在不更改标注平面的情况下无法将引出线添加到选定特征。\n是否通过更改标注平面来添加引出线？";
+CATDfcAddLeaderCmd.AddEnhancedLeaderNoPlane.Title="添加引出线";
+CATDfcAddLeaderCmd.AddEnhancedLeaderNoPlane.Message="无法通过保留全部现有指向相同几何元素的引出线将引出线添加到选定特征。\n请在向选定特征添加一个新的引出线之前，移除第一个现有引出线。\n";
+
+CATDfcAddLeaderCmd.SwitchModeAgentRessource.Mode2D="2D";
+CATDfcAddLeaderCmd.SwitchModeAgentRessource.Mode3D="3D";
+CATDfcAddLeaderCmd.SwitchModeAgentRessource.Mode2D3D="2D/3D";

@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+CATBCDIfcForDesignConverter_SampleError.SickFeatures="设计转换器 IFC";
+CATBCDIfcForDesignConverter_SampleError.Request="在此处描述问题。";
+CATBCDIfcForDesignConverter_SampleError.Diagnostic="在此处描述问题的原因。";
+CATBCDIfcForDesignConverter_SampleError.Advice="在此处描述解决问题的一些建议。";
+
