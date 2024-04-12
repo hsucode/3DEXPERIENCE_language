@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+Show.TooltipShortHelp="隐藏或显示。";
+Show.TooltipLongHelp="隐藏或显示。这与隐藏/显示命令类似。";
+
+Filter.TooltipShortHelp="暂时隐藏或显示。";
+Filter.TooltipLongHelp="暂时隐藏或显示。如果特征已隐藏，则此操作无影响。";
+
+Intensity.TooltipShortHelp="更改光源模式。";
+Intensity.TooltipLongHelp="更改光源模式。取消选中时，特征处于低光模式。";
+
+Pickable.TooltipShortHelp="更改可选属性。";
+//Pickable.TooltipLongHelp="Change pickable property. This is similar to the Hide/Show command.";
+
+Material.TooltipShortHelp="激活所选特征上的材料视图模式。";
+//Material.TooltipLongHelp="Activate the material view mode on the selected features.";

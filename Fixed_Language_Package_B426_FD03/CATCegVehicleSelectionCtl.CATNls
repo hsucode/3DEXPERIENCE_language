@@ -1,0 +1,4 @@
+<meta charset="UTF-8"/>
+MainTitle="车辆选择";
+MainGrid.ListParameter.TextHeaderName="符号";
+MainGrid.ListParameter.TextHeaderValue="类型";

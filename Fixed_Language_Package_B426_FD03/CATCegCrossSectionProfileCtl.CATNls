@@ -1,0 +1,19 @@
+<meta charset="UTF-8"/>
+Side1Profile.Create.Label="创建侧边 1 轮廓";
+Side1Profile.Edit.Label="编辑侧边 1 轮廓";
+
+Side2Profile.Create.Label="创建侧边 2 轮廓";
+Side2Profile.Edit.Label="编辑侧边 2 轮廓";
+Side2Profile.Create.Single.Label="指定塑料注入模具的速率。";
+Side2Profile.Edit.Single.Label="定义新的填充速率轮廓。";
+
+Side1Profile.InfoMsg="创建或编辑侧边 1 轮廓。单击 Esc 键或双击以结束创建或编辑轮廓。";
+Side2Profile.InfoMsg="创建或编辑侧边 2 轮廓。单击 Esc 键或双击以结束创建或编辑轮廓。";
+Side2Profile.Single.InfoMsg="单击 Esc 键或双击以结束创建或编辑轮廓。";
+
+MoreThan1Profile.Cut.InfoMsg="已创建一个挖掘轮廓。您不能创建多个挖掘轮廓。";
+MoreThan1Profile.Fill.InfoMsg="已创建一个填充轮廓。您不能创建多个填充轮廓。";
+NoSameSideTypeProfile.OnSide.InfoMsg="已创建平台轮廓。您不能创建道路轮廓（挖掘或填充）。";
+NoSameSideTypeProfile.TwoSide.InfoMsg="已创建道路轮廓。您不能创建平台轮廓（挖掘或填充）。";
+NoGoodSideTypeProfile.Platform.InfoMsg="平台设计上下文。您不能创建道路或铁路轮廓（挖掘或填充）。";
+NoGoodSideTypeProfile.RoadRailway.InfoMsg="道路或铁路上下文。您不能创建平台轮廓（挖掘或填充）。";

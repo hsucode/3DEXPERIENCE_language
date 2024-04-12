@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+
+CATCeg2DPkPointPatternPanel="等距点";
+
+PatternExpander.Label="参数";
+PatternExpander.Tooltip="单击以定义参数";
+
+PatternExpander.PkPointSel.Text="起点";
+PatternExpander.StartPkPointEditor.TooltipShortHelp="选择起点";
+
+// CkeParm
+PkSpacing="间距";
+PkNumber="点数";
+

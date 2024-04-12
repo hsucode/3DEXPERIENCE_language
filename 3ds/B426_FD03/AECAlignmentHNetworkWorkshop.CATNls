@@ -11,7 +11,7 @@ AECAlignmentHNetworkWorkshop.LongHelp="Horizontal Alignment Sketcher";
 //----------------------------------------------------------------------------
 // ACTION BAR
 //----------------------------------------------------------------------------
-AlignmentSection.Title="对齐";
+AlignmentSection.Title="线路";
 SketcherSection.Title="Sketcher";
 AnalysisSection.Title="分析";
 
@@ -79,12 +79,12 @@ AECAlignmentHNetworkWorkshop.AlignmentRemoveOutputPointHdr.Help="移除输出点
 AECAlignmentHNetworkWorkshop.AlignmentRemoveOutputPointHdr.ShortHelp="移除链接到所选点的输出点。";
 AECAlignmentHNetworkWorkshop.AlignmentRemoveOutputPointHdr.LongHelp="使用此命令可移除链接到所选点的输出点。";
 
-AECAlignmentHNetworkWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.Title="水平对齐编辑";
-AECAlignmentHNetworkWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.Help="编辑水平对齐。";
-AECAlignmentHNetworkWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.ShortHelp="编辑与所选特征关联的水平对齐。";
-AECAlignmentHNetworkWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.LongHelp="此特征应是现有水平对齐的几何体或 3D 对齐的一部分。";
+AECAlignmentHNetworkWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.Title="水平线路编辑";
+AECAlignmentHNetworkWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.Help="编辑水平线路。";
+AECAlignmentHNetworkWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.ShortHelp="编辑与所选特征关联的水平线路。";
+AECAlignmentHNetworkWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.LongHelp="此特征应是现有水平线路的几何体或 3D 线路的一部分。";
 
-AECAlignmentHNetworkWorkshop.CATRreVerticalAlignmentEditionHdr.Title="垂直对齐编辑";
-AECAlignmentHNetworkWorkshop.CATRreVerticalAlignmentEditionHdr.Help="编辑垂直对齐。";
-AECAlignmentHNetworkWorkshop.CATRreVerticalAlignmentEditionHdr.ShortHelp="编辑与所选特征关联的垂直对齐。";
-AECAlignmentHNetworkWorkshop.CATRreVerticalAlignmentEditionHdr.LongHelp="如果特征链接到多个垂直对齐，则将选择第一个特征进行编辑。";
+AECAlignmentHNetworkWorkshop.CATRreVerticalAlignmentEditionHdr.Title="垂直线路编辑";
+AECAlignmentHNetworkWorkshop.CATRreVerticalAlignmentEditionHdr.Help="编辑垂直线路。";
+AECAlignmentHNetworkWorkshop.CATRreVerticalAlignmentEditionHdr.ShortHelp="编辑与所选特征关联的垂直线路。";
+AECAlignmentHNetworkWorkshop.CATRreVerticalAlignmentEditionHdr.LongHelp="如果特征链接到多个垂直线路，则将选择第一个特征进行编辑。";

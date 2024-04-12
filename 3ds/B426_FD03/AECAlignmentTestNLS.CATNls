@@ -1,10 +1,10 @@
 <meta charset="UTF-8"/>
-RreHACurveProfile="水平对齐";
+RreHACurveProfile="水平线路";
 RreHAPointProfile="点";
 RreHAOutputManager="输出管理器";
 Intersection="相交。";
 IntersectionExtension="相交规格";
-2DIntersectionAlignmentSpecifications="2D 相交对齐规格";
+2DIntersectionAlignmentSpecifications="2D 相交线路规格";
 GradeOptionEnum="等级选项";
 GradeOption_None="无等级选项";
 GradeOption_MaintainedPrimaryCrown="保持主径向";

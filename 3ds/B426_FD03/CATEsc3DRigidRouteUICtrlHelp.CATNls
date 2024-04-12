@@ -11,7 +11,7 @@ MainOptionBorder.MainOptionGrid.BracnchCnxOptionGrid.Rule_Connection.LongHelp="<
 MainOptionBorder.MainOptionGrid.BracnchCnxOptionGrid.Rule_No_Connection.Title="停用";
 MainOptionBorder.MainOptionGrid.BracnchCnxOptionGrid.Rule_No_Connection.ShortHelp="允许您在不放置 零件的情况下创建分支传递线路。";
 MainOptionBorder.MainOptionGrid.BracnchRevDirOptionGrid.CluVidButtonReverse.Title="反转方向";
-MainOptionBorder.MainOptionGrid.BracnchRevDirOptionGrid.CluVidButtonReverse.ShortHelp="反转您 正在创建的曲线分支的对齐。";
+MainOptionBorder.MainOptionGrid.BracnchRevDirOptionGrid.CluVidButtonReverse.ShortHelp="反转您 正在创建的曲线分支的线路。";
 MainOptionBorder.MainOptionGrid.BranchContextOptionGrid.Context_Port.Title="端口";
 MainOptionBorder.MainOptionGrid.BranchContextOptionGrid.Context_Port.ShortHelp="使分支朝向所选 对象的最近端口的方向。";
 MainOptionBorder.MainOptionGrid.BranchContextOptionGrid.Context_Plane.Title="几何图形";
@@ -21,7 +21,7 @@ MainOptionBorder.MainOptionGrid.Grid_LateralOffsetDirection.Button_LateralOffset
 MainOptionBorder.MainOptionGrid.Grid_LateralOffsetDirection.Button_LateralOffsetDirection.ShortHelp="将横向分支平移到主 管道的另一侧。";
 MainOptionBorder.MainOptionGrid.Grid_LateralOffsetMode.Combo_LateralOffsetMode.Title="横向偏移";
 MainOptionBorder.MainOptionGrid.Grid_LateralOffsetMode.Combo_LateralOffsetMode.ShortHelp="允许您在四种行为之间进行选择，以创建 分支。";
-MainOptionBorder.MainOptionGrid.Grid_LateralOffsetMode.Combo_LateralOffsetMode.LongHelp="<ul> <li>中心-中心：使您可以将主传递线路的中心与 分支传递线路的中心对齐。</li> <li>蒙皮-蒙皮：使您可以将主传递线路的蒙皮与分支 传递线路的蒙皮对齐。</li> <li>蒙皮到中心：使您可以将主传递线路的中心与 分支传递线路的蒙皮对齐。 </li> <li>中心到蒙皮：使您可以将主传递线路的蒙皮与 分支传递线路的中心对齐。</li> </ul>";
+MainOptionBorder.MainOptionGrid.Grid_LateralOffsetMode.Combo_LateralOffsetMode.LongHelp="<ul> <li>中心-中心：使您可以将主传递线路的中心与 分支传递线路的中心线路。</li> <li>蒙皮-蒙皮：使您可以将主传递线路的蒙皮与分支 传递线路的蒙皮线路。</li> <li>蒙皮到中心：使您可以将主传递线路的中心与 分支传递线路的蒙皮线路。 </li> <li>中心到蒙皮：使您可以将主传递线路的蒙皮与 分支传递线路的中心线路。</li> </ul>";
 MainOptionBorder.MainOptionGrid.BracnchInvertDirOptionGrid.CluVidButtonInverse.Title="反转方向";
 MainOptionBorder.MainOptionGrid.BracnchInvertDirOptionGrid.CluVidButtonInverse.ShortHelp="反转您 正在创建的分支的方向。";
 MainOptionBorder.MainOptionGrid.Grid_OrientModeUpper.Grid_OrientMode.Orient_Mode_Local.Title="局部";

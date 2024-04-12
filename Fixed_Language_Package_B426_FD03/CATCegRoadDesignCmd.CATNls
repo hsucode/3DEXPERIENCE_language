@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+CATCegRoadDesignCmd.Title="道路土方工程";
+CATCegRoadDesignCmd.UndoTitle="道路土方工程";
+CATCegRailwayDesignCmd.Title="铁路土方工程";
+CATCegRailwayDesignCmd.UndoTitle="铁路土方工程";
+CATCegPlatformDesignCmd.Title="平台土方工程";
+CATCegPlatformDesignCmd.UndoTitle="平台土方工程";
+CATCegPondDesignCmd.Title="池塘土方工程";
+CATCegPondDesignCmd.UndoTitle="池塘土方工程";

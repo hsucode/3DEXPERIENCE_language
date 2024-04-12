@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+CATCegSubgradeCmd.Title="路基";
+CATCegSubgradeCmd.UndoTitle="路基";
+
+CATCegRoadSubgradeCmd.Title="道路路基";
+CATCegRailwaySubgradeCmd.Title="铁路路基";
+CATCegDrainageSubgradeCmd.Title="流域设计";
+CATCegPlatformSubgradeCmd.Title="平台路基";
+CATCegWaterSubgradeCmd.Title="水路基";
+
+CATCegSubgradeCmd.InitialState.Message=".";
+
+CATCegRoadCorridorCmd.Title="道路走廊";
+CATCegRailwayCorridorCmd.Title="铁路走廊";

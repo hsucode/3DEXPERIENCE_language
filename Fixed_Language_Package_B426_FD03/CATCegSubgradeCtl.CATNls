@@ -1,0 +1,83 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// CATCegSubgradeCtl.CATNls
+//----------------------------------------------------------------------------
+
+InOutExpanderLabel="输入/输出";
+
+TooltipHelper.TooltipShortHelp="显示对象类型的图文说明。";
+TooltipHelper.TooltipLongHelp="显示对象类型的图文说明与几何图形输入中的符号。
+这在输入编辑过程中理解每个输入的含义很有用。";
+
+TooltipPreviewSections.TooltipShortHelp="显示截面预览。";
+
+// InOutExpander.TooltipShortHelp = "Select geometrical inputs and result outputs.";
+// InOutExpander.TooltipLongHelp  = "Select geometrical inputs for user feature and specify result outputs.";
+
+// ParmExpander.TooltipShortHelp = "Define parameters for each section.";
+
+TooltipSwitch.TooltipShortHelp="在截面参数和横截面参数之间切换。";
+
+GeomHeader.Col1="输入";
+GeomHeader.Col2="选定元素";
+GeomHeader.Col1.TooltipShortHelp="指示输入角色。";
+GeomHeader.Col2.TooltipShortHelp="选择输入几何元素。";
+
+OutHeader.Col1="输出";
+OutHeader.ColGeom="几何图形";
+OutHeader.ColResult="结果";
+OutHeader.Col2="选定";
+
+OutHeader.Col1.TooltipShortHelp="指示输出角色。";
+OutHeader.ColGeom.TooltipShortHelp="指示结果是曲线、曲面还是包络体，或者是否已计算（如果未确定）。";
+OutHeader.ColResult.TooltipShortHelp="指示结果是多面体还是精确，或者是否为自动（如果未确定）。";
+OutHeader.Col2.TooltipShortHelp="允许用户激活/停用输出。";
+
+OutGeom.Undefined="已计算";
+OutGeom.1="曲线";
+OutGeom.2="曲面";
+OutGeom.3="包络体";
+
+OutResult.Auto="自动";
+OutResult.PH="多面体";
+OutResult.Exact="精确";
+
+RemovePipes.Label="从路基图层移除管道";
+RemovePipes.Tooltip="从输出路基图层包络体中移除 3D 水路线路的管道。";
+
+ParmHeader.Col1="名称";
+ParmHeader.Col2="原点";
+ParmHeader.Col3="横截面";
+ParmHeader.Col4="全局或左横截面";
+ParmHeader.Col5="右横截面";
+ParmHeader.Col6="对称";
+
+SplitHeader.Col1="分割";
+SplitSectionTooltip="无法取消选中此复选框，因为该截面是分割截面。\n使用该截面的上下文菜单将其移除。";
+
+NoSelection="无选择";
+Reversed="（已反转）";
+
+SectionLabel="截面";
+AddSectionLabel="添加截面";
+
+Remove="移除";
+Display3DParm="显示/隐藏参数";
+ReorderSections="沿线路排序";
+CopyPasteSubMenu="复制/粘贴横截面";
+
+SelectAll="全选";
+UnselectAll="取消全选";
+
+MainGrid.MoreExpander.MoreGrid.PrecisionGrid.Precision_Coarse.Label="粗糙";
+MainGrid.MoreExpander.MoreGrid.PrecisionGrid.Precision_Medium.Label="中";
+MainGrid.MoreExpander.MoreGrid.PrecisionGrid.Precision_Fine.Label="精细";
+MainGrid.MoreExpander.MoreGrid.PrecisionGrid.Precision_Manual.Label="手动";
+MainGrid.PrecisionGrid.PrecisionLabel="精度";
+
+//----------------------------------------------------------------------------
+// warning, error message
+//----------------------------------------------------------------------------
+ERR.GeomRoleNotFound="用户特征实例中的角色“/P1”未在对象类型“/P2”中找到。";
+ERR.OTNotFound="对象类型“/P1”未找到。";
+SectionPreviewFailed="截面预览失败。";

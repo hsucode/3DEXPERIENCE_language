@@ -20,5 +20,5 @@ CAT2DLClippingTlb.Title="裁剪";
 CAT2DLRenderingTlb.Title="渲染样式";
 CATDrwPrintAreaSnu.Title="打印区域";
 CATDbuDisplayAreaSnu.Title="显示区域";
-CATDrwViewTextAlignSnu.Title="对齐方式";
+CATDrwViewTextAlignSnu.Title="线路方式";
 CATDrwAreaFillOperationTlb.Title="操作";

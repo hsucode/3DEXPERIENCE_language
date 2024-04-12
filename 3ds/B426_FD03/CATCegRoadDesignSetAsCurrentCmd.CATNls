@@ -1,0 +1,8 @@
+<meta charset="UTF-8"/>
+CATCegRoadDesignSetAsCurrentCmd.Title="设置为当前";
+CATCegRoadDesignSetAsCurrentCmd.UndoTitle="设置为当前";
+
+General.Title="警告";
+General.Text="无法设置为当前土木集。";
+NotSameDispline.More="选定集为 /P1，与学科 /P2 不同。";
+NoDispline.More="选定集不属于土木学科。";

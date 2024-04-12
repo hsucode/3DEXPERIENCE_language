@@ -1,0 +1,20 @@
+<meta charset="UTF-8"/>
+CATCegFeatureNumberingUICmd.Title="特征编号";
+CATCegFeatureNumberingUICmd.UndoTitle="特征编号";
+
+CATCegFeatureNumberingUICmd.ContextState.Message="选择视图";
+CATCegFeatureNumberingUICmd.FeatureState.Message="选择要编号的特征";
+
+Formatting="最小数字数";
+FormattingTooltip="指定显示的最小数字数";
+KeepNumber="可能时保留编号";
+KeepNumberTooltip="可能时保留编号";
+SameNumForDiffShape="在编号编辑中保留键入的编号";
+SameNumForDiffShapeToolTip="用于编号编辑。如果禁用，则每个选定的钢筋图层的键入编号将递增。如果启用，所有选定图层都将分配给键入的编号";
+SmallestAvailable="使用最小的可用编号";
+SmallestAvailableTooltip="允许使用最小可用编号";
+
+LoadYesNoTitle="编辑";
+LoadYesNoText="某些指向元素无法加载。\n是否要现在加载它们？";
+
+CheckNumbering="检查";

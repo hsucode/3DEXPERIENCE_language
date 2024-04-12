@@ -12,7 +12,7 @@ SelectIntersectionPoint="（选择相交点）";
 
 // Name Editor
 GridEditorName.txtAlignment.Text="线路";
-GridRotationAndLane.txtAlignment.Text="对齐";
+GridRotationAndLane.txtAlignment.Text="线路";
 
 // Intersection point Editor
 GridRotationAndLane.IntersectionPointLabel.Text="相交点";
@@ -110,7 +110,7 @@ txtWidth2.Text.Railway="右肩宽度";
 GroupParameters.GridParameters.txtWidth2Caption.Text="(c)";
 
 // Context Updated
-ContextUpdated="已使用对齐 /p1 时定义的值成功更新上下文：/p2";
+ContextUpdated="已使用线路 /p1 时定义的值成功更新上下文：/p2";
 
 // Warning message
-InvalidDistribution="沿对齐的车道分布无效。对于不带中心道的径向行驶车道类型，对齐的每一侧都必须至少有一条车道。修复分布以允许创建曲面。";
+InvalidDistribution="沿线路的车道分布无效。对于不带中心道的径向行驶车道类型，线路的每一侧都必须至少有一条车道。修复分布以允许创建曲面。";

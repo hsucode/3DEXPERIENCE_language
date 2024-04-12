@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+TyperGrid.LabelTyper.Text="结果类型";
+
+SynchroButton.SynchroType="同步结果类型";
+SynchroButton.UnSynchroType="取消同步结果类型";
+

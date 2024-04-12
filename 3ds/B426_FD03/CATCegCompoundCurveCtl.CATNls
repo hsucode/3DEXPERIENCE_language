@@ -1,0 +1,21 @@
+<meta charset="UTF-8"/>
+MainTitle="组合";
+GridMain.Reverse.TooltipTitle="反转内半径和外半径值";
+
+InRadius="内径";
+OutRadius="外径";
+IntermediateSpiral="中间螺旋";
+ConstraintType="长度";
+DeltaR="ΔR";
+CurvilinearDistance="曲线距离";
+
+ConstraintTypeEnum="约束类型枚举";
+ConstraintType_None="无";
+ConstraintType_DeltaR="ΔR";
+ConstraintType_CurvilinearDistance="曲线距离";
+
+SpiralTypeEnum="螺旋类型枚举";
+ReverseSpiralEnum="反向螺旋类型枚举";
+SpiralType_Clothoid="回旋曲线";
+SpiralType_None="无";
+

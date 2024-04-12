@@ -1,0 +1,38 @@
+<meta charset="UTF-8"/>
+Index="索引";
+FirstElement="元素";
+SecondElement="元素活动";
+SecondElementPoint="对象中的活动";
+AdditionalInfo="反转开始";
+
+//Sypstyle NLS
+ResultTypeLabel.Text="结果类型";
+CloseCheckBox.Text="闭合轮廓";
+
+GlobalLabel.Text="激活条件";
+
+ElementSelector.TooltipShortHelp="选择几何元素。";
+
+FirstCriterion.TooltipShortHelp="通过单击上下文菜单中的“编辑公式”创建公式。";
+FirstCriterion.TooltipLongHelp="通过单击上下文菜单中的“编辑公式”创建公式。
+仅当公式条件和选择条件都为 true 时才使用此元素。
+对于选择条件，默认情况下为 true。对于几何元素，如果其有效性状态为 true，则为 true。";
+
+SecondCriterion.TooltipShortHelp="选择布尔参数或几何元素。";
+SecondCriterion.TooltipLongHelp="选择布尔参数或几何元素。
+仅当公式条件和选择条件都为 true 时才使用此元素。
+对于选择条件，默认情况下为 true。对于几何元素，如果其有效性状态为 true，则为 true。";
+
+FirstCriterionGlobal.TooltipShortHelp="通过单击上下文菜单中的“编辑公式”创建公式。";
+FirstCriterionGlobal.TooltipLongHelp="通过单击上下文菜单中的“编辑公式”创建公式。
+仅当公式条件和选择条件都为 true 时才激活轮廓。
+对于选择条件，默认情况下为 true。对于几何轮廓如果其有效性状态为 true，则为 true。";
+
+SecondCriterionGlobal.TooltipShortHelp="选择布尔参数或几何元素。";
+SecondCriterionGlobal.TooltipLongHelp="选择布尔参数或几何元素。
+仅当公式条件和选择条件都为 true 时才激活轮廓。
+对于选择条件，默认情况下为 true。对于几何轮廓如果其有效性状态为 true，则为 true。";
+
+CloseCheckBox.TooltipShortHelp="通过连接第一个和最后一个元素来闭合轮廓。";
+
+SlopeProtection.Separator.Title="边坡保护";

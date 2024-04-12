@@ -7,5 +7,9 @@ xcopy /s /e /c /y /h /r /d  *AECAlignmentHNetworkWorkshop* %mypath%3ds\B426_FD03
 xcopy /s /e /c /y /h /r /d  *Alignment*%mypath%3ds\B426_FD03\
 xcopy /s /e /c /y /h /r /d  *AEC* %mypath%3ds\B426_FD03\
 xcopy /s /e /c /y /h /r /d  *Railway* %mypath%3ds\B426_FD03\
+xcopy /s /e /c /y /h /r /d *CATPrtDefaultHeader*  %mypath%3ds\B426_FD03\
+xcopy /s /e /c /y /h /r /d *PLMTemplate_PLMNew* %mypath%3ds\B426_FD03\
+
+xcopy /s /e /c /y /h /r /d *CATCeg* %mypath%3ds\B426_FD03\
 
 pause

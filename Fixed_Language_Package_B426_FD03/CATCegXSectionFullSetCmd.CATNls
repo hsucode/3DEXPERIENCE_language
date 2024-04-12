@@ -1,0 +1,12 @@
+<meta charset="UTF-8"/>
+//CATCegXSectionFullSetCmd
+CATCegXSectionFullSetCmd.Title="完整集";
+CATCegXSectionFullSetCmd.UndoTitle="完整集";
+CATCegXSectionFullSetCmd.SelectCrossSection.Message="选择横截面。";
+CATCegXSectionFullSetCmd.EditFullState.Message="编辑完整集。";
+
+//CATCegXSectionFullSetCtl
+SideColumn="侧面";
+CrossSectionColumn="横截面";
+SymetryOptionColumn="对称";
+//CrossSectionSelector.TooltipShortHelp="Cross Section that can be an half one or global.";

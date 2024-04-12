@@ -11,7 +11,7 @@ CATKnowledge.GetVerticalAlignment.Sample="Let myAlignment(AECAlignment)\nLet myV
 CATKnowledge.GetListOfSegments.Description="<p>检索水平或垂直线路的段列表。<span style=\"font-size:12px;\"></span><//p><p><span style=\"font-weight:bold;font-size:12px;\">输入：</span><//p><p>水平或垂直线路<//p><p><span style=\"font-weight:bold;font-size:12px;\">返回值：</span><//p><p>- 段列表。<//p>";
 CATKnowledge.GetListOfSegments.Sample="Let myHA(AECAlignment2DHorizontal)\nLet myListOfSegments(List)\nmyListOfSegments = myHA.GetListOfSegments()\n";
 
-CATKnowledge.GetHorizontalAlignments.Description="<p>从网络中检索水平线路列表。<span style=\"font-size:12px;\"></span><//p><p><span style=\"font-weight:bold;font-size:12px;\">输入：</span><//p><p>水平网络<//p><p><span style=\"font-weight:bold;font-size:12px;\">返回值：</span><//p><p>- 水平线路列表。<//p>";
+CATKnowledge.GetHorizontalAlignments.Description="<p>从网络中检索水平线路列表。<span style=\"font-size:12px;\"></span><//p><p><span style=\"font-weight:bold;font-size:12px;\">输入：</span><//p><p>平面线路<//p><p><span style=\"font-weight:bold;font-size:12px;\">返回值：</span><//p><p>- 水平线路列表。<//p>";
 CATKnowledge.GetHorizontalAlignments.Sample="Let myHN(AECHorizontalNetwork)\nLet myListOfHorizontalAlignments(List)\nmyListOfHorizontalAlignments = myHN.GetHorizontalAlignments()\n";
 
 CATKnowledge.GetVerticalAlignmentSegmentInfo.Description="<p> 检索有关垂直线路线段的相关信息。<span style=\"font-size:12px;\"></span><//p><p><span style=\"font-weight:bold;font-size:12px;\">输入：</span><//p><p>垂直线路曲线<//p><p><span style=\"font-weight:bold;font-size:12px;\">返回值：</span><//p><p>- 沿曲线的起始距离、水平长度、起点处的高度、起点处的梯度、半径（如果是顶点）<//p>";

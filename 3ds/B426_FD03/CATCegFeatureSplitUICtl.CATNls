@@ -1,0 +1,4 @@
+<meta charset="UTF-8"/>
+MainGrid.SplitGrid.LabelSplitMode.Text="分割方式";
+MainGrid.SplitGrid.LabelDistribution.Text="分发";
+MainGrid.SplitGrid.LabelSplitLength.Text="分割长度";

@@ -1,0 +1,59 @@
+<meta charset="UTF-8"/>
+
+CATCeg2DTransitionUI_Panel="过渡定义";
+
+TransitionTypeGroup.Label="类型";
+
+// Geometries selection
+TransitionSelectorsGroup.Label="几何图形";
+TransitionSelectorsGroup.InitialCurveText.Text="初始几何图形";
+TransitionSelectorsGroup.CheckBoxReverseDir.Label="反转";
+TransitionSelectorsGroup.CheckBoxReverseDir.Tooltip="反转初始几何图形的方向。";
+TransitionSelectorsGroup.StartPointText.Text="起点";
+TransitionSelectorsGroup.FinalGeomText.Text="最终几何图形";
+TransitionSelectorsGroup.CheckBoxReverseFinalDir.Label="反转";
+TransitionSelectorsGroup.CheckBoxReverseFinalDir.Tooltip="几何图形为直线时，反转最终切线的方向";
+TransitionSelectorsGroup.CheckBoxReverseSide.Label="反转曲线侧边";
+TransitionSelectorsGroup.CheckBoxReverseSide.Tooltip="定义曲线将打开其初始定向几何图形的哪一侧";
+
+TransitionSelectorsGroup.TangentEditor.TooltipShortHelp="切线或圆";
+TransitionSelectorsGroup.TangentEditor.TooltipLongHelp="切线或圆位于过渡曲线的初始端点。";
+
+TransitionSelectorsGroup.StartPointEditor.TooltipShortHelp="初始点";
+TransitionSelectorsGroup.StartPointEditor.TooltipLongHelp="可选：初始点。\n若初始端点为切线或圆，并且最终端点为圆或切线，则无用。";
+
+TransitionSelectorsGroup.FinalElementEditor.TooltipShortHelp="过渡曲线的最终端点";
+TransitionSelectorsGroup.FinalElementEditor.TooltipLongHelp="可选：定义过渡曲线全部最终端点或部分最终端点的 2D 几何图形。
+
+- 它可能为空、点、线或圆。如果为空，则需要 Param1 和 Param2。
+- 直线指定位于曲线最终端点的切线。此时需要 Param1 且不能有角度。
+- 点或圆不需要任何其他参数。";
+
+InitialCurveSelect="选择几何图形";
+PointSelect="选择点";
+ElementSelect="选择几何图形";
+
+// Info text
+InfoText="从 5 个参数中选择 2 个参数";
+InfoTextLine="最终为一条直线：从 5 个参数中选择 1 个参数（不得选择角度）。";
+InfoTextPointArc="最终为点或弧：不需要其他参数。";
+
+// Cke Parameters
+TransitionParametersGroup.Label="参数";
+TransitionParametersGroup.ACheckBox.Label="A";
+TransitionParametersGroup.LengthCheckBox.Label="长度";
+TransitionParametersGroup.RadiusCheckBox.Label="半径";
+TransitionParametersGroup.AngleCheckBox.Label="角度";
+TransitionParametersGroup.ShiftCheckBox.Label="转换";
+
+// Old Trasition Curve (2DClothoid) message
+OldTransitionWarning_Title="过渡曲线不兼容";
+OldTransitionWarning_Message="当前过渡与此类型不兼容";
+OldTransitionWarning_Tooltip="销毁现有过渡并创建新的过渡以生成兼容的过渡曲线";
+
+// Error warning message
+TransitionErrorTitle="无法创建转换";
+TransitionErrorText="转换事件几何图形错误";
+TransitionErrorInformativeText="禁止构建三条连续转换曲线";
+
+

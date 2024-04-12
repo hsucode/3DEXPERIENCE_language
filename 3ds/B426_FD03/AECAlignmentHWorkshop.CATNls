@@ -84,15 +84,15 @@ AECAlignmentHWorkshop.AlignmentSwitchOutputPointHdr.Help="添加或移除输出�
 AECAlignmentHWorkshop.AlignmentSwitchOutputPointHdr.ShortHelp="添加或移除与线路点关联的输出点。";
 AECAlignmentHWorkshop.AlignmentSwitchOutputPointHdr.LongHelp="在线路上选择一个点以创建或销毁关联的输出点。";
 
-AECAlignmentHWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.Title="水平对齐编辑";
-AECAlignmentHWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.Help="编辑水平对齐草图。";
-AECAlignmentHWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.ShortHelp="编辑与所选特征关联的水平对齐。";
-AECAlignmentHWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.LongHelp="此特征应是现有水平对齐的几何体或 3D 对齐的一部分。";
+AECAlignmentHWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.Title="水平线路编辑";
+AECAlignmentHWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.Help="编辑水平线路草图。";
+AECAlignmentHWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.ShortHelp="编辑与所选特征关联的水平线路。";
+AECAlignmentHWorkshop.CATRreHorizontalAlignmentSketchEditionHdr.LongHelp="此特征应是现有水平线路的几何体或 3D 线路的一部分。";
 
-AECAlignmentHWorkshop.CATRreVerticalAlignmentEditionHdr.Title="垂直对齐编辑";
-AECAlignmentHWorkshop.CATRreVerticalAlignmentEditionHdr.Help="编辑垂直对齐。";
-AECAlignmentHWorkshop.CATRreVerticalAlignmentEditionHdr.ShortHelp="编辑与所选特征关联的垂直对齐。";
-AECAlignmentHWorkshop.CATRreVerticalAlignmentEditionHdr.LongHelp="如果特征链接到多个垂直对齐，则将选择第一个特征进行编辑。";
+AECAlignmentHWorkshop.CATRreVerticalAlignmentEditionHdr.Title="垂直线路编辑";
+AECAlignmentHWorkshop.CATRreVerticalAlignmentEditionHdr.Help="编辑垂直线路。";
+AECAlignmentHWorkshop.CATRreVerticalAlignmentEditionHdr.ShortHelp="编辑与所选特征关联的垂直线路。";
+AECAlignmentHWorkshop.CATRreVerticalAlignmentEditionHdr.LongHelp="如果特征链接到多个垂直线路，则将选择第一个特征进行编辑。";
 
 AECAlignmentHWorkshop.AlignmentElementMethodTangentHdr.Title="创建切线";
 AECAlignmentHWorkshop.AlignmentElementMethodTangentHdr.Help="创建切线";

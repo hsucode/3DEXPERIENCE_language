@@ -30,14 +30,14 @@
 2DUnspecHA="Nurbs";
 2DUnspecVA="Nurbs";
 
-AlignmentSet="对齐集";
-Alignment="对齐";
-Alignment2DHorizontal="水平对齐";
-Alignment2DVertical="垂直对齐";
+AlignmentSet="线路集";
+Alignment="线路";
+Alignment2DHorizontal="水平线路";
+Alignment2DVertical="垂直线路";
 
-AECHorizontalNetwork="水平网络";
+AECHorizontalNetwork="平面线路";
 
-AECSketch="对齐草图";
+AECSketch="线路草图";
 AECSectionSketch="典型横截面";
 AECSectionSketch.Platform="平台横截面";
 
@@ -69,16 +69,16 @@ R7Imported3DGeometryVAlignment="标记";
 
 3DPkPointsSet="3D 点集";
 3DPkPoint="3D 点";
-Alignment3D="3D 对齐";
+Alignment3D="3D 线路";
 AlignmentPoint="线路点";
-VerticalAlignmentPoint="垂直对齐点";
+VerticalAlignmentPoint="垂直线路点";
 VerticalCurve="垂直曲线";
 AlignmentSweep="道路曲面";
 AlignmentIntersectionSurface="道路相交曲面";
 AlignmentRampSurface="道路斜坡曲面";
 AlignmentSweep.Railway="铁路曲面";
-AECAlignment3DCurve="3D 对齐导入";
-Alignment3DDatum="3D 对齐导入";
+AECAlignment3DCurve="3D 线路导入";
+Alignment3DDatum="3D 线路导入";
 RoadSurfaceMainCurve="道路曲面主曲线";
 
 Rre3DPointWater="3D 点水路";
@@ -263,14 +263,14 @@ CurveWidening="加宽";
 CurveWideningAuto="自动加宽";
 CurveWideningRatio="内边线的比率";
 
-TransitionHATypeEnum="水平对齐曲线类型";
+TransitionHATypeEnum="水平线路曲线类型";
 TransitionHAType_Simple="简单";
 TransitionHAType_Compound="复合";
 
-TransitionHAIntermediateSpiralTypeEnum="水平对齐中间螺旋类型";
-TransitionHAIntermediateSpiralCSCTypeEnum="圆形类型之间的水平对齐中间螺旋";
-TransitionHAIntermediateReverseSpiralTypeEnum="水平对齐中间反向螺旋类型";
-TransitionHASpiralTypeEnum="水平对齐螺旋类型";
+TransitionHAIntermediateSpiralTypeEnum="水平线路中间螺旋类型";
+TransitionHAIntermediateSpiralCSCTypeEnum="圆形类型之间的水平线路中间螺旋";
+TransitionHAIntermediateReverseSpiralTypeEnum="水平线路中间反向螺旋类型";
+TransitionHASpiralTypeEnum="水平线路螺旋类型";
 TransitionHASpiralType_None="无";
 TransitionHASpiralType_Clothoid="回旋曲线";
 TransitionHASpiralType_CubicParabola="三次抛物线";
@@ -288,13 +288,13 @@ TransitionHASpiralType_BiQuadratic="Bi 二次";
 TransitionHASpiralType_Lemniscate="双纽线";
 TransitionHASpiralType_VienneseBend="Viennese Bend";
 
-TransitionVATypeEnum="垂直对齐曲线类型";
+TransitionVATypeEnum="垂直线路曲线类型";
 TransitionVAType_Simple="简单";
 TransitionVAType_Compound="复合";
 
-TransitionVAIntermediateSpiralTypeEnum="垂直对齐中间螺旋类型";
-TransitionVAIntermediateSpiralCSCTypeEnum="圆类型之间的处置对齐中间螺旋";
-TransitionVASpiralTypeEnum="垂直对齐螺旋类型";
+TransitionVAIntermediateSpiralTypeEnum="垂直线路中间螺旋类型";
+TransitionVAIntermediateSpiralCSCTypeEnum="圆类型之间的处置线路中间螺旋";
+TransitionVASpiralTypeEnum="垂直线路螺旋类型";
 TransitionVASpiralType_None="无";
 TransitionVASpiralType_Clothoid="回旋曲线";
 TransitionVASpiralType_CubicParabola="三次抛物线";
@@ -359,7 +359,7 @@ VehicleType="车辆类型";
 
 AlignmentDirectionEnum="交通方向";
 AlignmentDirection_None="无";
-AlignmentDirection_Along="对齐方向";
+AlignmentDirection_Along="线路方向";
 AlignmentDirection_Opposite="相反方向";
 
 TraveledWayTypeEnum="行驶路线类型";
@@ -433,7 +433,7 @@ VerticalTransitionCreation_Disabled="手动";
 // Alignment Output Type
 
 // Enum NLS
-AlignmentSweepOutput="对齐扫掠输出";
+AlignmentSweepOutput="线路扫掠输出";
 UserDefined="用户定义的";
 FirstWayLeftShoulderExtract="左肩边线";
 FirstWayLeftTraveledWayExtract="左侧行驶路线边线";
@@ -538,7 +538,7 @@ NoType="类型不可用";
 //-------------------------------------------------------------------------------------------------
 // Reference Alignment Relationship enum
 //-------------------------------------------------------------------------------------------------
-ReferenceAlignmentRelationshipEnum="参考对齐关系";
+ReferenceAlignmentRelationshipEnum="参考线路关系";
 ReferenceAlignmentRelationship_Child="子项";
 ReferenceAlignmentRelationship_Sibling="同级";
 

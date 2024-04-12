@@ -1,0 +1,32 @@
+<meta charset="UTF-8"/>
+CATCegRebarDrawingElementExtensionUICtl.AdditionalLineLengthLabel.Text="长度";
+CATCegRebarDrawingElementExtensionUICtl.AdditionalLineAngleLabel.Text="角度";
+CATCegRebarDrawingElementExtensionUICtl.AdditionalLineStringLabel.Text="文本";
+
+MainGrid.AdditionalLinesText.Text="附加线";
+MainGrid.CheckAdditionalLines1.Label="起始端点";
+MainGrid.CheckAdditionalLines2.Label="结束端点";
+
+ExtremitiesCombo.FromExtremities="自端点";
+ExtremitiesCombo.AtExtremities="在端点";
+
+LineLength="线长";
+LineAngle="角度线";
+
+CATCegRebarDrawingElementExtensionUICtl.MinimalRepRatioLabel.Text="比率";
+CATCegRebarDrawingElementExtensionUICtl.MinimalRepLengthLabel.Text="长度";
+
+MainGrid.RepresentationsText.Text="钢筋形状展示";
+MainGrid.CheckMinimalRep.Label="最小";
+
+MinimalRepRatio="最小展示位置";
+MinimalRepLength="最小展示长度";
+
+BadSyntax="文本编辑器 /P1 中的语法错误";
+NonRecommendedPlacement="不建议放置附加线。请调整线角度。";
+FoundHook="在有钩的位置应用钩附加线。\n\n根据投影视图，此类附加线的角度和长度来自 3D 中的钩。面板中的用户可修改附加线属性仍用于工程图中的有效钢筋重叠（如果存在）。";
+RepWedged="由于限制比率值，最小展示将被楔入边界框";
+AllBarsAsFull="所有钢筋均已完全展示，不能添加最小展示";
+NoBarAsMinimal="未展示任何钢筋，不能添加最小展示";
+
+

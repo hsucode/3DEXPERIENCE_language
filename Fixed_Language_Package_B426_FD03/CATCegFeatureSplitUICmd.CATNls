@@ -1,0 +1,17 @@
+<meta charset="UTF-8"/>
+CATCegFeatureSplitUICmd.Title="多个分割";
+CATCegFeatureSplitUICmd.UndoTitle="多个分割";
+
+CATCegFeatureSplitUICmd.InitialState.Message="选择输入特征";
+
+CATCegFeatureSplitUICmd.ComboMode.Line1="长度";
+CATCegFeatureSplitUICmd.ComboMode.Line2="连续平面";
+CATCegFeatureSplitUICmd.ComboMode.Line3="任何几何图形";
+
+CATCegFeatureSplitUICmd.ComboMode="定义分割模式";
+CATCegFeatureSplitUICmd.EditPattern="编辑阵列";
+
+PreviewSplit="分割";
+
+Sections="sections";
+Results="结果";

@@ -1,0 +1,54 @@
+<meta charset="UTF-8"/>
+// CATCegXSectionSupportCtl
+
+//label
+MainGrid.SupportLabel.Text="轴系";
+MainGrid.AxisOrCurveLabel.Text="元素";
+MainGrid.ReferenceLabel.Text="点";
+MainGrid.ReferenceLabel.Text.New="参考点";
+MainGrid.DistanceLabel.Text="距离";
+
+MainGrid.ReferenceLabel.Cmp.Text="实例位置";
+MainGrid.SupportLabel.Cmp.Text="参考";
+Support.Origin="原点";
+SupportCurve.Label="曲线";
+
+AxisDefined="已定义";
+
+Instance.Activity="实例活动";
+
+// Tooltips
+SupportSelector.TooltipShortHelp="选择曲线或轴系来定义横截面支持面。";
+SupportSelector.TooltipLongHelp="选择曲线或轴系来定义横截面支持面。
+对于曲线，支持面是垂直于通过曲线切线和 Z 方向定义的平面的垂直平面。
+对于轴系，支持面是其 YZ 平面。";
+
+SupportSelector.Platform.TooltipShortHelp="选择曲线、曲面或轴系来定义平台横截面支持面。";
+SupportSelector.Platform.TooltipLongHelp="选择曲线、曲面或轴系来定义平台横截面支持面。
+对于曲线，支持面是垂直于通过曲线切线和 Z 方向定义的平面的垂直平面。
+对于轴系，支持面是其 YZ 平面。";
+
+SupportSelector.Cmp.TooltipShortHelp="选择一个点作为零部件的原点。";
+SupportSelector.Cmp.TooltipLongHelp="选择一个点作为零部件的原点。
+零部件的平面与零件 YZ 平面平行。";
+
+SupportSelector.Instance.TooltipShortHelp="在当前零件中选择横截面或零部件。";
+SupportSelector.Instance.TooltipLongHelp="在当前零件中选择横截面或零部件。
+如果您需要在当前零件之外选择，您应使用库。";
+
+SupportAxisSelector.TooltipShortHelp="选择用于定义横截面支持面的轴系。";
+
+SupportCurveSelector.TooltipShortHelp="选择曲线以定义横截面支持面。";
+SupportCurveSelector.Platform.TooltipShortHelp="选择曲线或曲面来定义平台横截面支持面。";
+
+SupportPointSelector.TooltipShortHelp="选择点以定义零部件支持面。";
+
+ReferenceSelector.TooltipShortHelp="选择支持面参考点。";
+ReferenceSelector.TooltipLongHelp="如果支持面是曲线，请选择支持面参考点。";
+
+ReferenceSelector.Instance.TooltipShortHelp="选择实例的原点。";
+ReferenceSelector.Instance.TooltipLongHelp="选择零部件的原点以定位它。对于横截面，它将自动定位在当前横截面的原点。";
+
+DistanceCke.TooltipShortHelp="定义从支持面原点到支持面参考点的距离。";
+
+FlipHoriInst.TooltipShortHelp="水平翻转元素。";

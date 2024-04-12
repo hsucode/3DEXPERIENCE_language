@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+DrainageSemanticTypeText="基础结构";
+EquipmentTypeText="设备";
+
+ReferencedPoint="水平对齐参考点";
+
+Reference="参考";
+
+RemoveReferenceButtonTooltip="移除水平参考点。点会重新被视为垂直点";

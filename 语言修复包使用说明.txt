@@ -1,0 +1,5 @@
+将文件复制到如下位置：
+
+C:\Program Files\Dassault Systemes\B426\win_b64\resources\msgcatalog\Simplified_Chinese
+
+替换所有已经存在的文件
