@@ -392,7 +392,7 @@ ERR_SurfaceOutputsMissing.Advice="激活主曲线创建或选择其他曲面。"
 
 ERR_NoAlignment.Request="缺少输入";
 ERR_NoAlignment.Diagnostic="未选择线路。";
-ERR_NoAlignment.Advice="选择对齐。";
+ERR_NoAlignment.Advice="选择线路。";
 
 ERR_NotACorridor.Request="输入无效";
 ERR_NotACorridor.Diagnostic="此输入“/P1”不是走廊。";

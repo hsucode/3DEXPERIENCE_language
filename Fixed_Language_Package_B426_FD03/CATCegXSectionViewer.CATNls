@@ -7,7 +7,7 @@ CATCegXSectionViewer.RailwaySurface="铁路曲面";
 CATCegXSectionViewer.UndefinedSurface="曲面";
 
 CATCegXSectionViewer.RefPointLabel="参考点";
-CATCegXSectionViewer.AlignmentLabel="3D 对齐";
+CATCegXSectionViewer.AlignmentLabel="3D 线路";
 CATCegXSectionViewer.DistanceLabel="距离";
 CATCegXSectionViewer.StationingLabel="布点";
 CATCegXSectionViewer.StationLabel="站";
@@ -21,11 +21,11 @@ CATCegXSectionViewer.LockReframeLabel="自动重新定位";
 CATCegXSectionViewer.ShowKeptLabel="显示保留的结果";
 
 CATCegXSectionViewer.SetTooltip="选择要由查看器注释的集。";
-CATCegXSectionViewer.AlignmentTooltip="选择 3D 对齐或引导曲线以放置查看器。";
+CATCegXSectionViewer.AlignmentTooltip="选择 3D 线路或引导曲线以放置查看器。";
 CATCegXSectionViewer.SurfaceTooltip="选择要由查看器注释的曲面。";
 CATCegXSectionViewer.RefPointTooltip="选择要用作查看器起点的参考点。";
 CATCegXSectionViewer.StandardTooltip="选择布局创建标准，或者显示当前标准（如果已创建布局）。";
-CATCegXSectionViewer.DistanceTooltip="参考点（默认为对齐开始）和支持平面之间的曲线距离。";
+CATCegXSectionViewer.DistanceTooltip="参考点（默认为线路开始）和支持平面之间的曲线距离。";
 CATCegXSectionViewer.ScaleTooltip="布局视图的比例。";
 CATCegXSectionViewer.LWidthTooltip="与输入相交的支持平面的左侧宽度。";
 CATCegXSectionViewer.RWidthTooltip="与输入相交的支持平面的右侧宽度。";
@@ -43,7 +43,7 @@ CATCegXSectionViewer.ViewerCtlTitle="横截面查看器";
 
 CATCegXSectionViewer.ResultRoad="道路集选择。";
 CATCegXSectionViewer.ResultRailway="铁路集选择。";
-CATCegXSectionViewer.AlignmentSelection="3D 对齐选择。";
+CATCegXSectionViewer.AlignmentSelection="3D 线路选择。";
 CATCegXSectionViewer.SurfaceSelection="曲面选择。";
 CATCegXSectionViewer.RefPointSelection="参考点选择。";
 

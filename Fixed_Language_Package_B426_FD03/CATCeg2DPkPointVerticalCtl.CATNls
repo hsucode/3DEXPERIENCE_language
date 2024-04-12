@@ -2,7 +2,7 @@
 DrainageSemanticTypeText="基础结构";
 EquipmentTypeText="设备";
 
-ReferencedPoint="水平对齐参考点";
+ReferencedPoint="水平线路参考点";
 
 Reference="参考";
 

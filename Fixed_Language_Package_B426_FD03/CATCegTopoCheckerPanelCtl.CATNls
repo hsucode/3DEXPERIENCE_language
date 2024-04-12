@@ -1,11 +1,11 @@
 <meta charset="UTF-8"/>
 
-CATCegTopoChecker_Panel.Title="对齐助手";
+CATCegTopoChecker_Panel.Title="线路助手";
 
 CutAndFillExpander.Label="挖掘和填充";
 
 CheckerExpander.CheckerRunButton.Label="检查";
-CheckerExpander.CheckerRunButton.Tooltip="基于设计规则检查对齐";
+CheckerExpander.CheckerRunButton.Tooltip="基于设计规则检查线路";
 CheckerExpander.CheckerResetButton.Label="重置";
 CheckerExpander.CheckerResetButton.Tooltip="重置设计规则检查结果";
 CheckerExpander.CheckBoxDynamicChecks.Label="动态检查";
@@ -31,7 +31,7 @@ AutoKeyPointConvert.TooltipShortHelp="在所有关键点上自动创建线路点
 StationingExpander.Label="布点";
 CheckerReport="/P1的检查器结果";
 CheckerReportLabel="检查器结果";
-SeveralV="已找到多个垂直对齐。\n从规格树中编辑垂直。";
+SeveralV="已找到多个垂直线路。\n从规格树中编辑垂直。";
 GradientCantInfo="/P1在 /P2";
 WidthInfo="/P1/P2/P3 /P4/P5";
 Terrain="地形";
@@ -46,15 +46,15 @@ Cant.Tooltip="显示线上的超高";
 VisualizationExpander.CheckBoxLabelDisplay.Label="显示标签";
 VisualizationExpander.CheckBoxLabelDisplay.Tooltip="在导入的点和曲线上显示标签";
 VisualizationExpander.CheckBoxHorizontalStripDisplay.Label="显示水平条形";
-VisualizationExpander.CheckBoxHorizontalStripDisplay.Tooltip="显示包含有关水平对齐的信息的条形";
+VisualizationExpander.CheckBoxHorizontalStripDisplay.Tooltip="显示包含有关水平线路的信息的条形";
 
 GridButtons.ExitButton.Tooltip="退出 Alignment Sketcher 应用程序";
-GridButtons.SwitchButton.H.Tooltip="切换到水平对齐";
-GridButtons.SwitchButton.V.Tooltip="切换到垂直对齐";
-GridButtons.VerticalSwitchButton.L.Tooltip="切换到左平行垂直对齐";
-GridButtons.VerticalSwitchButton.R.Tooltip="切换到右平行垂直对齐";
+GridButtons.SwitchButton.H.Tooltip="切换到水平线路";
+GridButtons.SwitchButton.V.Tooltip="切换到垂直线路";
+GridButtons.VerticalSwitchButton.L.Tooltip="切换到左平行垂直线路";
+GridButtons.VerticalSwitchButton.R.Tooltip="切换到右平行垂直线路";
 GridButtons.Create3DButton.Tooltip="创建 3D 线路";
-GridButtons.CreateAllVerticalButton.Tooltip="在当前网络中创建未存在的所有垂直对齐并切换为相应的活动对齐";
+GridButtons.CreateAllVerticalButton.Tooltip="在当前网络中创建未存在的所有垂直线路并切换为相应的活动线路";
 
 
 WHRatio="V/H 比率";
@@ -67,9 +67,9 @@ INF="INF";
 
 LawExpander.Label="法则草图";
 LawExpander.ImportLawButton.Label="导入法则";
-LawExpander.ImportLawButton.Tooltip="从其他对齐曲面导入外部法则。\n 在对齐的子零件上设计对齐曲面时尤其有用。";
-LawText="对齐曲面的长度法则草图。";
-LawUnitText="对齐曲面的长度法则草图。\n 测量单位：/P1\n 应用的单位：/P2";
+LawExpander.ImportLawButton.Tooltip="从其他线路曲面导入外部法则。\n 在线路的子零件上设计线路曲面时尤其有用。";
+LawText="线路曲面的长度法则草图。";
+LawUnitText="线路曲面的长度法则草图。\n 测量单位：/P1\n 应用的单位：/P2";
 CantLawText="线路曲面的超高法则草图。";
 
 NoVerticalContext.Text="无纵面";

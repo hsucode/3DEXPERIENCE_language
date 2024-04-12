@@ -1,7 +1,7 @@
 <meta charset="UTF-8"/>
 SurfaceLabel.Text="曲面";
 TerrainLabel.Text="地形";
-AlignmentLabel.Text="对齐";
+AlignmentLabel.Text="线路";
 DestSetLabel.Text="目标集";
 MinInterLengthLabel.Text="最小相交长度";
 MinInterGapLengthLabel.Text="最小相交间隔长度";
@@ -15,5 +15,5 @@ MinInterLength.TooltipShortHelp="相交点的最小距离。如果相交点太�
 
 SurfaceSelector.TooltipShortHelp="选择将与地形相交的曲面";
 TerrainSelector.TooltipShortHelp="选择地形";
-AlignmentSelector.TooltipShortHelp="选择对齐";
+AlignmentSelector.TooltipShortHelp="选择线路";
 DestSetSelector.TooltipShortHelp="选择要在其中创建点的走廊";
