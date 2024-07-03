@@ -1,0 +1,106 @@
+<meta charset="UTF-8"/>
+//------------------------------------
+// CATCegXSectionPointCtl.CATRsc
+//------------------------------------
+
+//label
+MainGrid.SupportLabel.Text="支持面";
+
+Panel.AngleNLS.PointCre_DistAngle="与参考的角度";
+Panel.AngleNLS.PointCre_Projection="与方向的角度";
+Panel.AngleNLS.PointCre_OnCurve="与方向的角度";
+Panel.AngleNLS.MainGeom="与水平轴的角度";
+Panel.RatioNLS="比率";
+Panel.Dist1NLS.PointCre_HV="水平距离";
+Panel.Dist1NLS.PointCre_DistAngle="距离";
+Panel.Dist1NLS.MainGeom="水平值";
+Panel.Dist2NLS="垂直参考";
+Panel.ProjCheckNLS="检查方向";
+Panel.TargetComboNLS="目标值";
+
+AsIntersection="相交";
+AsProjection="投影";
+
+GeomB_ProjCheckBoth="无检查";
+GeomB_ProjCheckPosi="相同";
+GeomB_ProjCheckNega="反转的";
+
+ResultParm.Title="结果";
+ResultParm.Value="值";
+AngleUnitCombo.Any="任何";
+
+//Combo tooltip 
+TypeCombo.TooltipShortHelp="定义点创建模式。";
+
+Dist1Combo.TooltipShortHelp="指定距离与参考点相关的方向。";
+Dist2Combo.TooltipShortHelp="指定用于定义垂直距离的参考系统。";
+Dist2Combo.TooltipLongHelp="指定用于定义垂直距离的参考系统。它可以在局部横截面参考、全局零件参考或地理位置参考中定义。";
+
+AngleCombo.TooltipShortHelp="指定定义角度的方向。";
+AngleUnitCombo.TooltipShortHelp="更改角度单位。";
+
+TargetCombo.TooltipShortHelp="定义目标的使用方式。";
+TargetCombo.TooltipLongHelp="定义目标的使用方式。
+结果是与参考点和结果点定义的直线的相交点，或投影到目标曲线上的参考点。
+如果未获得任何结果，则忽略目标，且点有效性状态变为 false。";
+
+ProjCheckCombo.TooltipShortHelp="指定投影方向。";
+ProjCheckCombo.TooltipLongHelp="指定投影方向。它允许在指定方向获得结果。";
+
+OnCurveCombo.TooltipShortHelp="指定如何确定曲线上的点。";
+SlopeSectorCombo.TooltipShortHelp="指定定义角度的扇形。";
+SlopeSectorCombo.TooltipLongHelp="指定定义角度的扇形。
+当法线视图反转时，所选扇形也会反转。";
+
+//Tooltip for each selector and each type
+// Cartesian point
+Ref1Selector.TooltipShortHelp="选择参考点。";
+Ref2Selector1.TooltipShortHelp="选择垂直参考点。";
+
+TargetSelector.TooltipShortHelp="选择目标曲线。";
+TargetSelector.TooltipLongHelp="选择目标曲线。\n结果是与参考点和结果选择的直线的相交点，或投影到目标曲线上的参考点。\n如果未获得任何结果，则忽略目标，且点有效性状态变为 false。";
+
+// Slope point
+
+// Angle point
+DirSelector.TooltipShortHelp="选择方向或方向的起点。";
+Ref2Selector.TooltipShortHelp="选择方向的终点。";
+
+// Projection point
+Ref1Selector3.TooltipShortHelp="选择要投影的点。";
+TargetSelector3.TooltipShortHelp="选择投影曲线";
+
+// Intersection point
+Ref1Selector4.TooltipShortHelp="选择第一个元素。它可以是曲线或点。";
+Ref2Selector4.TooltipShortHelp="选择第一个元素的终点。";
+TargetSelector4.TooltipShortHelp="选择第二个元素。它可以是曲线或点。";
+DirSelector4.TooltipShortHelp="选择第二个元素的终点。";
+
+// On curve point
+Ref1Selector5.TooltipShortHelp="选择曲线或线起点。";
+Ref2Selector5.TooltipShortHelp="选择直线的终点。";
+DirSelector5.TooltipShortHelp="选择方向或方向的起点。";
+TargetSelector5.TooltipShortHelp="选择方向的终点。";
+
+//Parameter
+Dist1Parm.TooltipShortHelp="与参考点的水平距离。";
+Dist2Parm.TooltipShortHelp="垂直距离。如果定义了垂直参考点，则相对于垂直参考点，否则相对于参考点。";
+AngleParm.TooltipShortHelp="相对于角度参考的角度。";
+RatioParm.TooltipShortHelp="曲线上的比率。";
+
+// Role tooltips
+SideCombo.TooltipShortHelp="指定点位于哪一侧。";
+FuncCombo.TooltipShortHelp="指定点的功能角色。";
+LayerCombo.TooltipShortHelp="指定点所在的图层。";
+
+RoleWidget.TooltipTitle="角色";
+RoleWidget.TooltipShortHelp="指定点角色。";
+RoleWidget.TooltipLongHelp="在后续的路基和土方工程命令中使用角色来确定不同横截面点之间的耦合。\n\n使用侧面、函数和图层代码定义点的角色。您可以为一个点分配多个角色，每个角色由“;”分隔。\n\n例如：L_SHDR_PAVB;L_SHDR_PAVT。\n此点将与另一个角色为 L_SHDR_PAVB 或 L_SHDR_PAVT 的点耦合。";
+
+//result table
+Value1.TooltipShortHelp="有效性状态。";
+Value2.TooltipShortHelp="局部横截面参考中的水平距离。";
+Value3.TooltipShortHelp="局部横截面参考中的垂直距离。";
+Value4.TooltipShortHelp="从点到地形的垂直距离。";
+
+CreateVTerrainParm.TooltipShortHelp="创建或删除与地形的垂直距离。";

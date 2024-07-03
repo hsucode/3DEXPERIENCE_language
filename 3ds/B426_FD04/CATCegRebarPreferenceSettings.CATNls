@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+REBGeneral.Title="加固";
+
+Rebar_General.Title="常规";
+Rebar_General.ShortHelp="常规";
+
+CegReb_DiameterRatherThanRadius_ChkBox.Title="将心轴定义为直径而不是半径";
+CegReb_DiameterRatherThanRadius_ChkBox.ShortHelp="将心轴定义为直径而不是半径";
+CegReb_DiameterRatherThanRadius_ChkBox.LongHelp="将心轴定义为直径而不是半径
+允许在半径和直径之间进行选择，以便为所有新创建的钢筋图层定义钩和折弯。";

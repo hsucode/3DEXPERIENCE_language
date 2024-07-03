@@ -1,0 +1,4 @@
+<meta charset="UTF-8"/>
+FillEmptyLine.Message="选择要填充线的元素";
+EditLine.Message="选择新元素以替换突出显示的元素";
+PointStatus.Message="选择以下状态的点";

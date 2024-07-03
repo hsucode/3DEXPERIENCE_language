@@ -1,0 +1,86 @@
+<meta charset="UTF-8"/>
+//combo Output type
+Fisik_Cut="剪切";
+Fisik_Fill="填充";
+Fisik_CommonSrf="通用曲面";
+Fisik_SubgradeLayer="路基图层";
+Fisik_SubgradeOther="路基图层 - 其他";
+
+//Table
+Role="角色";
+SideSpecific="特定于侧";
+Element="元素";
+IntersectedElement="支持面上的元素";
+Type="类型";
+Color="颜色";
+ParameterValue="值";
+
+//Nls sypstyle
+MainGrid.SupportSeparator.Text="支持面";
+MainGrid.ContentGrid.InputsExpander.SurfaceLabel.Text="顶部曲面";
+MainGrid.ContentGrid.InputsExpander.Surfac2Label.Text="从属形态曲面";
+MainGrid.ContentGrid.InputsExpander.Surface2DLabel.Text="曲面相交点";
+MainGrid.ContentGrid.InputsExpander.TerrainLabel.Text="地形";
+MainGrid.ContentGrid.InputsExpander.IntersectedTerrainLabel.Text="地形相交点";
+MainGrid.ContentGrid.InputsExpander.Label="输入";
+MainGrid.ContentGrid.ParametersExpander.Label="参数";
+MainGrid.ContentGrid.OutputsExpander.Label="输出";
+
+//Label left/right/full/component
+RightXSectionButton.Label="右侧";
+LeftXSectionButton.Label="左侧";
+FullXSectionButton.Label="全局";
+ComponentXSectionButton.Label="部件";
+
+//Tooltip left/right/full
+RightXSectionButton.TooltipShortHelp="将横截面定义为半右侧横截面。";
+RightXSectionButton.TooltipLongHelp="将横截面定义为半右侧横截面。
+它仅包含右侧的轮廓，可用于定义完整横截面的左侧或右侧。";
+LeftXSectionButton.TooltipShortHelp="将横截面定义为半左侧横截面。";
+LeftXSectionButton.TooltipLongHelp="将横截面定义为半左侧横截面。
+它仅包含左侧的轮廓，可用于定义完整横截面的左侧或右侧。";
+FullXSectionButton.TooltipShortHelp="将横截面定义为完整横截面。";
+FullXSectionButton.TooltipLongHelp="将横截面定义为完整横截面。
+它包含左右两个轮廓。";
+PlatformXSectionButton.TooltipShortHelp="将横截面定义为平台横截面。";
+PlatformXSectionButton.TooltipLongHelp="将横截面定义为平台横截面。它类似于右侧横截面。";
+WaterXSectionButton.TooltipShortHelp="将横截面定义为完整横截面。";
+WaterXSectionButton.TooltipLongHelp="将横截面定义为完整横截面。
+它包含左右两个轮廓。";
+ComponentButton.TooltipShortHelp="将横截面定义为零部件。";
+ComponentButton.TooltipLongHelp="将横截面定义为零部件。它用于定义涵洞或挡土墙体等。";
+
+//Tooltip Selector
+SurfaceSelector.TooltipShortHelp="选择顶部曲面。";
+SurfaceSelector.TooltipLongHelp="选择顶部曲面。它必须与横截面支持平面相交。路肩、行驶道路边线等特征点将从曲面自动生成。";
+Surfac2Selector.TooltipShortHelp="选择从属形态级别曲面。";
+Surfac2Selector.TooltipLongHelp="选择从属形态级别曲面。它必须与横截面支持平面相交。路肩、行驶道路边线等特征点将从曲面自动生成。";
+SurfaceSelectorCmp.TooltipShortHelp="选择曲面相交点。";
+SurfaceSelectorCmp.TooltipLongHelp="选择曲面相交点。";
+Surfac2SelectorCmp.TooltipShortHelp="选择从属形态级别曲面相交点。";
+TerrainSelector.TooltipShortHelp="选择地形。";
+TerrainSelector.TooltipLongHelp="选择地形。它必须与横截面支持平面相交。";
+TerrainSelectorCmp.TooltipShortHelp="选择地形相交点。";
+TerrainSelectorCmp.TooltipLongHelp="选择地形。它必须位于支持平面上。";
+
+//Tooltip Expander
+InputsExpander.TooltipShortHelp="定义横截面几何输入。";
+GeomRoleEditor.TooltipShortHelp="定义每个几何输入的唯一角色。";
+GeomSelector.TooltipShortHelp="选择补充几何输入。";
+GeomSelector.TooltipLongHelp="选择补充几何输入。它可与横截面支持平面不相交。";
+GeomSelectorCmp.TooltipShortHelp="选择补充几何输入。";
+GeomSelectorCmp.TooltipLongHelp="选择补充几何输入。元素必须位于支持平面上。";
+
+ParametersExpander.TooltipShortHelp="定义横截面参数。";
+ParmRoleEditor.TooltipShortHelp="定义每个参数的唯一角色。";
+ParmSelector.TooltipShortHelp="选择参数。";
+ParmValue.TooltipShortHelp="所选参数的值。";
+
+OutputsExpander.TooltipShortHelp="定义横截面输出。";
+OutputRoleEditor.TooltipShortHelp="定义每个输出的唯一角色。";
+OutputSelector.TooltipShortHelp="选择要输出的几何元素。";
+
+SideSpecificCheckBox.TooltipShortHelp="指定元素是特定于侧面，还是左侧和右侧的全局元素。";
+
+InvalidLibrarySelection="所选对象没有或不是常规横截面。";
+

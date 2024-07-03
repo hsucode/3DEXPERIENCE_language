@@ -1,0 +1,57 @@
+<meta charset="UTF-8"/>
+Title="垂直曲线";
+
+CloArcClo="回旋曲线-弧-回旋曲线";
+
+RightBtn.Yes="是";
+
+Corner.Error.NotRetrieved="无法检索角部信息";
+
+gridMain.gridName.lblName.Text="名称";
+
+//--------------------------------------------------------------------------
+// Type 
+//--------------------------------------------------------------------------
+gridMain.gridType.lblType.Text="类型";
+gridMain.gridType.cboType.TooltipShortHelp="选择一种连接曲线元素";
+
+Arc="圆弧";
+Arc.Length="弧长";
+
+Parabola="抛物线";
+Parabola.Length="抛物线长度";
+Parabola.Tooltip="抛物线长度参数编辑器";
+
+//--------------------------------------------------------------------------
+// Parameters 
+//--------------------------------------------------------------------------
+gridMain.gridParameters.gridParametersLbl.lblParameters.Text="参数";
+ClothoidLength1="L1";
+ClothoidLength1.TooltipShortHelp="第一个回旋曲线长度";
+Radius="半径";
+Radius.TooltipShortHelp="弧半径";
+ClothoidLength2="L2";
+ClothoidLength2.TooltipShortHelp="第二个回旋曲线长度";
+ParabolaLength="长度";
+ParabolaLength.TooltipShortHelp="抛物线长度";
+ParabolaRadius="半径";
+ParabolaRadius.TooltipShortHelp="抛物线半径";
+ParabolaFactorK="系数 K";
+ParabolaFactorK.TooltipShortHelp="抛物线的系数 K";
+
+//--------------------------------------------------------------------------
+// Measure 
+//--------------------------------------------------------------------------
+gridMain.gridMeasures.gridMeasuresLbl.lblMeasures.Text="测量";
+gridMain.gridMeasures.gridMeasuresValues.lblMsrFirstLineLength.Text="第一线长度";
+gridMain.gridMeasures.gridMeasuresValues.lblMsrFirstLineGradient.Text="第一线梯度";
+gridMain.gridMeasures.gridMeasuresValues.lblMsrSecondLineLength.Text="第二线长度";
+gridMain.gridMeasures.gridMeasuresValues.lblMsrSecondLineGradient.Text="第二线梯度";
+
+
+DRRadius="半径的设计规则： ";
+DRLength="长度的设计规则： ";
+DRCloLength="回旋曲线长度的设计规则： ";
+
+
+Range="范围";

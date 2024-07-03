@@ -1,0 +1,4 @@
+<meta charset="UTF-8"/>
+MainGrid.SelectLayer.Text="选择： ";
+MainGrid.LabelSplitMode.Text="模式： ";
+MainGrid.LabelBarLength.Text="分割长度： ";

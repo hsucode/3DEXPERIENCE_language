@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+CATCegFeatureSplitSynchroUICmd.Title="分割同步规格";
+CATCegFeatureSplitSynchroUICmd.UndoTitle="分割同步规格";
+
+CATCegFeatureSplitSynchroUICmd.InitialState.Message="选择输入特征";
+
+SynchroStatusOK="同步成功";
+SynchroStatusKO="同步已失败";
+UnSynchroStatusOK="异步成功";
+UnSynchroStatusKO="异步已失败";

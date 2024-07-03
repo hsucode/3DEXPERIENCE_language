@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATCegRebarSketchOffsetCmd.Title="钢筋偏移";
+CATCegRebarSketchOffsetCmd.UndoTitle="钢筋偏移";
+
+CATCegRebarSketchOffsetCmd.InitialState.Message="选择要偏移的元素";

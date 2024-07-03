@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+TraveledWayVirtualNode.Root="行驶路线";
+TraveledWayVirtualNode.Left="左侧行驶路线";
+TraveledWayVirtualNode.Right="右侧行驶路线";
+
+RailwayTrack="铁路轨道";
+
+ShoulderVirtualNode.Root="肩部";
+ShoulderVirtualNode.Left="左肩";
+ShoulderVirtualNode.Right="右肩";

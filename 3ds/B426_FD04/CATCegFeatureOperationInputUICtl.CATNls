@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+MainGrid.SelectInput.Text="元素";
+
+MainGrid.CheckElementType.Label="将选定元素设置为构造元素";
+MainGrid.CheckElementType.Tooltip="更改元素类型";
+

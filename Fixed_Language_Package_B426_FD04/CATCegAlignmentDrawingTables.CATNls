@@ -1,0 +1,34 @@
+<meta charset="UTF-8"/>
+AlignmentCoordinateTable="线路坐标表";
+AttainmentDiagram="实现方法图";
+CurvatureDiagram="曲率图";
+DesignSpeedRailwayDiagram="设计速度图 - 铁路";
+DesignSpeedRoadDiagram="设计速度图 - 道路";
+PITable="PI 表";
+PITableWaterSupply="PI 表 - 供水";
+StationEquationTable="站方程式表";
+VerticalGradeDiagram="垂直坡度图";
+VerticalGradeDiagramWaterSupply="垂直坡度图 - 供水";
+VPITable="VPI 表";
+
+BandTableRailway="条带表 - 铁路";
+BandTableRoad="条带表 - 道路";
+BandTableRailwayWithDiagram="带图表的条带表 - 铁路";
+BandTableRoadWithDiagram="带图表的条带表 - 道路";
+BandTableWaterSupply="条段表 - 供水";
+BandTableWaterSupplyWithDiagram="带图表的条带表 - 供水";
+
+PipeLineBendBOMTable="水 - 折弯 BOM";
+PipeLineBendDetailsTable="水 - 折弯详细信息";
+PipeLineThrustBlockDetailsTable="水 - 止推座详细信息";
+PipeLinePipeBOMTable="水 - 管道 BOM";
+PipeLinePipeDetailsTable="水 - 管道详细信息";
+PipeLineRouteTable="水 - 管道线路";
+PipeLineSpecificationTable="水 - 管道规格";
+
+SlopeProtectionAreaPerStation="每个站的边坡保护区域";
+SlopeProtectionArea="边坡保护区域";
+EarthWorkVolumePerStation="每个站的土方体积";
+EarthWorkVolume="土方体积";
+
+

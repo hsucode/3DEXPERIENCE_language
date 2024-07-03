@@ -1,0 +1,25 @@
+<meta charset="UTF-8"/>
+CATCegParallelAlignmentCmd="平行对齐";
+CATCegParallelAlignmentCmd.Title="平行对齐";
+CATCegParallelAlignmentCmd.UndoTitle="平行对齐";
+
+CATCegParallelAlignmentCmd.ReferenceAlignmentState.Message="选择参考水平对齐";
+CATCegParallelAlignmentCmd.StartPointState.Message="在参考对齐上选择一个起点以定义平行对齐限制。仅允许使用水平关键点";
+CATCegParallelAlignmentCmd.EndPointState.Message="在参考对齐上选择一个终点以定义平行对齐限制。仅允许使用水平关键点";
+CATCegParallelAlignmentCmd.VerticalAlignmentEditionState.Message="选择是否要编辑创建的垂直对齐";
+
+CATCegParallelAlignmentCmd.RelationshipSimpleCombo.Child="子项";
+CATCegParallelAlignmentCmd.RelationshipSimpleCombo.Sibling="同级";
+
+CATCegParallelAlignmentCmd.SideSimpleCombo.BothSide="两侧";
+CATCegParallelAlignmentCmd.SideSimpleCombo.LeftSide="左侧";
+CATCegParallelAlignmentCmd.SideSimpleCombo.RightSide="右侧";
+
+SingleVerticalAlignmentEdition.Title="垂直对齐过短";
+MultipleVerticalAlignmentEdition.Title="垂直对齐过短";
+
+SingleVerticalAlignmentEdition.Text="垂直对齐比水平对齐展开短";
+MultipleVerticalAlignmentEdition.Text="至少一个垂直对齐比其水平对齐展开短";
+
+SingleVerticalAlignmentEdition.Info="如果要编辑垂直对齐草图，请单击“确定”按钮。";
+MultipleVerticalAlignmentEdition.Info="如果要开始编辑第一个偏移垂直对齐，请单击“确定”按钮。";

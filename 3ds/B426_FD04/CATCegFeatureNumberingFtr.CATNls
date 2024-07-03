@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+// COPYRIGHT DASSAULT SYSTEMES PROVENCE 2018
+// =============================================================================
+// Usage notes: CATCegFeatureNumberingFtr.CATNls
+// =============================================================================
+// 26-Mar-2018 TTD: Creation
+// =============================================================================
+
+UniqueNumber="之前的编号在此元素上不唯一。";
+NegativeNumber="新编号小于零。";
+UsedNumber="新编号已被使用。";
+LockedNumber="之前的编号被其他元素锁定。";
+ProgressionText="组 /P2 中的元素 /P1";
+ErrBarmarkNotCopiable="条形标记特征不可复制";

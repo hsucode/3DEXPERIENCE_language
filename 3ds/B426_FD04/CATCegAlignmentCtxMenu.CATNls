@@ -1,0 +1,7 @@
+<meta charset="UTF-8"/>
+PointOnAlignment.Title="在对齐上创建点";
+CrossSection.Title="创建横截面";
+CrossSectionPoint.Title="创建横截面点";
+
+HorizontalAlignmentEdition_Warning="所选特征与水平对齐不关联。";
+VerticalAlignmentEdition_Warning="所选特征与垂直对齐不关联。";

@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+Back="后面";
+Ahead="前面";
+Origin="原点";
+
+OutputDeletion.Title="对齐输出删除警告";
+OutputDeletion.Text="您即将销毁一个或多个对齐输出";
+OutputDeletion.Info="似乎其中至少有一个被其他对象使用。是否还要继续销毁？ ";
+
+VerticalEditionWarning.Title="垂直对齐编辑警告";
+VerticalEditionWarning.Text="地形/3D 对象选择已修改";
+VerticalEditionWarning.Info="至少有一项不存在或已从列表中移除。是否要在编辑垂直对齐之前至应用修改？";
+
+HorizontalEditionWarning.Title="水平对齐编辑警告";
+HorizontalEditionWarning.Text="地形/3D 对象选择已修改";
+HorizontalEditionWarning.Info="至少有一项不存在或已从列表中移除。是否要在编辑水平对齐之前至应用修改？";

@@ -1,0 +1,39 @@
+<meta charset="UTF-8"/>
+Grid.GridFlow.lblType.Text="轮廓：";
+Grid.GridFlow.lblType.Label="轮廓：";
+MoreExpanderLabel="轮廓规格";
+ValueHeaderLabel="值";
+ParameterHeaderLabel="参数";
+MainTitle="水平对齐初始化";
+TrackRailHeadWith="轨道头宽度";
+TrackSleeperLenght="轨枕长度";
+TrackGauge="轨距规";
+TrackWidth="轨道宽度";
+DesignSpeed="设计速度";
+MaximumSpeed="最大速度";
+MinimumSpeed="最小速度";
+MaximumCantValueOnTangent="切线上的最大超高值";
+MaximumAllowableCantDeficiency="允许的最大超高不足";
+MaximumAllowableCantExcess="允许的最大过超高";
+RadiusTable="半径表";
+LenghtTable="长度表";
+GradientTable="梯度表";
+CantTable="超高表";
+LeftWidth="左侧宽度";
+RightWidth="右侧宽度";
+LaneChooserLabel="车道选择器";
+lblLaneType="选择车道： ";
+Custom="自定义";
+GridTypeCombo.lblCombo.Text="类型： ";
+
+
+tabMain.gridContext.HeaderData.Label="学科与轮廓";
+tabMain.gridProjection.HeaderData.Label="项目规格";
+tabMain.gridSpec.HeaderData.Label="对齐规格";
+tabMain.gridDistribution.HeaderData.Label="分布";
+tabMain.gridRules.HeaderData.Label="规则";
+
+tabMain.gridDistribution.DisabledDistributionLayGrid.DisableText.Text="当前学科无分布";
+
+tabMain.gridContext.ContextGroupBox.Label="选择学科";
+tabMain.gridContext.ProfileGroupBox.Label="选择轮廓";

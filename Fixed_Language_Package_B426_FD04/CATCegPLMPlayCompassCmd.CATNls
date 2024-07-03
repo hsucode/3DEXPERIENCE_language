@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATCegPLMPlayCompassCmd.Title="播放";
+CATCegPLMPlayCompassCmd.UndoTitle="停止播放";
+CATCegPLMPlayCompassCmd.InitialState.Message="选择 3D 线路";
+CATCegPLMPlayCompassCmd.LaunchPlayer.Message="播放";

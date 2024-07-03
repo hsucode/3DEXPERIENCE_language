@@ -1,0 +1,43 @@
+<meta charset="UTF-8"/>
+
+CATCeg2DClothoidUI_Panel="回旋曲线定义";
+
+// Geometries selection
+ClothoidSelectorsGroup.Label="几何图形";
+ClothoidSelectorsGroup.TangentText.Text="初始几何图形";
+ClothoidSelectorsGroup.CheckBoxReverseDir.Label="反转";
+ClothoidSelectorsGroup.CheckBoxReverseDir.Tooltip="反转初始切线的方向。";
+ClothoidSelectorsGroup.StartPointText.Text="起点";
+ClothoidSelectorsGroup.FinalGeomText.Text="最终几何图形";
+ClothoidSelectorsGroup.CheckBoxReverseFinalDir.Label="反转";
+ClothoidSelectorsGroup.CheckBoxReverseFinalDir.Tooltip="几何图形为直线时，反转最终切线的方向";
+ClothoidSelectorsGroup.CheckBoxReverseSide.Label="反转曲线侧边";
+ClothoidSelectorsGroup.CheckBoxReverseSide.Tooltip="定义曲线将打开其初始\n定向切线的哪一侧";
+
+ClothoidSelectorsGroup.TangentEditor.TooltipShortHelp="切线或圆";
+ClothoidSelectorsGroup.TangentEditor.TooltipLongHelp="切线或圆位于回旋曲线的初始端点。";
+
+ClothoidSelectorsGroup.StartPointEditor.TooltipShortHelp="初始点";
+ClothoidSelectorsGroup.StartPointEditor.TooltipLongHelp="可选：初始点。\n当初始端点为正切，最终端点为圆形时无效。";
+
+ClothoidSelectorsGroup.FinalElementEditor.TooltipShortHelp="回旋曲线的最终端点";
+ClothoidSelectorsGroup.FinalElementEditor.TooltipLongHelp="可选：定义回旋曲线全部最终端点或部分最终端点的 2D 几何图形。\n\n- 它可能为空、点、线或圆。如果为空，则需要 Param1 和 Param2。\n- 直线指定位于曲线最终端点的切线。此时需要 Param1 且不能有角度。\n- 点或圆不需要任何其他参数。";
+
+TangentSelect="选择切线或圆";
+PointSelect="选择点";
+ElementSelect="选择元素";
+
+// Info text
+InfoText="选择 5 个参数中的 2 个";
+InfoTextLine="最终为 1 条直线：选择 5 个参数中的 1 个（不包含角度）。";
+InfoTextPointArc="最终为点或弧：不需要其他参数。";
+
+// Cke Parameters
+ClothoidParametersGroup.Label="参数";
+ClothoidParametersGroup.ACheckBox.Label="A";
+ClothoidParametersGroup.LengthCheckBox.Label="长度";
+ClothoidParametersGroup.RadiusCheckBox.Label="半径";
+ClothoidParametersGroup.AngleCheckBox.Label="角度";
+ClothoidParametersGroup.ShiftCheckBox.Label="转换";
+
+

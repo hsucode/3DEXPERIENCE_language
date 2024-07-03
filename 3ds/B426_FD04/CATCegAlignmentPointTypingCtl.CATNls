@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+
+GridMain.lblSemanticType.Text="类型";
+ComboTypeTooltip="选择基础结构";
+ComboReferenceTypeTooltip="为参考水平点选择基础结构";
+
