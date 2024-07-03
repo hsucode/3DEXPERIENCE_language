@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATCeg2DPkPointVerticalCmd.OldTitle="切换点";
+CATCeg2DPkPointVerticalCmd.Title="垂直点";
+CATCeg2DPkPointVerticalCmd.UndoTitle="切换点";
+CATCeg2DPkPointVerticalCmd.InitialState.Message="选择垂直点";

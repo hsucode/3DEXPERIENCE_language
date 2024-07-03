@@ -1,0 +1,19 @@
+<meta charset="UTF-8"/>
+MainTitle="车道选择器";
+CreateNewLane="创建新车道 ";
+AddNewLane="添加新车道...";
+AddNewLaneHelp="从现有车道或从头开始创建新车道";
+
+LaneTooSmall="已针对 /P1 车辆类型兼容性更新车道宽度";
+LateralClearanceTooSmall="已针对 /P1 车辆类型兼容性更新横向间隙";
+LateralClearanceNegative="已针对 /P1 车辆类型兼容性更新车道宽度和横向间隙";
+
+MainGrid.GroupBox.Label="选择车道： ";
+MainGrid.GroupBox.SubMainGrid.ParameterGrid.ParameterGridText.Text="车道规格： ";
+MainGrid.GroupBox.SubMainGrid.VehicleGrid.VehicleSubGrid.VehicleGridText.Text="车辆列表： ";
+MainGrid.RightGroupBox.Label="选定的车辆参数： ";
+
+MainGrid.GroupBox.SubMainGrid.VehicleGrid.ListVehicle.TextHeaderName="车辆";
+MainGrid.GroupBox.SubMainGrid.VehicleGrid.ListVehicle.TextHeaderValue="速度";
+
+ArticulationWheelbase="铰接轴距";

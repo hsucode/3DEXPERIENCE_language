@@ -1,0 +1,12 @@
+<meta charset="UTF-8"/>
+SplitLength="分割长度";
+
+INF_Split_ValueonMaxValue="通过分割创建了 /P1 / /P2 个结果。";
+
+WNG_Split_Remove="某些不同步的结果已被移除。新创建的结果与输入同步。";
+WNG_Split_Deactivate="已停用无法计算的 /P1 个结果。";
+
+
+
+
+

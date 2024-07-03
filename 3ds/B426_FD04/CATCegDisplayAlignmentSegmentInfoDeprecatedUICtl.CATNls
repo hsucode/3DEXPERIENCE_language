@@ -1,0 +1,29 @@
+<meta charset="UTF-8"/>
+
+CATCegDisplayInfo_Panel="线路线段信息";
+
+SegmentType="线段类型：/P1";
+StartPoint="起点：";
+EndPoint="终点：";
+XY="X = /P1，Y = /P2";
+Geoloc="向东 = /P1，向北 = /P2";
+Elevation="标高 = /P1";
+
+StartDirection="起始方向 = /P1";
+Length="线段长度 = /P1";
+LengthCSF="线段长度 (CSF) = /P1";
+Radius="半径 = /P1";
+CCW="逆时针 = /P1";
+Entry="为条目 = /P1";
+
+StartDistanceAlong="沿线起始距离 = /P1";
+HorizontalLength="水平长度 = /P1";
+HorizontalLengthCSF="水平长度 (CSF) = /P1";
+StartHeight="起始高度 = /P1";
+StartGradient="起始坡度 = /P1";
+Convex="为凸 = /P1";
+CurvilinearLength="曲线长度 = /P1";
+ClothoidConstant="平面度 = /P1";
+EndDistanceAlong="沿线终止距离 = /P1";
+EndHeight="结束高度 = /P1";
+EndGradient="结束梯度 = /P1";

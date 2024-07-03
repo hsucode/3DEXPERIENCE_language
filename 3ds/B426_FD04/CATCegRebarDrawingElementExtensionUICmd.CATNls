@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+CATCegRebarDrawingElementExtensionUICmd.Title="属性";
+CATCegRebarDrawingElementExtensionUICmd.UndoTitle="属性";
+
+CATCegRebarDrawingElementExtensionUICmd.InitialState.Message="修改属性";
+

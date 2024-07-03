@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+CATCegCrossSectionProfileCmd.Title="典型横截面轮廓";
+CATCegCrossSectionProfileCmd.UndoTitle="典型横截面轮廓";
+CATCegCrossSectionProfileCmd.Platform.UndoTitle="平台横截面轮廓";
+
+CATCegCrossSectionProfileCmd.Cut.Title="挖掘轮廓";
+CATCegCrossSectionProfileCmd.Fill.Title="填充轮廓";
+
+CATCegCrossSectionProfileCmd.InitialState.Message="单击某一按钮即可开始创建或编辑轮廓。";

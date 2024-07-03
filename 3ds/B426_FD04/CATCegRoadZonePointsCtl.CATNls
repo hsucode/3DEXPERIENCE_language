@@ -1,0 +1,19 @@
+<meta charset="UTF-8"/>
+SurfaceLabel.Text="曲面";
+TerrainLabel.Text="地形";
+AlignmentLabel.Text="对齐";
+DestSetLabel.Text="目标集";
+MinInterLengthLabel.Text="最小相交长度";
+MinInterGapLengthLabel.Text="最小相交间隔长度";
+MinDistLabel.Text="最小距离";
+EWSwitchSeparator.Text="挖掘/填充切换点";
+//Tooltip
+MaxDistanceCke.TooltipShortHelp="两点之间的最大距离。如果沿曲线的两个点比指定的距离更远，则会添加附加点。";
+MinDistanceCke.TooltipShortHelp="两点之间的最小距离。如果沿曲线的两个点太近，则仅保留第一个点。";
+MinInterGapLength.TooltipShortHelp="两个相交间隔之间的最小距离。如果沿曲线的两个相交点太近，会将其合并。";
+MinInterLength.TooltipShortHelp="相交点的最小距离。如果相交点太短，则会将其跳过或仅输出一个端点。";
+
+SurfaceSelector.TooltipShortHelp="选择将与地形相交的曲面";
+TerrainSelector.TooltipShortHelp="选择地形";
+AlignmentSelector.TooltipShortHelp="选择对齐";
+DestSetSelector.TooltipShortHelp="选择要在其中创建点的走廊";

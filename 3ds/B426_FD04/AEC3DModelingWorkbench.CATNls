@@ -1,0 +1,40 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// WORKBENCH
+//----------------------------------------------------------------------------
+// [AEC3DModelingWorkbench] @Workbench BEB 17:09:07
+AEC3DModelingWorkbench.Title="土木工程 3D 设计";
+AEC3DModelingWorkbench.ShortHelp="土木工程 3D 设计";
+AEC3DModelingWorkbench.Help="土木工程 3D 设计";
+AEC3DModelingWorkbench.LongHelp="土木工程 3D 设计";
+
+//----------------------------------------------------------------------------
+// ACTION BAR
+//----------------------------------------------------------------------------
+Tab_WireframeAndSurface.Title="线框和曲面";
+Group_Wireframe.Title="线框";
+Group_Surface.Title="曲面";
+Group_Transform.Title="变换";
+Group_Refine.Title="细化";
+
+Civil3DWkbSection.Title="土木工程";
+Road3DWkbSection.Title="道路";
+Railway3DWkbSection.Title="铁路";
+Water3DWkbSection.Title="水路";
+Signage3DWkbSection.Title="标牌";
+Vegetation3DWkbSection.Title="植被";
+
+Tab_Solid.Title="实体";
+Group_Model.Title="模型";
+Group_Structure.Title="结构";
+
+Tab_Functional.Title="功能";
+
+Tab_Review.Title="审核";
+Group_Review.Title="审核";
+
+ShapeDesignModes_In_Contextual_Menu.Title="模式";
+ShapeDesignObjectProperties.Title="常规特性";
+
+Tab_Volume.Title="体积";
+Group_Volume.Title="体积";

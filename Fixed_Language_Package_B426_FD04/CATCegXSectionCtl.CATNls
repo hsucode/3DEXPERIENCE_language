@@ -1,0 +1,41 @@
+<meta charset="UTF-8"/>
+//-----------------------------------------------
+// CATCegXSectionCtl
+//-----------------------------------------------
+
+OutputTypeCtl.ResTypeNLS="输出类型";
+OutputTypeCtl.CutFillNLS="用于修改地形的选项";
+OutputTypeCtl.RoleNLS="角色";
+OutputTypeCtl.RoleNLS.Name="名称";
+OutputTypeCtl.RoleIcon.ShortHelp="蓝色圆圈表示该特征已输出。白色表示它是一个构造元素。";
+
+OutputCF_Default="已忽略";
+OutputCF_Cut="作为挖掘";
+OutputCF_Fill="作为填充";
+
+//Color Chooser for Output
+CATCegXSectionUIServices.ResetColor="重置颜色";
+
+ReplaceOutput.Title="替换输出";
+ReplaceOutput.Text="存在相同类型和角色的输出。是否要将其替换为所选元素？";
+ReplaceOutput.Inf1="";
+
+ChooseLeftEWProfile.Title="选择左侧或右侧土方工程轮廓";
+ChooseLeftEWProfile.Text="横截面包含一个通用曲面。是否要将当前元素定义为左轮廓？";
+ChooseLeftEWProfile.Inf1="只能定义左侧或右侧土方工程轮廓，因为存在一个通用曲面。";
+
+// Tooltip
+ResTypeCombo.TooltipShortHelp="选择输出类型。";
+
+RoleCke.TooltipShortHelp="编辑输出角色或构造元素的名称。";
+RoleCke.TooltipLongHelp="编辑输出角色或构造元素的名称。\n\n此编辑器旁边的颜色指示此元素是否为构造元素。\n  白色：构造元素，\n  蓝色：横截面输出。";
+
+RoleStatus.TooltipShortHelp="指示此元素是否为构造元素。";
+RoleStatus.TooltipLongHelp="指示此元素是否为构造元素。
+  白色：构造元素，
+  蓝色：横截面输出。";
+
+CutFillCombo.TooltipShortHelp="指定如何在地形修改中使用在路基中获得的对应结果。";
+
+ColorChooser.TooltipShortHelp="更改此元素的颜色。";
+ColorChooser.TooltipLongHelp="更改此元素的颜色。单击上下文菜单“重置颜色”以回滚到默认颜色。";

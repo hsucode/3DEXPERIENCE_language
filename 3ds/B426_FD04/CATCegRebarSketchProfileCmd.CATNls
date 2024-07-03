@@ -1,0 +1,8 @@
+<meta charset="UTF-8"/>
+CATCegRebarSketchProfileCmd.Title="钢筋轮廓";
+CATCegRebarSketchProfileCmd.UndoTitle="钢筋轮廓";
+
+CATCegRebarSketchProfileCmd.InitialState.Message="单击某一按钮即可开始创建或编辑轮廓。";
+CATCegRebarSketchProfileCmd.MainGrid.RemoveLabel.Text="移除轮廓";
+CATCegRebarSketchProfileCmd.MainGrid.ConfigLabel.Text="配置值";
+CATCegRebarSketchProfileCmd.MainGrid.StatusLabel.Text=" 状态";

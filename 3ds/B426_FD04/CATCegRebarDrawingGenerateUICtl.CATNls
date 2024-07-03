@@ -1,0 +1,12 @@
+<meta charset="UTF-8"/>
+GenerateGrid.GenerateText.Text="钢筋形状";
+
+SwitchRepType.Wire="线框";
+SwitchRepType.Contour="轮廓";
+SwitchRepType.Fill="填充";
+
+TooltipRepTypes="钢筋的 2D 展示";
+
+
+
+

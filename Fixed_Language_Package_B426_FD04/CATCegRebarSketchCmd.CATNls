@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATCegRebarSketchCmd.Title="钢筋草图命令";
+CATCegRebarSketchCmd.UndoTitle="钢筋草图命令";
+
+CATCegRebarSketchCmd.InitialState.Message="创建钢筋草图";

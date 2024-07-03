@@ -1,0 +1,21 @@
+<meta charset="UTF-8"/>
+
+CATCeg2DPkPointOffsetPanel="按偏移创建点";
+
+LRExpander.Label="线性参考";
+LRExpander.Tooltip="单击以设置线性参考";
+
+LRExpander.PkPointSel.Text="起点";
+LRExpander.ReferentPkPointEditor.TooltipShortHelp="选择起点";
+
+// CkeParm distance
+Distance="距离";
+LRExpander.DistanceText.Text="距离";
+LRExpander.ReverseCheckboxText.Text="反转方向";
+
+StartDistance="与起始处的距离：/P1";
+
+InvalidDistance.Title="线性参考";
+InvalidDistance.Text="根据距离值，当前点位置无效。";
+InvalidDistance.Info="是否要相应更新点位置？";
+

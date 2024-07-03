@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+CATCegSubgradeSurfaceCmd.Title="路基曲面";
+CATCegSubgradeSurfaceCmd.UndoTitle="路基曲面";
+
+CATCegRoadSubgradeSurfaceCmd.Title="道路路基曲面";
+CATCegRailwaySubgradeSurfaceCmd.Title="铁路路基曲面";
+CATCegDrainageSubgradeSurfaceCmd.Title="流域设计曲面";
+
+InitialState="定义路基曲面";
+

@@ -1,0 +1,4 @@
+<meta charset="UTF-8"/>
+CATCegRoadZonePointsCmd.Title="区域点创建";
+CATCegRoadZonePointsCmd.UndoTitle="区域点创建";
+NeutralState="创建区域点";

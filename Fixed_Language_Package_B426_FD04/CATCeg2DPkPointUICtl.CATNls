@@ -1,0 +1,115 @@
+<meta charset="UTF-8"/>
+Stationing="桩号";
+Speed="速度";
+Index="索引";
+Category="类别";
+Start="起点";
+ERate="超高";
+Cant="超高";
+End="终点";
+CATCeg2DPkPointEditPanel="线路点";
+CATCeg2DPkPointEditPanel_KeyPoint="关键点";
+CATCeg2DPkPointEditPanel_EventPoint="事件点";
+CATCeg2DPkPointEditPanel_SurveyPoint="调查点";
+NotDefined="未定义";
+Remove="移除选择";
+
+Min="最小值：/P1";
+Max="最大值：/P1";
+
+PkPointParmExpander.Label="参数";
+PkPointParmExpander.ShortHelp="参数";
+
+DesignRulesExpander.Label="设计规则";
+DesignRulesExpander.Tooltip="单击以设置设计规则";
+
+DesignRulesExpander.Radius.Text="半径表";
+DesignRulesExpander.Transition.Text="转换表";
+DesignRulesExpander.Gradient.Text="梯度表";
+DesignRulesExpander.Length.Text="长度表";
+DesignRulesExpander.Superelevation.Text="超高表";
+DesignRulesExpander.Cant.Text="超高表";
+DesignRulesExpander.AttainmentMethods.Text="实现方法";
+DesignRulesExpander.CurveWideningRule.Text="曲线加宽表";
+
+Current="当前值：/P1";
+CurrentSpeed="当前速度：/P1";
+CurrentCategory="当前类别：/P1";
+CurrentERate="当前超高：/P1";
+CurrentCant="当前超高：/P1";
+CurrentCurveWidening="当前加宽：/P1";
+
+DesignRulesExpander.RadiusErrorButton.Tooltip="单击了解更多详细信";
+DesignRulesExpander.AngleTErrorButton.Tooltip="单击了解更多详细信";
+DesignRulesExpander.LengthErrorButton.Tooltip="单击了解更多详细信";
+DesignRulesExpander.GradientErrorButton.Tooltip="单击了解更多详细信";
+DesignRulesExpander.GradientTErrorButton.Tooltip="单击了解更多详细信";
+DesignRulesExpander.SuperelevationErrorButton.Tooltip="单击了解更多详细信";
+DesignRulesExpander.CantErrorButton.Tooltip="单击了解更多详细信";
+DesignRulesExpander.AttainmentMethodsErrorButton.Tooltip="单击了解更多详细信息";
+DesignRulesExpander.CurveWideningErrorButton.Tooltip="单击了解更多详细信息";
+
+Description="描述";
+Description.TooltipShortHelp="描述：
+  %a：来自点自定义的自动描述
+  %s：布点
+  %d：从起点的距离
+  %i：点索引
+  %i：起点索引（大写字母 i）
+  %v：速度（仅在过载时显示）
+  %c：类别（仅在过载时显示）
+  %t：类型（仅在过载时显示）";
+
+DescriptionPointCusto="标签";
+DescriptionPointCusto.TooltipShortHelp="标签：
+  %a：来自点自定义的自动描述
+  %s：桩号
+  %d：与起点的距离
+  %D：与桩号原点的距离
+  %i：点索引
+  %I：起点索引（大写字母 i）
+  %v：速度（仅当过载时才显示）
+  %c：类别（仅当过载时才显示）
+  %t：类型（仅当过载时才显示）
+  %r：第一个事件圆形的半径；
+  %w：道路的宽度（行驶道路 + 路肩）
+  %E：地理定位点的东向位置
+  %N：地理定位点的北向位置";
+
+DescriptionVertical.TooltipShortHelp="标签：
+  %s：桩号
+  %d：与起点的距离
+  %D：与桩号原点的距离
+  %t：类型";
+
+ConnectMasterText="已连接至相交点";
+ConnectSlaveText="已被点参考";
+
+Untype.TooltipShortHelp="单击删除按钮以移除语义类型。";
+
+PkPointParmExpander.ParameterGrid.StationingText.Text="桩号";
+PkPointParmExpander.ParameterGrid.DescriptionText.Text="描述";
+PkPointParmExpander.ParameterGrid.IndexText.Text="索引";
+PkPointParmExpander.ParameterGrid.OutputText.Text="输出";
+PkPointParmExpander.ParameterGrid.EventPointText.Text="显示规格";
+
+Output="输出";
+StationingLabel="站";
+
+
+ParameterGrid.lblParameters.Text="参数";
+ParameterGrid.StationingText.Text="布点";
+ParameterGrid.DescriptionText.Text="描述";
+ParameterGrid.IndexText.Text="索引";
+ParameterGrid.OutputText.Text="输出";
+ParameterGrid.EventPointText.Text="显示规格";
+
+ParameterGrid.EquipmentExpander.Label="设备";
+ParameterGrid.EquipmentExpander.lblEquipmentType.Text="类型";
+
+ParameterGrid.ProfileSpecificationExpander.Label="轮廓规格";
+ParameterGrid.ProfileSpecificationExpander.lblDrainageSemanticType.Text="基础结构";
+
+ParameterGrid.RulesExpander.Label="规则";
+
+General="常规";

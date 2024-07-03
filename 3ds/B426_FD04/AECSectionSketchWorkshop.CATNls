@@ -1,0 +1,16 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// Workshop
+//----------------------------------------------------------------------------
+// [AECSectionSketchWorkshop] @Workshop BEB 17:09:07
+AECSectionSketchWorkshop.Title="典型横截面草图编辑器";
+AECSectionSketchWorkshop.ShortHelp="典型横截面草图编辑器";
+AECSectionSketchWorkshop.Help="典型横截面草图编辑器";
+AECSectionSketchWorkshop.LongHelp="典型横截面草图编辑器";
+
+//----------------------------------------------------------------------------
+// ACTION BAR
+//----------------------------------------------------------------------------
+CrossSectionSection.Title="典型横截面";
+SketcherSection.Title="草图编辑器";
+AnalysisSection.Title="分析";

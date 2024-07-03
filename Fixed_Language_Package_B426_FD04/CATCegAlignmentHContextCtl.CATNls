@@ -1,0 +1,11 @@
+<meta charset="UTF-8"/>
+
+Title="平面线路上下文";
+
+GridMain.txtChooseContext.Text="选择上下文：";
+GridMain.thbRoadContext.Label="巷道";
+GridMain.thbRoadContext.Tooltip="巷道上下文";
+GridMain.thbRailContext.Label="铁路";
+GridMain.thbRailContext.Tooltip="铁路上下文";
+
+Info="以下道路曲面将此铁路线路作为输入。不可能对其进行更新。编辑这些曲面以将其转换为铁路曲面：";

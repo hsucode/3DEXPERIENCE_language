@@ -1,0 +1,4 @@
+<meta charset="UTF-8"/>
+CATCegAlignmentInitCmd.UndoTitle="上下文定义";
+CATCegAlignmentInitCmd.Context.Message="选择上下文";
+CATCegAlignmentInitCmd.Profile.Message="选择轮廓";

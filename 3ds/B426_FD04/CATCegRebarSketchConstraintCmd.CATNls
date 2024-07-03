@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATCegRebarSketchConstraintCmd.Title="钢筋约束";
+CATCegRebarSketchConstraintCmd.UndoTitle="钢筋约束";
+
+CATCegRebarSketchConstraintCmd.InitialState.Message="选择要约束的元素";

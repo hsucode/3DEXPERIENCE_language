@@ -1,0 +1,37 @@
+<meta charset="UTF-8"/>
+Title="横截面点";
+CATCegXSectionPointCmd.Title="横截面 - 点";
+CATCegXSectionPointCmd.UndoTitle="横截面 - 点";
+CATCegXSectionPointCmd.EditPoint.Message="点的编辑";
+
+NonEditable.Title="横截面点编辑";
+NonEditable.Text="您不能编辑内部横截面点。";
+NonEditable.More="此点由横截面输入自动生成。";
+
+//HV Mode
+ReferenceSelection.PointCre_HV="选择参考点。";
+SecondReferenceSelection.PointCre_HV="选择垂直参考点。";
+TargetSelection.PointCre_HV="选择目标曲线。";
+//Slope mode
+ReferenceSelection.PointCre_Slope="选择参考点。";
+TargetSelection.PointCre_Slope="选择目标曲线。";
+//Dist Angle Mode
+ReferenceSelection.PointCre_DistAngle="选择参考点。";
+SecondReferenceSelection.PointCre_DistAngle="为角度参考选择第二个点。";
+TargetSelection.PointCre_DistAngle="选择目标曲线。";
+DirectionSelection.PointCre_DistAngle="选择方向。";
+//Projection Mode
+ReferenceSelection.PointCre_Projection="选择要投影的点。";
+SecondReferenceSelection.PointCre_Projection="选择投影方向的第二个点。";
+TargetSelection.PointCre_Projection="选择投影支持面曲线。";
+DirectionSelection.PointCre_Projection="选择投影方向。";
+//Intersection Mode
+ReferenceSelection.PointCre_StdIntersect="选择要相交的第一个元素。";
+SecondReferenceSelection.PointCre_StdIntersect="选择第一个元素的终点。";
+TargetSelection.PointCre_StdIntersect="选择要相交的第二个元素。";
+DirectionSelection.PointCre_StdIntersect="选择第二个元素的终点。";
+//On curve Mode
+ReferenceSelection.PointCre_OnCurve="选择曲线或直线起点。";
+SecondReferenceSelection.PointCre_OnCurve="选择直线的终点。";
+TargetSelection.PointCre_OnCurve="选择距离参考的终点。";
+DirectionSelection.PointCre_OnCurve="选择距离参考。";

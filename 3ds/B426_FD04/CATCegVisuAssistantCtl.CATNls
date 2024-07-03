@@ -1,0 +1,20 @@
+<meta charset="UTF-8"/>
+Profile.Label="轮廓";
+Profile.Combo0="土方工程";
+Profile.Combo1="道路设计";
+Profile.Combo2="流域分析";
+Profile.Combo3="设备";
+Profile.Combo3="自定义";
+
+
+Scope.Label="范围";
+Boundary.Label="边界";
+Sweep.Label="土方工程拉伸";
+CutWork.Label="挖掘工程";
+MaterialOnWorks.Label="材料工程";
+AsSurface.Texture.Label="纹理";
+AsSurface.Annot.Label="斜坡标注";
+
+NaturalTerrain.Label="自然地形";
+
+ERR_VIEW_REP_OVERLOAD_Missing="选项 /P1 必须处于活动状态。否则，材料复选框将不起作用。您可以在“/P2”命令中进行设置";
